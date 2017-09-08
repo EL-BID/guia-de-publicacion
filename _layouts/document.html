@@ -1,0 +1,75 @@
+{% include header.html %}
+
+<div class="clearfix">
+
+    {% if page.sidebar %}
+    <div class="document-body">
+    {%else%}
+    <div class="document-body full">
+    {% endif %}
+    <h1>{{ page.title }}</h1>
+    <p>
+      {{ page.description }}
+    </p>
+
+    <div class="document-page-details">
+
+      <table class="document-rules">
+
+        <tr>
+          {% if page.requirements %}
+          <th class="label">Requerimientos mínimos</th>
+          {% endif %} {% if page.expected %}
+          <th class="label">Requerimientos deseables</th>
+          {% endif %}
+        </tr>
+
+        <tr>
+          {% if page.requirements %}
+          <td>
+            <ul class="document-permissions">
+
+              {% for requirement in page.requirements %}
+
+              <li class="commercial-use">
+                <span class="document-sprite"></span> {{ requirement }}
+              </li>
+
+              {% endfor %}
+            </ul>
+          </td>
+          {% endif %} {% if page.expected %}
+          <td>
+            <ul class="document-conditions">
+
+              {% for expected in page.expected %}
+
+              <li class="commercial-use">
+                <span class="document-sprite"></span> {{ expected }}
+              </li>
+
+              {% endfor %}
+            </ul>
+          </td>
+          {% endif %}
+        </tr>
+
+
+
+
+      </table>
+
+    </div>
+
+    <div class="content">
+      {{ page.content }}
+    </div>
+  </div>
+  <!-- /document-body -->
+
+  {% include sidebar.html %}
+
+</div>
+<!-- /clearfix -->
+
+{% include footer.html %}

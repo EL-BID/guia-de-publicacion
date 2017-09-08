@@ -1,0 +1,49 @@
+---
+title: Guía para publicar herramientas digitales
+description: Código para el Desarrollo te permite compartir tu herramienta digital para que gobiernos y ciudadanos puedan utilizarlo para solucionar problemas de desarrollo. 
+relative_permalinks: false
+markdown: kramdown
+url: "https://jairoanaya.github.io/guia-de-publicacion"
+
+collections:
+  documents:
+    output: true
+    permalink: /documents/:path/
+  
+defaults:
+  -
+    scope:
+      path: ""
+      type: "documents"
+    values:
+      hidden: true
+      layout: document
+ 
+
+exclude:
+  - app.coffee
+  - CNAME
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - Rakefile
+  - README.md
+  - script
+  - vendor/bundle
+  - test
+  - tests
+  - assets/vendor/selectivizr/tests
+  - assets/vendor/clipboard/test
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-coffeescript
+
+sass:
+    style: :compressed
+
+twitter:
+  username: "@github"

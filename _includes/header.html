@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- check upload -->
+    {%if site.github %}
+      <link rel="stylesheet" href="/guia-de-publicacion/assets/css/application.css?v={{ site.github.build_revision }}">
+      <link rel="shortcut icon" href="/guia-de-publicacion/favicon.ico" type="image/x-icon">
+      <link rel="stylesheet" href="/guia-de-publicacion/assets/css/font-awesome.min.css">
+    {% else %}
+      <link rel="stylesheet" href="/assets/css/application.css?v={{ site.github.build_revision }}">
+      <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+      <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
+    {% endif %}
+    
+ 
+    <!--[if lt IE 9]>
+    <script src="/assets/vendor/html5shiv/dist/html5shiv.js"></script>
+    <script src="/assets/vendor/selectivizr/selectivizr.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    {% seo %}
+  </head>
+  <body class="{{ page.layout }}{% if page.class %} {{ page.class }}{% endif %}">
+    <div class="container">
+
+      {% include breadcrumbs.html %}
+
+      {% if page.layout=='default' %}
+      {% if page.title %}
+        <h1>{{ page.title | markdownify | strip_html | strip_newlines }}</h1>
+      {% endif %}
+      {% endif %}
