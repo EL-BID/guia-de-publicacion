@@ -60,7 +60,7 @@ Documentación más extensa dirigida al usuario final puede ir en documentos apa
 
 ### ¿Existe una plantilla de un archivo README.md?
 El proyecto Código para el Desarrollo dispone de una plantilla para que uses como punto de partida.
-Plantilla README.md
+[Plantilla README.md](https://github.com/EL-BID/Plantilla-de-repositorio)
 
 
 
@@ -71,7 +71,7 @@ Plantilla README.md
 
 Descripción de las funcionalidades, el contexto donde fue desarrollado y los problemas de desarrollo que ayudó a resolver.
 
-:**Guía de usuario**
+*   **Guía de usuario**
 
 Paso a paso dirigido al usuario final sobre cómo empezar a usar la herramienta digital. Si esta información es demasiado extensa, puede ir en un documento aparte, pero es una buena práctica nombrarlo en la documentación.
 
@@ -86,7 +86,7 @@ Mención a algún punto de contacto de los autores originales. Esto evita perder
 
 *	**Licencia**
 
-Permisos que se otorgan a terceros para reutilizar la herramienta digital. El archivo con la licencia como tal debe estar en un archivo llamado license.txt o licencia.txt. [Este enlace](https://choosealicense.com/) (en inglés) te puede ayudar a saber qué licencia otorgar a tu herramienta digital. Más información en [link a sección de licencia]
+Permisos que se otorgan a terceros para reutilizar la herramienta digital. El archivo con la licencia como tal debe estar en un archivo llamado license.txt o licencia.txt. [Este enlace](https://choosealicense.com/) (en inglés) te puede ayudar a saber qué licencia otorgar a tu herramienta digital. Más información en [la sección de licenciamiento](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/)
 
 Si la herramienta contiene componentes de terceros con distintas licencias, este es el lugar para especificarlos. Ejemplo:
 
