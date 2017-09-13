@@ -19,8 +19,8 @@ sidebar: Código para el Desarrollo es el repositorio para consolidar en un solo
 note: Si eres empleado del BID y estas trabajando con código, en la sección de <a href="https://github.com/EL-BID/Licencia-BID/blob/master/Licencia.md">Soy empleado del BID</a> encontrarás información relevante.
 
 links:
-- <a href="https://github.com/EL-BID/Licencia-BID/blob/master/Licencia.md">Licencia BID</a>
-- <a href="https://choosealicense.com/">Elegir licencia</a>
+- <a href="https://github.com/EL-BID/Licencia-BID/blob/master/Licencia.md" target="_blank">Licencia BID</a>
+- <a href="https://choosealicense.com/" target="_blank">Elegir licencia</a>
 
 ---
 
@@ -34,7 +34,7 @@ Las licencias más comunes son: MIT, la cual da libertad a otros usuarios siemp
 
 ## ¿Qué licencia debo elegir para mi herramienta digital?
 
-Depende mucho del caso y del uso que quieres que se le dé a la herramienta digital. La página [Choosealicense.com](https://choosealicense.com/) (en inglés) es una página que te ayuda a elegir de manera sencilla la licencia que más se adecua a tu caso. 
+Depende mucho del caso y del uso que quieres que se le dé a la herramienta digital. La página <a href="https://choosealicense.com/" target="_blank">choosealicense.com</a> (en inglés) es una página que te ayuda a elegir de manera sencilla la licencia que más se adecua a tu caso. 
 En caso de tratarse de una herramienta digital financiada por el BID, esta deberá tener una licencia BID, a no ser que se especifique lo contrario en el contrato.
 
 
@@ -55,7 +55,8 @@ Para licenciar una herramienta digital es necesario copiar el texto de la licenc
 
 Según el tipo de licencia utilizada será necesario cambiar la fecha u otra información adicional del texto o añadir un texto adicional al inicio de cada archivo, como en el caso de las licencias de Free Software Foundation.
 
-Si estas usando un repositorio de Github, el sistema te permite crear una licencia partiendo de una de las plantillas de las licencias más comunes. (Más información aquí)
+Si estas usando un repositorio de Github, el sistema te permite crear una licencia partiendo de una de las plantillas de las licencias más comunes. Más información <a href="https://help.github.com/articles/adding-a-license-to-a-repository/" target="_blank">aquí</a>
+
 
 
 
