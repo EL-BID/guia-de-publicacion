@@ -88,7 +88,7 @@ El contenido de este proyecto en sí está licenciado bajo Creative Commons Attr
 
 ## Atribuciones
 
-Esta aplicación proviene de la aplicación Choosealicence.com (ver créditos) y está construida sobre Jekkyls
+Esta aplicación proviene de la aplicación Choosealicence.com (ver créditos) y está construida sobre Jekyll.
 
 ## Créditos
 
