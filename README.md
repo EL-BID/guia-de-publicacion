@@ -4,9 +4,9 @@
 
 ## Descripción y contexto
 
-Los gobiernos de todo el mundo invierten cada año millones de dólares en software y en herramientas digitales para simplificar los trámites administrativos, luchar contra el cambio climático, fortalecer la atención sanitaria y mejorar nuestra calidad de vida. Pero, ¿qué pasaría si esas herramientas digitales fuesen además abiertas para ser compartidas y adaptadas a nuevos usos?
+La Guía para Publicar Herramientas digitales es una página web estática que usa la tecnología Jekyll y está alojada en Github. Su contenido sirve para que cualquier desarrollador la use como un recurso de fácil acceso con información centralizada sobre cómo desarrollar herramientas digitales que puedan ser usadas, reutilizadas y adaptadas por otros gobiernos y ciudadanos.
 
-Queremos guiarte en cómo publicar tu código en los repositorios del BID.
+Puedes adaptar este repositorio si quieres crear una página web estática alojada en Github. Esta plantilla tiene la ventaja que puede ser modificada desde el entorno de github.com sin necesidad de compilar el archivo jekyll, lo que lo convierte en una herramienta con mucho valor para usuarios no tan experimentados.
 
 ## Guía de instalación
 
@@ -43,7 +43,7 @@ Cambios, escribe un mensaje de confirmación y haz clic en el botón que acepta 
 
 Para hacer cambios al repositorio del BID necesitas proponer los cambios vía “fork”.
 
-#Agregar un idioma
+## Agregar un idioma
 
 La plataforma es flexible para agregar un idioma. Por defecto el contenido esta en español. Hemos agregado la versión en ingles "en", para acceder y editar los contenidos en este idioma debes ubicar las carpetas "en" que se encuentran en la raíz, `/_documents` y `/_documents/pages`. Se deben mantener los mismos nombres de archivos de la version español para asegurar la compatibilidad entre distintos idiomas. 
 
