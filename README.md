@@ -1,5 +1,5 @@
 # Guía para Publicar herramientas digitales
-**Read this document in [english](https://github.com/EL-BID/guia-de-publicacion/blob/master/REAMDE_en.md)**
+*Read this document in [english](https://github.com/EL-BID/guia-de-publicacion/blob/master/REAMDE_en.md)*
 ## Descripción y contexto
 
 La Guía para Publicar Herramientas digitales es una página web estática que usa la tecnología Jekyll y está alojada en Github. Su contenido sirve para que cualquier desarrollador la use como un recurso de fácil acceso con información centralizada sobre cómo desarrollar herramientas digitales que puedan ser usadas, reutilizadas y adaptadas por otros gobiernos y ciudadanos.
