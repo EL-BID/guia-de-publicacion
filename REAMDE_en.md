@@ -2,9 +2,9 @@
 
 ## Description and Context
 
-Governments around the world spend millions of dollars every year on software and digital tools to simplify administrative procedures, fight against climate change, strengthen health care and improve our quality of life. But what if those digital tools were also open to being shared and adapted to new uses? That is the main goal of Código para el desarrollo.
+The Guide to Publishing Digital Tools is a static web page that uses Jekyll technology and is hosted on Github. Its content is for any developer to use as an easily accessible resource with centralized information on how to develop digital tools that can be used, reused and adapted by other governments and citizens.
 
-We want to guide you how to publish your code in the IDB repositories.
+You can adapt this repository if you want to create a static web page hosted by Github. This template has the advantage that it can be modified from the environment of github.com without compiling the jekyll file, which makes it a valuable tool for not so experienced users.
 
 ## Installation Guide
 
