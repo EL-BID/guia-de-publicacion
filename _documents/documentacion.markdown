@@ -34,10 +34,10 @@ links:
 La Documentación de una herramienta digital es la puerta de entrada para que otros desarrolladores puedan instalar, reutilizar la herramienta digital. Es importante hacer un esfuerzo por documentar lo más claro y conciso posible.
 La documentación de una herramienta digital debe dar respuesta a las siguientes preguntas:
 
-    + ¿Qué hace la herramienta digital?
-    + ¿Cómo funciona?
-    + ¿Cómo puedo volver a instalar la herramienta digital?
-    + ¿Bajo qué términos puedo usar esta herramienta?
+* ¿Qué hace la herramienta digital?
+* ¿Cómo funciona?
+* ¿Cómo puedo volver a instalar la herramienta digital?
+* ¿Bajo qué términos puedo usar esta herramienta?
 
 
 
