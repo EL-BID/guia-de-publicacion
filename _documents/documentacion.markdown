@@ -49,21 +49,19 @@ Debe dar respuesta a las siguientes preguntas:
 Descripción de las funcionalidades, el contexto donde fue desarrollado y los problemas de desarrollo que ayudó a resolver.
 
 *   **Guía de usuario**
-
 Paso a paso dirigido al usuario final sobre cómo empezar a usar la herramienta digital. Si esta información es demasiado extensa, puede ir en un documento aparte, pero es una buena práctica nombrarlo en la documentación.
 
 *	**Guía de instalación**
-
 Instrucciones de instalación para reutilizar y configurar la herramienta digital. Esta sección está dirigida a desarrolladores.
 En otra sub-sección, se deben especificar las dependencias de otras herramientas digitales (librerías, frameworks, acceso a bases de datos y licencias de cada recurso), en caso de ser necesario.
 
 *	**Autores**
-
-Mención a algún punto de contacto de los autores originales. Esto evita perder el rastro al creador de la herramienta
+Sección para dar créditos a los colaboradores de la herramienta.
 
 *	**Licencia**
+Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. 
 
-Permisos que se otorgan a terceros para reutilizar la herramienta digital. El archivo con la licencia como tal debe estar en un archivo llamado license.txt o licencia.txt. [Este enlace](https://choosealicense.com/) (en inglés) te puede ayudar a saber qué licencia otorgar a tu herramienta digital. Más información en [la sección de licenciamiento](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/)
+[En este enlace](https://choosealicense.com/) (en inglés) te puede ayudar a saber qué licencia otorgar a tu herramienta digital. Más información en [la sección de licenciamiento](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/)
 
 Si la herramienta contiene componentes de terceros con distintas licencias, este es el lugar para especificarlos. Ejemplo:
 
