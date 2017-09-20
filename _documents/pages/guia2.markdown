@@ -1,12 +1,12 @@
 ---
 title: Conoce más la iniciativa Código para el Desarrollo (about)
-spdx-id: guia
-nickname: guia
+spdx-id: guia2
+nickname: guia2
 source: 
 lang: es
 
 ---
-Los gobiernos de todo el mundo invierten cada año millones de dólares en software y en herramientas digitales para  simplificar los trámites administrativos, luchar contra el cambio climático, fortalecer la atención sanitaria y mejorar nuestra calidad de vida. Pero, ¿qué pasaría si esas herramientas digitales fuesen además abiertas para ser compartidas y adaptadas a nuevos usos?
+Los gobiernos, de todo el mundo invierten cada año millones de dólares en software y en herramientas digitales para  simplificar los trámites administrativos, luchar contra el cambio climático, fortalecer la atención sanitaria y mejorar nuestra calidad de vida. Pero, ¿qué pasaría si esas herramientas digitales fuesen además abiertas para ser compartidas y adaptadas a nuevos usos?
 
 Con este objetivo nace Código para el Desarrollo, una iniciativa del Banco Interamericano de Desarrollo que permite explorar y reutilizar herramientas digitales de código abierto, que pueden ser utilizadas en la implementación de programas y proyectos para el desarrollo económico y social de los países de América Latina y el Caribe.
 
