@@ -1,22 +1,24 @@
 ---
-title: Conoce más la iniciativa Código para el Desarrollo (about)
+title: Términos y Condiciones de la Expedición de Código
 spdx-id: terminos
 nickname: terminos
 source: 
 lang: es
 
 ---
-Los gobiernos, de todo el mundo invierten cada año millones de dólares en software y en herramientas digitales para  simplificar los trámites administrativos, luchar contra el cambio climático, fortalecer la atención sanitaria y mejorar nuestra calidad de vida. Pero, ¿qué pasaría si esas herramientas digitales fuesen además abiertas para ser compartidas y adaptadas a nuevos usos?
 
-Con este objetivo nace Código para el Desarrollo, una iniciativa del Banco Interamericano de Desarrollo que permite explorar y reutilizar herramientas digitales de código abierto, que pueden ser utilizadas en la implementación de programas y proyectos para el desarrollo económico y social de los países de América Latina y el Caribe.
+(Texto en desarrollo)
 
-En este sitio, podrás conocer distintos tipos de herramientas digitales utilizadas en proyectos de desarrollo. Los usuarios más avanzados y los desarrolladores podrán también descargar el código fuente almacenado en la cuenta del BID en la plataforma GitHub y crear nuevas versiones adaptadas a las necesidades de cada uno.  
+# TÉRMINOS Y CONDICIONES DE LA EXPEDICIÓN
+1.	Al participar en la Expedición, el participante acepta de forma completa e íntegra estos términos y condiciones, incluyendo cualquier modificación que se pueda realizar en el futuro. La versión actualizada de estos términos y condiciones estará disponible en [INCLUIR VÍNCULO]. El BID notificará a los participantes por correo electrónico de cualquier modificación.
 
-El software es una herramienta fundamental para el diseño e implementación de proyectos y programas. Con Código para el Desarrollo, el BID busca consolidar su compromiso con el uso y promoción del conocimiento abierto, así como acelerar el diálogo sobre cómo la tecnología puede impulsar el desarrollo de América Latina y el Caribe.
+## Requisitos para la Presentación de Propuestas
+2.	Requisitos para el participante. La Expedición está abierta a los individuos que sean ciudadanos de un país miembro del BID en América Latina y el Caribe, así como a agencias o entidades gubernamentales  y organizaciones civiles provenientes de dichos países . 
+3.	Requisitos de las Herramientas Digitales propuestas:
 
-### ¿Quieres colaborar?
-
-Código para el Desarrollo te permite compartir tu herramienta digital para que gobiernos y ciudadanos puedan utilizarlo para solucionar problemas de desarrollo.
-Si tienes una herramienta digital con potencial de brindar apoyo a los objetivos del desarrollo y además  cumple con los requisitos necesarios de documentación, publicación y licenciamiento para que otros la puedan reutilizar, comparte tu herramienta digital a través de [este link](http://code.iadb.org/es/comparte-tu-codigo).
-
-Si tienes preguntas sobre esta iniciativa o necesitas más información sobre cómo compartir tu herramienta digital, escríbenos a code(at)@iadb.org.
+-  Los participantes podrán presentar propuestas de aplicaciones, algoritmos y/u hojas de cálculo (en su conjunto, las “Herramientas Digitales”) sobre las que cuenten con los derechos de propiedad y autoría.
+- Sólo se permite proponer [X] Herramienta[s] Digital[es] por participante .
+- Todo material presentado por el participante deberá estar en inglés, español, portugués o francés .
+- Únicamente se considerarán Herramientas Digitales en formato [xxxxx] 
+4.	Requisitos de propiedad intelectual y autoría.  Al presentar una propuesta, el participante certifica que es el único dueño de los derechos de propiedad y autoría de la[s] Herramienta[es] Digital[es] y que ésta[s] no infringe[n] derechos de terceros, incluidos los derechos de propiedad intelectual. El BID podrá requerir al participante que proporcione evidencia de tal propiedad. En caso de no hacerlo, la propuesta podrá ser descalificada.
+5.	Información general requerida y consentimiento. Para participar, el participante debe proporcionar de forma completa y veraz la información requerida en el formulario de la Expedición. Al presentar la propuesta, el participante acepta todos los términos y condiciones. Esto incluye la autorización en favor del BID para incluir la referencia a la Herramienta Digital, como se indica en la sección [x] de estos términos y condiciones.
