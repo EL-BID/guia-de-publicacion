@@ -1,6 +1,6 @@
 ---
 title: Términos y condiciones de la Expedición de Código
-spdx-id: Terminos
+spdx-id: terminos
 nickname: Terminos y condiciones
 source: 
 lang: es
