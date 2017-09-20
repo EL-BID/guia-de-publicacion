@@ -5,7 +5,7 @@ nickname: Documentación
 source: 
 lang: es
 
-description: El archivo README.md contiene toda la información o referencias sobre la documentación. Será la puerta de entrada para que nuevos usuarios y desarrolladores usen, reutilicen o adapten la herramienta digital. Revisa los requerimientos necesarios de documentación antes de publicar.
+description: La documentación es la sección que presenta la herramienta. Esta se encarga de explicar qué es, cómo se usa y cómo la puedes reutilizar o adaptar. El archivo principal es el README.md, donde debe estar referenciada toda la documentación. Asegúrate de que las herramienta tenga las condiciones necesarias de documentación para aumentar su potencial de reutilización.
 
 requirements:
 - Descripción y contexto
@@ -31,8 +31,8 @@ links:
 
 ---
 ## ¿Para qué sirve la documentación?
-La Documentación de una herramienta digital es la puerta de entrada para que otros desarrolladores puedan instalar, reutilizar la herramienta digital. Es importante hacer un esfuerzo por documentar lo más claro y conciso posible.
-La documentación de una herramienta digital debe dar respuesta a las siguientes preguntas:
+La Documentación de una herramienta digital es la puerta de entrada para que otros desarrolladores puedan usar, reutilizar y adaptar la herramienta digital. Un esfuerzo por documentar claro y conciso aumentará los casos en que la herramienta sea reutilizada.
+Debe dar respuesta a las siguientes preguntas:
 
 * ¿Qué hace la herramienta digital?
 * ¿Cómo funciona?
@@ -43,30 +43,7 @@ La documentación de una herramienta digital debe dar respuesta a las siguientes
 
 
 
-## ¿A quién va dirigida la documentación?
-La audiencia principal de la documentación son desarrolladores. No obstante, la sección de la guía de usuario va dirigida a los usuarios finales de la herramienta. Si esta sección es muy compleja, es una buena práctica dedicar un documento específico para esto. Aunque en el archivo Readme se debe especificar la existencia de esta documentación extra.
-
-
-
-
-
-## ¿Dónde se guarda y qué formato debo utilizar?
-Este tipo de documentación dirigida a desarrolladores normalmente se guarda en un archivo con el nombre README.md. Debe estar visible en la carpeta principal de la herramienta digital y en formato markdown. 
-Documentación más extensa dirigida al usuario final puede ir en documentos aparte, aunque siempre en una buena práctica nombrarlos en el README.md
-
-
-
-
-
-### ¿Existe una plantilla de un archivo README.md?
-El proyecto Código para el Desarrollo dispone de una plantilla para que uses como punto de partida.
-[Plantilla README.md](https://github.com/EL-BID/Plantilla-de-repositorio)
-
-
-
-
-
-## ¿Qué secciones son necesarias?
+## ¿Qué información debo incluir?
 * **Descripción y contexto**
 
 Descripción de las funcionalidades, el contexto donde fue desarrollado y los problemas de desarrollo que ayudó a resolver.
@@ -90,7 +67,24 @@ Permisos que se otorgan a terceros para reutilizar la herramienta digital. El ar
 
 Si la herramienta contiene componentes de terceros con distintas licencias, este es el lugar para especificarlos. Ejemplo:
 
-*Esta herramienta digital incluye comonentes de código abierto de terceros: X, Y y Z. Cada uno de estos componentes tiene su propia licencia. Por favor consulta ./X/License.txt, ./Y/License.txt y ./Z/License.txt*
+*Esta herramienta digital incluye comonentes de código abierto de terceros: X, Y y Z. Cada uno de estos componentes tiene su propia licencia. Por favor consulta ./X/License.txt, ./Y/License.txt y ./Z/License.txt*## ¿A quién va dirigida la documentación?
+La audiencia principal de la documentación son desarrolladores. No obstante, la sección de la guía de usuario va dirigida a los usuarios finales de la herramienta. Si esta sección es muy compleja, es una buena práctica dedicar un documento específico para esto. Aunque en el archivo Readme se debe especificar la existencia de esta documentación extra.
+
+
+
+
+
+## ¿Dónde se guarda y qué formato debo utilizar?
+Este tipo de documentación dirigida a desarrolladores normalmente se guarda en un archivo con el nombre README.md. Debe estar visible en la carpeta principal de la herramienta digital y en formato markdown. 
+Documentación más extensa dirigida al usuario final puede ir en documentos aparte, aunque siempre en una buena práctica nombrarlos en el README.md
+
+
+
+
+
+### ¿Existe una plantilla de un archivo README.md?
+El proyecto Código para el Desarrollo dispone de una plantilla para que uses como punto de partida.
+[Plantilla README.md](https://github.com/EL-BID/Plantilla-de-repositorio)
 
 
 
