@@ -1,7 +1,7 @@
 ---
 title: Conoce más la iniciativa Código para el Desarrollo (about)
-spdx-id: guia2
-nickname: guia2
+spdx-id: terminos
+nickname: terminos
 source: 
 lang: es
 
