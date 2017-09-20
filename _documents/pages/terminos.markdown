@@ -9,7 +9,7 @@ lang: es
 
 (Texto en desarrollo)
 
-1.	Al participar en la Expedición, el participante acepta de forma completa e íntegra estos términos y condiciones, incluyendo cualquier modificación que se pueda realizar en el futuro. La versión actualizada de estos términos y condiciones estará disponible en https://el-bid.github.io/guia-de-publicacion/documents/pages/terminos/. El BID notificará a los participantes por correo electrónico de cualquier modificación.
+1.	Al participar en la Expedición, el participante acepta de forma completa e íntegra estos términos y condiciones, incluyendo cualquier modificación que se pueda realizar en el futuro. La versión actualizada de estos términos y condiciones estará disponible en [este link](https://el-bid.github.io/guia-de-publicacion/documents/pages/terminos/). El BID notificará a los participantes por correo electrónico de cualquier modificación.
 
 ## Requisitos para la Presentación de Propuestas
 2.	Requisitos para el participante. La Expedición está abierta a los individuos que sean ciudadanos de un país miembro del BID en América Latina y el Caribe, así como a agencias o entidades gubernamentales  y organizaciones civiles provenientes de dichos países . 
