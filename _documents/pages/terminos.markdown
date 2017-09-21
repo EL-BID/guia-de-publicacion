@@ -11,7 +11,7 @@ lang: es
 
 ## Requisitos para la Nominación de Herramientas Digitales
 
-2. Requisitos para el participante. La Expedición está abierta a los individuos que sean nacionales de un país miembro del BID, así como a agencias o entidades gubernamentales, organizaciones civiles y entidades privadas provenientes de dichos países.
+**2. Requisitos para el participante.** La Expedición está abierta a los individuos que sean nacionales de un país miembro del BID, así como a agencias o entidades gubernamentales, organizaciones civiles y entidades privadas provenientes de dichos países.
 Los participantes reconocen que la preselección o selección final de sus Herramientas Digitales no resultará en ninguna compensación de cualquier naturaleza por parte del BID ni en la recomendación o preferencia del uso de la Herramienta Digital.
 Los empleados y consultores del BID podrán participar en la Expedición, siempre y cuando dicha participación esté en conformidad con estos términos y condiciones, así como con las políticas aplicables del BID.
 
@@ -22,10 +22,10 @@ Los empleados y consultores del BID podrán participar en la Expedición, siempr
 * Todo material presentado por el participante deberá estar en inglés, español, portugués o francés.
 * Las Herramientas Digitales podrán estar en cualquier lenguaje de programación. 
 
-4. Información general requerida y consentimiento. Para participar, el participante debe proporcionar de forma completa y veraz la información requerida en el formulario de la Expedición (el “formulario”). Al presentar la propuesta, el participante acepta todos los términos y condiciones. 
+**4. Información general requerida y consentimiento.** Para participar, el participante debe proporcionar de forma completa y veraz la información requerida en el formulario de la Expedición (el “formulario”). Al presentar la propuesta, el participante acepta todos los términos y condiciones. 
 El participante podrá realizar nominaciones de Herramientas Digitales sobre la cuales no tenga derechos de propiedad y autoría. En tal caso, el participante deberá manifestarlo de forma expresa en el formulario, proporcionando información completa y veraz sobre la identidad e información de contacto del presunto dueño de los derechos de propiedad y autoría de la Herramienta Digital, según su saber y entender.
 
-5. Requisitos de propiedad intelectual y autoría. Al presentar una nominación, el participante certifica que la información proporcionada sobre la propiedad intelectual y autoría de la Herramienta Digital es completa y veraz, según su saber y entender. 
+**5. Requisitos de propiedad intelectual y autoría.** Al presentar una nominación, el participante certifica que la información proporcionada sobre la propiedad intelectual y autoría de la Herramienta Digital es completa y veraz, según su saber y entender. 
 
 6. Crédito. El BID podrá publicar en la página web code.iadb.org el nombre del participante, así como una breve descripción y, cuando sea aplicable, el logo o imagen de la Herramienta Digital. El contenido de la descripción y cualquier otro aspecto sobre esta provisión estará sujeto a las políticas del BID. El BID podrá remover en cualquier momento la Herramienta Digital de su página web, ya sea de forma temporal o permanente, sin necesidad de justificar ni informar de la decisión al participante.
 
