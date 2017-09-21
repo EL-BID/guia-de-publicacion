@@ -7,40 +7,52 @@ lang: es
 
 ---
 
-1.	A continuación, se detallan los términos y condiciones de la Expedición de Código para el Desarrollo (en adelante la “Expedición”). Al participar en la Expedición, el participante acepta de forma completa e íntegra estos términos y condiciones, incluyendo cualquier modificación que se pueda realizar en el futuro. La versión actualizada de estos términos y condiciones estará disponible en https://el-bid.github.io/guia-de-publicacion/documents/pages/terminos. 
+1. A continuación, se detallan los términos y condiciones de la Expedición de Código para el Desarrollo (en adelante la “Expedición”). Al participar en la Expedición, el participante acepta de forma completa e íntegra estos términos y condiciones, incluyendo cualquier modificación que se pueda realizar en el futuro. La versión actualizada de estos términos y condiciones estará disponible en https://el-bid.github.io/guia-de-publicacion/documents/pages/terminos. 
 
 ## Requisitos para la Nominación de Herramientas Digitales
 
 2. Requisitos para el participante. La Expedición está abierta a los individuos que sean nacionales de un país miembro del BID, así como a agencias o entidades gubernamentales, organizaciones civiles y entidades privadas provenientes de dichos países.
 Los participantes reconocen que la preselección o selección final de sus Herramientas Digitales no resultará en ninguna compensación de cualquier naturaleza por parte del BID ni en la recomendación o preferencia del uso de la Herramienta Digital.
 Los empleados y consultores del BID podrán participar en la Expedición, siempre y cuando dicha participación esté en conformidad con estos términos y condiciones, así como con las políticas aplicables del BID.
+
 3.	Requisitos para la Nominación de Herramientas Digitales:
 
--  Los participantes podrán presentar propuestas de aplicaciones, algoritmos y/u hojas de cálculo (cada una la “Herramienta Digital” y, en su conjunto, las “Herramientas Digitales”).
-- Sólo se podrá nominar una Herramienta Digital por formulario, pero se entiende que una Herramienta Digital puede estar compuesta por varias Herramientas Digitales.
-- Todo material presentado por el participante deberá estar en inglés, español, portugués o francés.
-- Las Herramientas Digitales podrán estar en cualquier lenguaje de programación. 
+* Los participantes podrán presentar propuestas de aplicaciones, algoritmos y/u hojas de cálculo (cada una la “Herramienta Digital” y, en su conjunto, las “Herramientas Digitales”).
+* Sólo se podrá nominar una Herramienta Digital por formulario, pero se entiende que una Herramienta Digital puede estar compuesta por varias Herramientas Digitales.
+* Todo material presentado por el participante deberá estar en inglés, español, portugués o francés.
+* Las Herramientas Digitales podrán estar en cualquier lenguaje de programación. 
+
 4.	Información general requerida y consentimiento. Para participar, el participante debe proporcionar de forma completa y veraz la información requerida en el formulario de la Expedición (el “formulario”). Al presentar la propuesta, el participante acepta todos los términos y condiciones. 
 El participante podrá realizar nominaciones de Herramientas Digitales sobre la cuales no tenga derechos de propiedad y autoría. En tal caso, el participante deberá manifestarlo de forma expresa en el formulario, proporcionando información completa y veraz sobre la identidad e información de contacto del presunto dueño de los derechos de propiedad y autoría de la Herramienta Digital, según su saber y entender.
+
 5.	Requisitos de propiedad intelectual y autoría. Al presentar una nominación, el participante certifica que la información proporcionada sobre la propiedad intelectual y autoría de la Herramienta Digital es completa y veraz, según su saber y entender. 
+
 6.	Crédito. El BID podrá publicar en la página web code.iadb.org el nombre del participante, así como una breve descripción y, cuando sea aplicable, el logo o imagen de la Herramienta Digital. El contenido de la descripción y cualquier otro aspecto sobre esta provisión estará sujeto a las políticas del BID. El BID podrá remover en cualquier momento la Herramienta Digital de su página web, ya sea de forma temporal o permanente, sin necesidad de justificar ni informar de la decisión al participante.
+
 7.	Plazo para la presentación de nominaciones. El participante debe presentar su nominación antes del 15 de octubre de 2017, a las 11:59pm, hora de Washington, Distrito de Columbia, Estados Unidos, completando el formulario de la Expedición disponible en code.iadb.org/share-your-code, así como considerando y aceptando estos términos y condiciones.
 El BID podrá, a su discreción, ampliar el plazo para la presentación de nominaciones. En tal caso, el BID publicará el nuevo plazo en la página web code.iadb.org/share-your-code.
-Proceso de Identificación de Herramientas Digitales y Notificación
+
+## Proceso de Identificación de Herramientas Digitales y Notificación
+
 8.	El proceso de identificación de Herramientas Digitales se llevará a cabo en dos etapas, la primera será de preselección y la segunda de selección final. El Comité de Selección estará a cargo de ambas. 
+
 9.	Composición y funciones del Comité de Evaluación. El BID nombrará a 6 miembros para el Comité de Evaluación, quienes serán empleados y consultores del BID con experiencia y conocimiento sobre la gestión de conocimiento abierto, tecnología y comunicaciones. 
 El Comité de Evaluación estará autorizados para resolver cualquier situación relacionada con la Expedición que no cumpla con las reglas establecidas o que no haya sido contemplado en estos términos y condiciones.
+
 10.	Requisitos para la consideración del Comité de Evaluación. Antes de remitir las propuestas de Herramientas Digitales al Comité de Evaluación, el BID removerá cualquier Herramienta Digital que:
 -	No cumplan con los términos y condiciones de la Expedición;
 -	Promuevan cualquier tipo de proselitismo político y/o religioso;
 -	Ilustren conductas o expresiones vulgares, o cuyo contenido se considere indecente u obsceno;
 -	Utilicen contenido que pueda ser considerado difamatorio, calumnioso o injurioso; o
 -	Utilicen contenido que promueva la intolerancia, el racismo, el odio o daño contra cualquier grupo o individuo, o la discriminación por motivos de raza, sexo, religión, nacionalidad, discapacidad, orientación sexual o edad.
+
 11.	Inelegibilidad de las Herramientas Digitales. El Comité de Evaluación no considerará ninguna nominación recibida después del vencimiento del plazo para la presentación de nominaciones, que no cumpla con cualquiera de los requisitos explícitamente indicados en estos términos y condiciones, o que sea considerado inelegible por el BID o por el Comité de Evaluación.
 El Comité de Evaluación podrá solicitar información adicional o aclaraciones sobre la Herramienta Digital a fin de determinar su elegibilidad bajo estos términos y condiciones.
+
 12.	Resultados de la Preselección. El BID notificará a más tardar el 17 de noviembre de 2017 a los participantes cuyas nominaciones hayan sido preseleccionadas, a través de la dirección de correo electrónico que hayan proporcionado en el formulario de la Expedición.
 Si la Herramienta Digital fue nominada por una tercera parte, el BID notificará a quien haya sido identificado como dueño de la Herramienta Digital a través del correo electrónico proporcionado en el formulario o que pueda obtener través de sus propios esfuerzos. 
 En caso de que el BID extienda el plazo para la presentación de postulaciones bajo la sección 7 de estos términos y condiciones, la fecha de notificación de preselección será modificada, según sea aplicable.
+
 13.	Los participantes cuyas Herramientas Digitales hayan sido preseleccionadas deberán hacer llegar al BID una declaración (la “declaración”) en la que certifiquen:
 -	Que son nacionales de un país miembro del BID o, en el caso de agencias o entidades gubernamentales, organizaciones civiles y entidades privadas, que sean provenientes de dichos países;
 -	Que tienen 18 años de edad o más.
