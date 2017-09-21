@@ -7,6 +7,10 @@ lang: es
 
 ---
 
+*"Es su responsabilidad entender completamente los términos y condiciones que usted aceptará de manera automática al proponer una herramienta para la Expedición. Si usted no habla español lo suficientemente bien como para entender los términos y condiciones por su cuenta, es su responsabilidad de obtener la asistencia necesaria para poder entenderlos".*
+
+*“It is your responsibility to fully understand the terms and conditions you will automatically be agreeing to by nominating a tool for the Expedition. If you do not speak Spanish sufficiently well to understand the terms and conditions on your own, it is your responsibility to obtain the assistance necessary to be able to.”*
+
 1. A continuación, se detallan los términos y condiciones de la Expedición de Código para el Desarrollo (en adelante la “Expedición”). Al participar en la Expedición, el participante acepta de forma completa e íntegra estos términos y condiciones, incluyendo cualquier modificación que se pueda realizar en el futuro. La versión actualizada de estos términos y condiciones estará disponible en https://el-bid.github.io/guia-de-publicacion/documents/pages/terminos. 
 
 ## Requisitos para la Nominación de Herramientas Digitales
