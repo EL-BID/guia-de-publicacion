@@ -45,7 +45,6 @@ Debe dar respuesta a las siguientes preguntas:
 
 ## ¿Qué información debo incluir?
 * **Descripción y contexto**
-
 Descripción de las funcionalidades, el contexto donde fue desarrollado y los problemas de desarrollo que ayudó a resolver.
 
 *   **Guía de usuario**
@@ -61,11 +60,17 @@ Sección para dar créditos a los colaboradores de la herramienta.
 *	**Licencia**
 Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. 
 
-[En este enlace](https://choosealicense.com/) (en inglés) te puede ayudar a saber qué licencia otorgar a tu herramienta digital. Más información en [la sección de licenciamiento](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/)
+[Este enlace](https://choosealicense.com/) (en inglés) te puede ayudar a saber qué licencia otorgar a tu herramienta digital. Más información en [la sección de licenciamiento](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/)
 
 Si la herramienta contiene componentes de terceros con distintas licencias, este es el lugar para especificarlos. Ejemplo:
 
-*Esta herramienta digital incluye comonentes de código abierto de terceros: X, Y y Z. Cada uno de estos componentes tiene su propia licencia. Por favor consulta ./X/License.txt, ./Y/License.txt y ./Z/License.txt*## ¿A quién va dirigida la documentación?
+*Esta herramienta digital incluye comonentes de código abierto de terceros: X, Y y Z. Cada uno de estos componentes tiene su propia licencia. Por favor consulta ./X/License.txt, ./Y/License.txt y ./Z/License.txt*
+
+
+
+
+
+## ¿A quién va dirigida la documentación?
 La audiencia principal de la documentación son desarrolladores. No obstante, la sección de la guía de usuario va dirigida a los usuarios finales de la herramienta. Si esta sección es muy compleja, es una buena práctica dedicar un documento específico para esto. Aunque en el archivo Readme se debe especificar la existencia de esta documentación extra.
 
 
@@ -73,8 +78,8 @@ La audiencia principal de la documentación son desarrolladores. No obstante, la
 
 
 ## ¿Dónde se guarda y qué formato debo utilizar?
-Este tipo de documentación dirigida a desarrolladores normalmente se guarda en un archivo con el nombre README.md. Debe estar visible en la carpeta principal de la herramienta digital y en formato markdown. 
-Documentación más extensa dirigida al usuario final puede ir en documentos aparte, aunque siempre en una buena práctica nombrarlos en el README.md
+Se guarda en un archivo con el nombre README.md. Debe estar visible en la carpeta principal de la herramienta digital y en formato markdown. 
+En caso de existir documentación más extensa dirigida y a un usuario menos técnico, es recomendable guardar esta documentación en un documento a parte, aunque siempre es una buena práctica nombrarlos y referenciarlos en el README.md
 
 
 
@@ -91,23 +96,19 @@ El proyecto Código para el Desarrollo dispone de una plantilla para que uses co
 ## ¿Qué secciones son deseables?
 
 *	**Cómo contribuir**
-
 Sección que explica a nuevos desarrolladores el proceso para contribuir a proyectos. 
 
 *	**Código de conducta**
-
 El código de conducta establece las normas sociales, reglas y responsabilidades que los individuos y organizaciones deben seguir al interactuar de alguna manera con la herramienta digital o su comunidad. Es una buena práctica para crear un ambiente de respeto e inclusión en las contribuciones al proyecto. La plataforma Github premia y ayuda a los repositorios dispongan de este archivo. Al crear CODE_OF_CONDUCT.md puedes empezar desde una plantilla sugerida por ellos. Aquí tienes una plantilla propuesta por Contributor Convenant que puedes usar para tu proyecto.
 
 *	**Insignias (badges)**
-
 Las insignias (badges) pequeñas imágenes incrustadas en el README.md que especifican de una manera legible y concisa el estado de la herramienta.  Existen insignias para el estado de desarrollo, el número de descargas, el versionado, sociales u otras.
 En este link podrás encontrar información [https://shields.io/](https://shields.io/)
-* **Versión**
 
+* **Versión**
 Indica un listado de las versiones de las herramientas digital y las funcionalidades añadidas a cada versión.
 
 * **Reconocimientos**
-
 Reconocimientos a otras personas u organizaciones que hayan contribuido de alguna forma al proyecto 3.
 
 
@@ -116,10 +117,3 @@ Reconocimientos a otras personas u organizaciones que hayan contribuido de algun
 
 ## ¿Existe algún otro tipo de documentación a parte del README.md?
 A parte de la documentación más técnica dirigida a desarrolladores, existe la guía de usuario. Si se trata de documentación muy extensa y muy detallada es buena práctica ponerla en un archivo a parte y especificarlo en el README.md.
-
-
-
-
-
----
-
