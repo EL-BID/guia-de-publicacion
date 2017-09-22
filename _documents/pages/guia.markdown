@@ -31,7 +31,7 @@ Ponte en contacto con el equipo de Código para el Desarrollo (code@iadb.org) si
 
 * Una plantilla de repositorio con un archivo README.md listo para rellenar. 
 * Una licencia BID para definir los términos y condiciones de las herramientas digitales publicadas por el BID.
-•	Una Guía de publicación para ayudar a redactar documentación, licenciar un repositorio y evaluar calidad de código.
+* Una Guía de publicación para ayudar a redactar documentación, licenciar un repositorio y evaluar calidad de código.
 
 ## 5.	¿Bajo qué licencia publicamos software en el BID? 
 La iniciativa Código para el Desarrollo cuenta con una licencia BID de código abierto. Como norma general publicamos y desarrollamos nuestras herramientas digitales con esa licencia. (consultar aquí la licencia). 
@@ -41,13 +41,21 @@ Debes tener en cuenta la documentación, la licencia y la calidad técnica de la
 
 * Documentación: Debe cumplir con los requerimientos necesarios de documentación especificados en la guía para publicar herramientas digitales.
 * Licencia: Salvo casos justificados, debe contener la licencia BID.
-* Calidad técnica: Deben cumplir con los requerimientos deseables de evaluación técnica especificados en la Guía de Publicación. Estos son: 
+* Calidad técnica: Deben cumplir con los requerimientos deseables de evaluación técnica especificados en la Guía de Publicación. Estos son coinciden con el nivel definido como *Standard* en la tabla de evaluación: 
     * Ausencia de fallos estructurales
     * Menos del 25% de líneas duplicadas
     * Menos de 10 problemas críticos
     * Más del 50% de clases, interfaces y métodos documentados
     * Deuda técnica menor a 30 días
     * Cobertura de test más del 25%
+
+*Tabla de Evaluación*:
+| Quality Gates 	| Blocker issues 	| Duplicated lines 	|Critical issues 	| Public documented API 	| Technical debt 	| Technical debt ratio 	| Test coverage 	|
+|:-------------:	|:--------------:	|:----------------:	|:-------------------:	|:---------------------:	|:--------------:	|:--------------------:	|:-------------:	|
+| **Low**          	|       =0       	|       <50%       	|         <20         	|          >25%         	|      <60d      	|         <40%         	|      >10%     	|
+| **Standard**      	|       =0       	|       <25%       	|         <10         	|          >50%         	|      <30d      	|         <20%         	|      >25%     	|
+| **High**          	|       =0       	|       <15%       	|          <0         	|          >60%         	|      <10d      	|         <20%         	|      >70%     	|
+
 
 La herramienta **Sonarqube** te puede ayudar a obtener un informe de las métricas usadas en la evaluación técnica.
 
