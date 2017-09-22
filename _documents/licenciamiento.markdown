@@ -35,7 +35,7 @@ Las licencias más comunes son: MIT, la cual da libertad a otros usuarios siemp
 ## ¿Qué licencia debo elegir para mi herramienta digital?
 
 Depende mucho del caso y del uso que quieres que se le dé a la herramienta digital. La página <a href="https://choosealicense.com/" target="_blank">choosealicense.com</a> (en inglés) es una página que te ayuda a elegir de manera sencilla la licencia que más se adecua a tu caso. 
-En caso de tratarse de una herramienta digital financiada por el BID, debes consultar el contrato inicial y la Guía de Publicación del BID.
+En caso de tratarse de una herramienta digital financiada por el BID, debes consultar el contrato inicial y la [Guía de Publicación del BID](https://el-bid.github.io/guia-de-publicacion/documents/pages/guia/).
 
 
 
