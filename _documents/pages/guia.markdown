@@ -49,7 +49,8 @@ Debes tener en cuenta la documentación, la licencia y la calidad técnica de la
     * Deuda técnica menor a 30 días
     * Cobertura de test más del 25%
 
-*Tabla de Evaluación*:
+*Tabla de Evaluación*
+
 | Quality Gates 	| Blocker issues 	| Duplicated lines 	|Critical issues 	| Public documented API 	| Technical debt 	| Technical debt ratio 	| Test coverage 	|
 |:-------------:	|:--------------:	|:----------------:	|:-------------------:	|:---------------------:	|:--------------:	|:--------------------:	|:-------------:	|
 | **Low**          	|       =0       	|       <50%       	|         <20         	|          >25%         	|      <60d      	|         <40%         	|      >10%     	|
