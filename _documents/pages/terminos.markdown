@@ -11,7 +11,7 @@ lang: es
 
 *“It is your responsibility to fully understand the terms and conditions you will automatically be agreeing to by nominating a tool for the Expedition. If you do not speak Spanish sufficiently well to understand the terms and conditions on your own, it is your responsibility to obtain the assistance necessary to be able to.”*
 
-*C’ est votre responsabilité de comprendre entièrement les termes  et conditions que vous êtes en train d´accepter automatiquement avec la nomination  d´un outil pour l´Expédition. Si vous ne comprenais pas assez  bien les termes et conditions écrits en Espagnol,  c´est votre responsabilité de rencontrer l´aide nécessaire pour y réussir*
+*C’ est votre responsabilité de comprendre entièrement les termes  et conditions que vous êtes en train d´accepter automatiquement avec la nomination  d´un outil pour l´Expédition. Si vous ne comprenez pas assez  bien les termes et conditions écrits en Espagnol,  c´est votre responsabilité de rencontrer l´aide nécessaire pour y réussir*
 
 *"É de sua inteira responsabilidade compreender plenamente os termos e condições aos quais você estará automaticamente concordando ao nomear uma ferramenta para a Expedição. Se você não domina o espanhol suficientemente bem para entender os termos e condições por conta própria é de sua responsabilidade obter a assistência necessária para tal".*
 
