@@ -42,7 +42,7 @@ La calidad técnica de una herramienta digital se establece en la medida en que 
 
 A través de un análisis de código estático. Este se encarga de evaluar la comprensión del código a través del estilo de programación, la arquitectura y la documentación del propio código (líneas de código comentadas). 
 
-Existen muchas herramientas para esto. SonarQube es una de las herramientas de código abierto que te permiten llevar a cabo estas tareas. En este enlance puedes encontrar un listado de muchas otras herramientas con el mismo fin.
+Existen muchas herramientas para esto. SonarQube es una de las herramientas de código abierto que te permiten llevar a cabo estas tareas. 
 
 ## ¿Cuáles son las métricas más comunes para evaluar la calidad técnica?
 
@@ -68,7 +68,7 @@ Diferencia entre el coste de desarrollar la herramienta digital y el coste de so
 * **Test coverage:**
 Porcentaje del código que ha sido testeado. 
 
-En [esta página](https://docs.sonarqube.org/display/SONAR/Metric+Definitions) podrás encontrar más información de cada uno de los indicadores que utiliza SonarQube
+En [esta página](https://docs.sonarqube.org/display/SONAR/Metric+Definitions) podrás encontrar más información de cada uno de los indicadores que utiliza SonarQube. En la [Guía de Publicación](https://el-bid.github.io/guia-de-publicacion/documents/pages/guia/) puedes ver una tabla con el rubro de evaluación usado en el BID.
 
 
 
