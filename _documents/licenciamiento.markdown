@@ -35,7 +35,7 @@ Las licencias más comunes son: MIT, la cual da libertad a otros usuarios siemp
 ## ¿Qué licencia debo elegir para mi herramienta digital?
 
 Depende mucho del caso y del uso que quieres que se le dé a la herramienta digital. La página <a href="https://choosealicense.com/" target="_blank">choosealicense.com</a> (en inglés) es una página que te ayuda a elegir de manera sencilla la licencia que más se adecua a tu caso. 
-En caso de tratarse de una herramienta digital financiada por el BID, esta deberá tener una licencia BID, a no ser que se especifique lo contrario en el contrato.
+En caso de tratarse de una herramienta digital financiada por el BID, debes consultar el contrato inicial y la Guía de Publicación del BID.
 
 
 
@@ -68,13 +68,3 @@ Es posible que tu herramienta digital contenga componentes de terceros. Si estas
 Es una buena práctica poner los componentes de terceros en un directorio aparte con su propia licencia. Sin embargo debes especificar cada tipo de licencia en el archivo README.md. Aquí un ejemplo:
 
 *Esta herramienta digital incluye componentes de código abierto de terceros: X, Y y Z. Cada uno de estos componentes tiene su propia licencia. Por favor consulta ./X/License.txt, ./Y/License.txt y ./Z/License.txt*  
-
-
-
-
-
----
-
-## ¿Qué licencia debo usar en una herramienta digital del BID?
-
-Como norma general, publicamos y desarrollamos nuestras herramientas digitales bajo la licencia BID. Si eres empleado del BID consulta la Guía de Publicación del BID y ponte en contacto con el equipo de Código para el Desarrollo para publicar tu herramienta.
