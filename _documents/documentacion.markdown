@@ -58,14 +58,7 @@ En otra sub-sección, se deben especificar las dependencias de otras herramienta
 Sección para dar créditos a los colaboradores de la herramienta.
 
 *	**Licencia**
-Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. 
-
-[Este enlace](https://choosealicense.com/) (en inglés) te puede ayudar a saber qué licencia otorgar a tu herramienta digital. Más información en [la sección de licenciamiento](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/)
-
-Si la herramienta contiene componentes de terceros con distintas licencias, este es el lugar para especificarlos. Ejemplo:
-
-*Esta herramienta digital incluye comonentes de código abierto de terceros: X, Y y Z. Cada uno de estos componentes tiene su propia licencia. Por favor consulta ./X/License.txt, ./Y/License.txt y ./Z/License.txt*
-
+Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. (Leer más sobre cómo licenciar [aquí](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/)
 
 
 
