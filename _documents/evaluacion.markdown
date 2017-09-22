@@ -6,7 +6,7 @@ redirect_from: /documents/evaluacion
 source: 
 lang: es
 
-description: Los requisitos mínimos sirven como lineamientos genenrales para asegurar la buena calidad de código de tu herramienta digital. Tenlos en mente durante las fases de diseño y desarrollo del proyecto. 
+description: La calidad técnica de una herramienta digital facilita el mantenimiento y reusabilidad de la misma. Las condiciones necesarias especificadas a continuación sirven como lineamientos generales a la hora de contruir código. Las condiciones ideales serán útiles si quieres hacer una evaluación de la calidad del código.  
 
 requirements:
 - Crea módulos cortos, documentados y simple
