@@ -6,7 +6,7 @@ source:
 lang: es
 
 ---
-Si necesitas saber cómo trabajar con código abierto en el BID, sigue leyendo:
+¿Estás trabajando con código en el BID y quieres saber cómo actuar? Sigue leyendo:
 
 ## 1.	¿Por qué publicamos las herramientas digitales en code.iadb.org? 
 
