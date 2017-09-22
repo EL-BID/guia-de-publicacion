@@ -48,31 +48,24 @@ Existen muchas herramientas para esto. SonarQube es una de las herramientas de
 
 Aunque existen muchas métricas que varían según la herramienta que se usa, la más comunes son:
 * **Blocker Issues:**
-
 Número de problemas en la escritura del código con severidad alta. Estos problemas pueden ser operacionales o de seguridad que pueden hacer la herramienta digital inestable en producción.
 
 * **Duplicated lines:**
-
 Número de líneas duplicadas en el código.
 
 * **Critical Issues:**
-
 Número de problemas en la escritura del código con severidad crítica. Estos problema pueden ocasionar comportamientos inesperados de la herramienta en producción sin impactar en la integridad de la herramienta completa.
 
 * **Public documented API:**
-
 Número de clases, funciones y propiedades documentadas.
 
 * **Technical debt:**
-
 Esfuerzo necesario para solucionar todos los problemas en la base del código. Se mide en días de trabajo y es una métrica que calcula el sistema de SonarQube.
 
 * **Technical debt ratio:**
-
 Diferencia entre el coste de desarrollar la herramienta digital y el coste de solucionar sus problemas. 
 
 * **Test coverage:**
-
 Porcentaje del código que ha sido testeado. 
 
 En [esta página](https://docs.sonarqube.org/display/SONAR/Metric+Definitions) podrás encontrar más información de cada uno de los indicadores que utiliza SonarQube
