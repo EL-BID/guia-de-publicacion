@@ -57,11 +57,11 @@ Revisa el Anexo 2 del Manual Administrativo AM-331 para conocer el procedimiento
 Antes de poner una herramienta en producción en el entorno del BID debes tener en cuenta el [Product Review and Accreditation Checklist (PRAC)](https://idbg.sharepoint.com/sites/IT%20Governance/Pages/prc_processs.aspx). Esto es una lista de validaciones necesarias que te guiará por todas las consideraciones a tener en cuenta antes de poner una herramienta en un entorno de producción en el Banco. Puedes encontrar más información en la red interna del Banco pinchando aquí.
 
 ## 8.	Tengo una herramienta digital que podría ser publicada en Código para el Desarrollo, ¿por dónde empiezo? 
-1.	Descárgate la “Plantilla de repositorio” en tu computadora y completa el archivo README.md
-2.	Incluye todos los archivos que no sean peligrosos de publicar. (Los que sí lo sean los puedes incluir en el archivo .gitignore)
-3.	Envía un correo a code@iadb.org con información de la herramienta y tu usuario de Github solicitando que creemos un repositorio en la cuenta de @el-BID.
-4.	Incluye la licencia al repositorio y evalúa la calidad técnica de la herramienta
-5.	Sube la herramienta digital al repositorio de Github y nos pondremos en contacto contigo para publicarla en code.iadb.org
+1. Descárgate la “Plantilla de repositorio” en tu computadora y completa el archivo README.md
+2. Incluye todos los archivos que no sean peligrosos de publicar. (Los que sí lo sean los puedes incluir en el archivo .gitignore)
+3. Envía un correo a code@iadb.org con información de la herramienta y tu usuario de Github solicitando que creemos un repositorio en la cuenta de @el-BID.
+4. Incluye la licencia al repositorio y evalúa la calidad técnica de la herramienta
+5. Sube la herramienta digital al repositorio de Github y nos pondremos en contacto contigo para publicarla en code.iadb.org
 
 ## 9.	¿Las herramientas publicadas en Código para el Desarrollo tienen que ser de código abierto?
 No, aunque fomentamos la publicación del código abierto de las herramientas digitales, entendemos que en determinadas ocasiones eso puede poner en riesgo la seguridad de algunos sistemas o simplemente mantienen su potencial de impacto en el desarrollo sin necesidad de publicar su código.
