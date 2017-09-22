@@ -54,7 +54,7 @@ La herramienta **Sonarqube** te puede ayudar a obtener un informe de las métric
 Revisa el Anexo 2 del Manual Administrativo AM-331 para conocer el procedimiento para la Publicación de Productos de conocimiento del Banco. 
 
 ## 7.	¿Qué debo tener en cuenta para a la hora de poner una herramienta digital en producción en el entorno del BID?
-Antes de poner una herramienta en producción en el entorno del BID debes tener en cuenta el Product Review and Accreditation Checklist (PRAC). Esto es una lista de validaciones necesarias que te guiará por todas las consideraciones a tener en cuenta antes de poner una herramienta en un entorno de producción en el Banco. Puedes encontrar más información en la red interna del Banco pinchando aquí.
+Antes de poner una herramienta en producción en el entorno del BID debes tener en cuenta el [Product Review and Accreditation Checklist (PRAC)](https://idbg.sharepoint.com/sites/IT%20Governance/Pages/prc_processs.aspx). Esto es una lista de validaciones necesarias que te guiará por todas las consideraciones a tener en cuenta antes de poner una herramienta en un entorno de producción en el Banco. Puedes encontrar más información en la red interna del Banco pinchando aquí.
 
 ## 8.	Tengo una herramienta digital que podría ser publicada en Código para el Desarrollo, ¿por dónde empiezo? 
 1.	Descárgate la “Plantilla de repositorio” en tu computadora y completa el archivo README.md
