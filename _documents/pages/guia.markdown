@@ -15,7 +15,7 @@ Las herramientas digitales son concebidas en el BID como productos de conocimien
 El Banco enfrenta el desafío de convertirse en una institución bandera en la promoción de conocimiento abierto en la región, con el fin de fomentar innovaciones, estimular la creación de nuevos negocios, incrementar la participación ciudadana, fortalecer la transparencia, y poner a disposición de los ciudadanos lo que ellos han financiado. 
 
 ## 2.	¿Qué tipo de herramientas digitales puedo publicar en code.iadb.org? 
-Aquellas herramientas digitales desarrolladas para uso interno o externo, que por su naturaleza pueden ser usadas, reutilizadas o adaptada para tener un impacto en el desarrollo. Las categorizamos en apps, algoritmos y hojas de cálculo.
+Aquellas herramientas digitales desarrolladas para uso interno o externo, que por su naturaleza pueden ser utilizadas, reutilizadas o adaptada para tener un impacto en el desarrollo. Las categorizamos en apps, algoritmos y hojas de cálculo.
 
 Si crees que la herramienta que has desarrollado es muy específica, no tiene impacto directo en el desarrollo, pero puede ser publicada y reutilizada por otras personas, también puedes usar la cuenta de github/el-BID como repositorio, sin publicarla en code.iadb.org necesariamente.
 
