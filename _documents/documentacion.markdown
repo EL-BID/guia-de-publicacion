@@ -31,7 +31,7 @@ links:
 
 ---
 ## ¿Para qué sirve la documentación?
-La Documentación de una herramienta digital es la puerta de entrada para que otros desarrolladores puedan usar, reutilizar y adaptar la herramienta digital. Un esfuerzo por documentar claro y conciso aumentará los casos en que la herramienta sea reutilizada.
+La Documentación sirve para explicar a nuevos desarrolladores qué es la herramienta, en qué casos se puede usar y cómo se puede instalar. Es normalmente el primer documento técnico al que otro desarrollador va acudir para reutilizar la herrmienta digital. Un esfuerzo por documentar claro y conciso aumentará los casos en que la herramienta sea reutilizada.
 Debe dar respuesta a las siguientes preguntas:
 
 * ¿Qué hace la herramienta digital?
@@ -39,11 +39,12 @@ Debe dar respuesta a las siguientes preguntas:
 * ¿Cómo puedo volver a instalar la herramienta digital?
 * ¿Bajo qué términos puedo usar esta herramienta?
 
+Una práctica común es crear un documento de texto en la raíz del directorio con el nombre README.txt. Este archivo es el principal documento que contiene o dirige a otros recursos de documentación. 
 
 
+## ¿Qué información debo incluir en el archivo README?
+El archivo README debe contener la información necesaria para usar e instalar la herramienta. Este no tiene un formato predefinido, pero aquí te mostramos las secciones mínimas más comunes para disponer de un README completo.
 
-
-## ¿Qué información debo incluir?
 * **Descripción y contexto**
 Descripción de las funcionalidades, el contexto donde fue desarrollado y los problemas de desarrollo que ayudó a resolver.
 
