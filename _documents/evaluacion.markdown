@@ -32,7 +32,7 @@ links:
 
 ---
 
-*Las herramienta digitales del BID publicadas en Código para el Desarrollo deben cumplir con los requerimientos deseables. (Más información aquí)*
+*Las herramienta digitales del BID publicadas en Código para el Desarrollo deben cumplir con los requerimientos deseables. (Más información [aquí](https://el-bid.github.io/guia-de-publicacion/documents/pages/guia/))*
 
 ## ¿Qué es la calidad técnica de una herramienta digital?
 
