@@ -14,7 +14,7 @@ requirements:
 expected:
 - Especificación de licencias de terceros
 
-sidebar: Código para el Desarrollo es el repositorio para consolidar en un solo lugar y dar visibilidad a herramientas digitales con gran potencia de brindar apoyo a los objetivos del desarrollo. Una evaluación técnica de la herramienta permite llevar un control de
+sidebar: Código para el Desarrollo es el repositorio para consolidar en un solo lugar y dar visibilidad a herramientas digitales con gran potencia de brindar apoyo a los objetivos del desarrollo. Una evaluación técnica de la herramienta permite identificar los puntos débiles del código para que pueda ser saneado.
 
 note: Si eres empleado del BID y estas trabajando con código, en la sección de <a href="https://github.com/EL-BID/Licencia-BID/blob/master/Licencia.md">Soy empleado del BID</a> encontrarás información relevante.
 
