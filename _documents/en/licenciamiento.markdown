@@ -1,28 +1,26 @@
 ---
- title: Licenciar
- spdx-id: licenciamiento
- nickname: Licenciamiento
- redirect_from: /documents/licenciamiento
- source: 
- lang: en
- 
- description: La licencia de una herramienta digital otorga permisos y especifica las condiciones bajo las que esa herramienta digital puede ser reutilizada y modificada.
- 
- requirements:
- - Incluir la licencia
- 
- expected:
- - Especificar componentes y licencias de terceros
- 
- sidebar: Código para el Desarrollo es el repositorio para consolidar en un solo lugar y dar visibilidad a herramientas digitales con gran potencia de brindar apoyo a los objetivos del desarrollo. Una evaluación técnica de la herramienta permite llevar un control de
- 
- note: Si eres empleado del BID y estas trabando con código, aquí podrás encontrar información que te será útil.
- 
- links:
- - <a href="https://github.com/EL-BID/Licencia-BID/blob/master/Licencia.md">Licencia BID</a>
- - <a href="https://choosealicense.com/">Elegir licencia</a>
- 
- ---
+title: Licence
+spdx-id: licenciamiento
+nickname: Licenciamiento
+redirect_from: /documents/licenciamiento
+source: 
+lang: en
+
+description: A digital tool’s license grants permissions and specifies the conditions under which the digital tool can be used, reused and adapted. Below, we explain how to license an open source repository.
+
+Required conditions:
+- Include an open source license
+
+Ideal conditions:
+- Specification of third-party licenses
+
+sidebar: Code for Development is a repository of digital tools that support development goals.Code for Development is a repository aimed at gathering digital tools with great potential to support development goals in one place and promoting them. A technical evaluation of the tool allows for identification of the code’s weak points so that they can be cleaned up.
+
+links:
+- <a href="https://choosealicense.com/" target="_blank">Elegir licencia</a>
+
+---
+
 
 ### What are the most common open source licenses?
 
