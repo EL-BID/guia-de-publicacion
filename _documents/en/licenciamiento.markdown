@@ -8,10 +8,10 @@ lang: en
 
 description: A digital tool’s license grants permissions and specifies the conditions under which the digital tool can be used, reused and adapted. Below, we explain how to license an open source repository.
 
-Required conditions:
+required conditions:
 - Include an open source license
 
-Ideal conditions:
+ideal conditions:
 - Specification of third-party licenses
 
 sidebar: Code for Development is a repository of digital tools that support development goals.Code for Development is a repository aimed at gathering digital tools with great potential to support development goals in one place and promoting them. A technical evaluation of the tool allows for identification of the code’s weak points so that they can be cleaned up.
