@@ -1,5 +1,5 @@
 ---
-title: License
+title: Licenciar
 spdx-id: licenciamiento
 nickname: Licenciamiento
 redirect_from: /documents/licenciamiento
