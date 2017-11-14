@@ -1,53 +1,50 @@
 ---
-title: Licenciar
+title: License
 spdx-id: licenciamiento
 nickname: Licenciamiento
 redirect_from: /documents/licenciamiento
 source: 
 lang: en
 
-description: La licencia de una herramienta digital otorga permisos y especifica las condiciones bajo las que esa herramienta digital puede ser reutilizada y modificada.
+description: A digital tool’s license grants permissions and specifies the conditions under which the digital tool can be used, reused and adapted. Below, we explain how to license an open source repository.
 
-requirements:
-- Incluir la licencia
+Required conditions:
+- Include an open source license
 
-expected:
-- Especificar componentes y licencias de terceros
+Ideal conditions:
+- Specification of third-party licenses
 
-sidebar: Código para el Desarrollo es el repositorio para consolidar en un solo lugar y dar visibilidad a herramientas digitales con gran potencia de brindar apoyo a los objetivos del desarrollo. Una evaluación técnica de la herramienta permite llevar un control de
+sidebar: Code for Development is a repository of digital tools that support development goals.
+Code for Development is a repository aimed at gathering digital tools with great potential to support development goals in one place and promoting them. A technical evaluation of the tool allows for identification of the code’s weak points so that they can be cleaned up.
 
-note: Si eres empleado del BID y estas trabando con código, aquí podrás encontrar información que te será útil.
+
+note: If you’re an IDB employee working with code, you’ll find relevant information in the I’m an IDB employee section.
 
 links:
-- <a href="https://github.com/EL-BID/Licencia-BID/blob/master/Licencia.md">Licencia BID</a>
-- <a href="https://choosealicense.com/">Elegir licencia</a>
+- <a href="https://choosealicense.com/">Choose a license</a>
 
 ---
 
-### ¿Por qué debo otorgar una licencia a mi herramienta digital?
+### What are the most common open source licenses?
 
-Al especificar una licencia, estas habilitando las condiciones de uso, reutilización y comercialización de esa herramienta digital. Es importante no caer en el error de dejar un vacío legal; esto puede conducir a que muchas personas no se atrevan a reutilizar tu código por miedo a represalias legales.
+The most common licenses are: the MIT license, which gives permission to other users as long as the original creator is attributed; the Apache 2.0 license, which is very similar to the MIT license but also expressly grants contributors’ patent rights to users; and GNU licenses, which require anyone who distributes your code or derivative work to do so by maintaining the source and the same licensing terms. Contributors expressly grant patent rights.
 
-### ¿Cómo licencio una herramienta digital?
+### Which license should I choose for my digital tool?
 
-Para licenciar una herramienta digital es necesario copiar el texto de la licencia en un archivo LICENCE.md o LICENSE.txt en la carpeta raíz de la herramienta digital. 
+It really depends on the situation and how you want your digital tool to be used. The website [Choosealicense.com](https://choosealicense.com/) helps you easily choose the license that best fits your situation. If it is a digital tool funded by the IDB, you should consult your initial contract and the [IDB Publication Guide](https://el-bid.github.io/guia-de-publicacion/documents/pages/en/guia/).
 
-Según el tipo de licencia utilizada será necesario cambiar la fecha u otra información adicional del texto o añadir un texto adicional al inicio de cada archivo, como en el caso de las licencias de Free Software Foundation.
+### Why should I grant a license for my digital tool?
 
-Si estas usando un repositorio de Github, el sistema te permite crear una licencia partiendo de una de las plantillas de las licencias más comunes. (Más información aquí)
+By specifying a license, you are establishing the conditions for the use, reuse and marketing of your digital tool. It’s important not to make the mistake of leaving a legal vacuum; this could lead to many people not daring to reuse your code for fear of legal reprisals.
 
-### ¿Cuáles son las licencias más comunes?
+### How do I license a digital tool?
 
-Las licencias más comunes son: MIT, la cual da libertad a otros usuarios siempre que atribuyan al creador original; la licencia Apache 2.0, muy similar a la MIT pero que también proporciona una concesión expresa de derechos de patente de los contribuyentes a los usuarios; y las licencias GNU, que requiere que cualquier persona que distribuya su código o trabajo derivado, lo haga manteniendo la fuente y los mismo términos. Los contribuyentes otorgan una concesión expresa de derechos de patente.
+To license a digital tool, you need the copy the license text to a file called LICENCE.md or LICENSE.txt in your digital tool’s root folder.
+Depending on the type of license used, you may need to change the date or other information in the text, or add additional text to the beginning of each file, as in the case of Free Software Foundation licenses.
+If you’re using a GitHub repository, the system allows you to create a license using one of the templates for the most common licenses. More information [here](https://help.github.com/articles/adding-a-license-to-a-repository/).
 
-### ¿Qué licencia debo elegir para mi herramienta digital?
+### How can I show multiple licenses for a single digital tool?
 
-Depende mucho del caso y del uso que quieres que se le dé a la herramienta digital. La página [Choosealicense.com](https://choosealicense.com/) (en inglés) es una página que te ayuda a elegir de manera sencilla la licencia que más se adecua a tu caso. 
-En caso de tratarse de una herramienta digital financiada por el BID, esta deberá tener una licencia BID, a no ser que se especifique lo contrario en el contrato.
+Your digital tool may contain third-party components. If they have specified open source licenses, you must keep the text of those licenses in your code too. It is good practice to put third-party components in a separate directory with their own license. However, you must specify each type of license in the README.md file. Here’s an example:
 
-### ¿Cómo reflejo múltiples licencias en una sola herramienta digital?
-
-Es posible que tu herramienta digital contenga componentes de terceros. Si estas tienen licencias de código abierto, y estas lo especifican, deberás mantener el texto de esas licencias en tu código también.
-Es una buena práctica poner los componentes de terceros en un directorio aparte con su propia licencia. Sin embargo debes especificar cada tipo de licencia en el archivo README.md. Aquí un ejemplo:
-
-*Esta herramienta digital incluye componentes de código abierto de terceros: X, Y y Z. Cada uno de estos componentes tiene su propia licencia. Por favor consulta ./X/License.txt, ./Y/License.txt y ./Z/License.txt*
+*This digital tool includes third-party open source components: X, Y and Z. Each of these components has its own license. Please consult ./X/License.txt, ./Y/License.txt and ./Z/License.txt*
