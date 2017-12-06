@@ -1,116 +1,107 @@
 ---
-title: Documentación
+title: Documentation
 spdx-id: documentacion
 nickname: Documentación
 source: 
 lang: es
 
-description: La documentación es la sección que presenta la herramienta. Esta se encarga de explicar qué es, cómo se usa y cómo la puedes reutilizar o adaptar. El archivo principal es el README.md, donde debe estar referenciada toda la documentación. Asegúrate de que las herramienta tenga las condiciones necesarias de documentación para aumentar su potencial de reutilización.
+description: The documentation is the section that presents the tool. It is responsible for explaining what it is, how it is used, and how you can reuse or adapt it. The main file is README.md, where all documentation must be listed. Make sure that your tool meets the required documentation conditions in order to increase its potential for reuse.
 
-requirements:
-- Descripción y contexto
-- Guía de usuario
-- Guía de instalación
-- Autores
-- Licencia
+requirementsen:
+- Description and context
+- User guide
+- Installation guide
+- Creators
+- License
 
-expected:
-- Cómo contribuir
-- Código de conducta
-- Insignias (badges)
-- Versión
-- Reconocimientos
+expecteden:
+- How to contribute
+- Code of conduct
+- Badges
+- Version
+- Acknowledgements
 
-sidebar: Es importante documentar para asegurar el reuso de la herramienta en otros contextos.
+sidebar: Code for Development is a repository of digital tools that support development goals.
+Documentation is important in order to ensure reuse of the tool in other contexts.
 
-nota: Si eres empleado del BID y estas trabando con código, aquí podrás encontrar información que te será útil.
-
-links:
-- <a class="sidebarlink" href="http://joedicastro.com/pages/markdown.html">Guía Markdown</a>
-- <a class="sidebarlink" href="https://github.com/EL-BID/Codigo-para-el-desarrollo/blob/master/README.md">Plantilla Readme</a>
 
 ---
-## ¿Para qué sirve la documentación?
-La Documentación sirve para explicar a nuevos desarrolladores qué es la herramienta, en qué casos se puede usar y cómo se puede instalar. Es normalmente el primer documento técnico al que otro desarrollador va acudir para reutilizar la herrmienta digital. Un esfuerzo por documentar claro y conciso aumentará los casos en que la herramienta sea reutilizada.
-Debe dar respuesta a las siguientes preguntas:
+## What is the documentation used for?
+The documentation is used to explain to new developers what the tool is, how it can be used, and how to install it. It is generally the first technical document another developer will turn to in order to reuse the digital tool. Making an effort to clearly and concisely document your tool will increase its reuse. It should answer the following questions:
 
-* ¿Qué hace la herramienta digital?
-* ¿Cómo funciona?
-* ¿Cómo puedo volver a instalar la herramienta digital?
-* ¿Bajo qué términos puedo usar esta herramienta?
+* What does the digital tool do?
+* How does it work?
+* How can I reinstall the digital tool?
+* Under what terms can I use this tool?
 
-Una práctica común es crear un documento de texto en la raíz del directorio con el nombre README.txt. Este archivo es el principal documento que contiene o dirige a otros recursos de documentación. 
+A common practice is to create a text document in the root directory named README.txt. This file is the main document that contains documentation or directs users to other documentation resources. 
 
 
-## ¿Qué información debo incluir en el archivo README?
-El archivo README debe contener la información necesaria para usar e instalar la herramienta. Este no tiene un formato predefinido, pero aquí te mostramos las secciones mínimas más comunes para disponer de un README completo.
+## What information should I include in the README file?
+The README file should contain the information required to use and install the tool. There is no predefined format, but to have a complete README file, you should at least include the most common sections listed below.
 
-* **Descripción y contexto**
-Descripción de las funcionalidades, el contexto donde fue desarrollado y los problemas de desarrollo que ayudó a resolver.
+* **Description and context:**
+Description of its features, the context in which it was developed, and the development problems it helped solve.
 
-*   **Guía de usuario**
-Paso a paso dirigido al usuario final sobre cómo empezar a usar la herramienta digital. Si esta información es demasiado extensa, puede ir en un documento aparte, pero es una buena práctica nombrarlo en la documentación.
+*   **User guide:**
+Step-by-step guide aimed at showing the end user how to start using the digital tool. This information can go in a separate document if it is too long, but it is good practice to mention it in the documentation.
 
-*	**Guía de instalación**
-Instrucciones de instalación para reutilizar y configurar la herramienta digital. Esta sección está dirigida a desarrolladores.
-En otra sub-sección, se deben especificar las dependencias de otras herramientas digitales (librerías, frameworks, acceso a bases de datos y licencias de cada recurso), en caso de ser necesario.
+*	**Installation guide: **
+Installation instructions for reusing and configuring the digital tool. This section is aimed at developers. In another subsection, documentation related to other digital tools (libraries, frameworks, database access and licenses for each resource) should be specified, if necessary.
 
-*	**Autores**
-Sección para dar créditos a los colaboradores de la herramienta.
+*	**Creators: **
+Section crediting those who collaborated on creating the tool.
 
-*	**Licencia**
-Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. (Leer más sobre cómo licenciar [aquí](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/)
+*	**License: **
+Permissions granted to third parties in order to reuse the digital tool. You should specify the type of license and refer to the license.txt or licencia.txt file with the license content. (Read more on how to license [here](https://el-bid.github.io/guia-de-publicacion/documents/en/licenciamiento/)
 
 
 
 
-## ¿A quién va dirigida la documentación?
-La audiencia principal de la documentación son desarrolladores. No obstante, la sección de la guía de usuario va dirigida a los usuarios finales de la herramienta. Si esta sección es muy compleja, es una buena práctica dedicar un documento específico para esto. Aunque en el archivo Readme se debe especificar la existencia de esta documentación extra.
+## Who is the documentation aimed at?
+The documentation’s main audience is developers. However, the user guide section is aimed at the tool’s end users. If this section is very complex, it is good practice to dedicate a specific document to it, although the README file should specify the existence of this extra documentation.
 
 
 
 
-
-## ¿Dónde se guarda y qué formato debo utilizar?
-Se guarda en un archivo con el nombre README.md. Debe estar visible en la carpeta principal de la herramienta digital y en formato markdown. 
-En caso de existir documentación más extensa dirigida y a un usuario menos técnico, es recomendable guardar esta documentación en un documento a parte, aunque siempre es una buena práctica nombrarlos y referenciarlos en el README.md
+## Where is it saved, and what format should I use?
+It is saved in a file named README.md. It should be visible in the digital tool’s main folder, as well as in markdown format. If there is extensive documentation aimed less tech-savvy users, we recommend that you save this documentation in a separate document, although it is always good practice to mention and refer to it in the README.md file.
 
 
 
 
 
-### ¿Existe una plantilla de un archivo README.md?
-El proyecto Código para el Desarrollo dispone de una plantilla para que uses como punto de partida.
-[Plantilla README.md](https://github.com/EL-BID/Plantilla-de-repositorio)
+### Is there a template for a README.md file?
+The Code for Development project has a template you can use as a starting point. 
+[README.md template](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README-EN.md)
 
 
 
 
 
-## ¿Qué secciones son deseables?
+## What sections are desirable?
 
-*	**Cómo contribuir**
-Sección que explica a nuevos desarrolladores el proceso para contribuir a proyectos. 
+*	**How to contribute:**
+Section which explains the process for contributing to projects to new developers.
 
-*	**Código de conducta**
-El código de conducta establece las normas sociales, reglas y responsabilidades que los individuos y organizaciones deben seguir al interactuar de alguna manera con la herramienta digital o su comunidad. Es una buena práctica para crear un ambiente de respeto e inclusión en las contribuciones al proyecto. La plataforma Github premia y ayuda a los repositorios dispongan de este archivo. Al crear CODE_OF_CONDUCT.md puedes empezar desde una plantilla sugerida por ellos. Aquí tienes una plantilla propuesta por Contributor Convenant que puedes usar para tu proyecto.
+*	**Code of conduct:**
+The code of conduct establishes the social norms, rules and responsibilities that individuals and organizations must follow when interacting with the digital tool or its community in any way. It is good practice to create a respectful, inclusive environment for contributions to the project. The GitHub platform rewards and helps repositories that have this file. You can start from a template they suggest when creating CODE_OF_CONDUCT.md. Here is a template suggested by Contributor Covenant that you can use for your project.
 
-*	**Insignias (badges)**
-Las insignias (badges) pequeñas imágenes incrustadas en el README.md que especifican de una manera legible y concisa el estado de la herramienta.  Existen insignias para el estado de desarrollo, el número de descargas, el versionado, sociales u otras.
-En este link podrás encontrar información [https://shields.io/](https://shields.io/)
+*	**Badges: **
+Badges are small images embedded in README.md which clearly and concisely specify the tool’s status. There are badges for development status, number of downloads, version, social media, etc. You can find information at this link: [https://shields.io/](https://shields.io/)
 
-* **Versión**
-Indica un listado de las versiones de las herramientas digital y las funcionalidades añadidas a cada versión.
+* **Version:**
+Indicates a list of the versions of the digital tool, as well as the features added to each version.
 
-* **Reconocimientos**
-Reconocimientos a otras personas u organizaciones que hayan contribuido de alguna forma al proyecto 3.
-
+* **Acknowledgements: **
+Acknowledgements of other people or organizations who have contributed to the project in some way.
 
 
 
 
-## ¿Existe algún otro tipo de documentación a parte del README.md?
-A parte de la documentación más técnica dirigida a desarrolladores, existe la guía de usuario. Si se trata de documentación muy extensa y muy detallada es buena práctica ponerla en un archivo a parte y especificarlo en el README.md.
+
+## Is the any other documentation besides README.md?
+Apart from the more technical documentation aimed at developers, there is the user guide. If this documentation is very long and detailed, it is good practice to put it in a separate file and specify so in README.md.
 <style>
 .ocultar_breadcrumb_ingles{
 display:none;
