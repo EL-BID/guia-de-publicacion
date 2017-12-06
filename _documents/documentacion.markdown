@@ -111,3 +111,8 @@ Reconocimientos a otras personas u organizaciones que hayan contribuido de algun
 
 ## ¿Existe algún otro tipo de documentación a parte del README.md?
 A parte de la documentación más técnica dirigida a desarrolladores, existe la guía de usuario. Si se trata de documentación muy extensa y muy detallada es buena práctica ponerla en un archivo a parte y especificarlo en el README.md.
+<style>
+.ocultar_breadcrumb_ingles{
+display:none;
+}
+</style>  
