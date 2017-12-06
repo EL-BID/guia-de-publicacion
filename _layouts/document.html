@@ -59,6 +59,36 @@
           </td>
           {% endif %}
         </tr>
+        
+       <tr>
+          {% if page.requirementsen %}
+          <td>
+            <ul class="document-permissions">
+
+              {% for requirement in page.requirementsen %}
+
+              <li class="commercial-use">
+                <span class="document-sprite"></span> {{ requirement }}
+              </li>
+
+              {% endfor %}
+            </ul>
+          </td>
+          {% endif %} {% if page.expecteden %}
+          <td>
+            <ul class="document-conditions">
+
+              {% for expected in page.expecteden %}
+
+              <li class="commercial-use">
+                <span class="document-sprite"></span> {{ expected }}
+              </li>
+
+              {% endfor %}
+            </ul>
+          </td>
+          {% endif %}
+        </tr>   
 
 
 
