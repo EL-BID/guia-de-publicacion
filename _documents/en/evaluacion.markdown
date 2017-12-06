@@ -1,43 +1,46 @@
 ---
-title: Evaluación técnica
+title: Technical evaluation
 spdx-id: evaluacion
 nickname: Evaluación
 redirect_from: /documents/evaluacion
 source: 
 lang: en
 
-description: no hay descripcion disponible.
+description: A digital tool developed with technical quality facilitates its maintenance and reusability. The required conditions specified below serve as general guidelines for developing code. The ideal conditions will be useful if you want to evaluate the quality of the code.
 
-requirements:
-- Ausencia de fallos estructurales
-- Menos del 25% de líneas duplicadas
-- Menos de 10 problemas críticos
-- Más del 50% de clases, interfaces y métodos documentados
-- Deuda técnica menor a 30 días
-- Cobertura de test más del 25%
+requirementsen:
+- Create short, documented and simple modules
+- Optimize lines of code
+- Create an orderly and balanced component architecture
+- Avoid duplicate code
+- Automate test coverage
 
-expected:
-- Menos del 15% de líneas duplicadas
-- Ausencia de problemas críticos
-- Más del 60% de clases, interfaces y métodos documentados
-- Deuda técnica menor a 10 días
-- Cobertura de test más del 70%
+expecteden:
+- Absence of structural failures
+- Less than 25% duplicated lines
+- Less than 10 critical issues
+- Technical debt less than 30 days
+- Test coverage over 25%
 
-sidebar: Código para el Desarrollo es el repositorio para consolidar en un solo lugar y dar visibilidad a herramientas digitales con gran potencia de brindar apoyo a los objetivos del desarrollo. Una evaluación técnica de la herramienta permite llevar un control de
+sidebar: Code for Development is a repository of digital tools that support development goals.Technical evaluation of a tool allows the quality of the code to be maintained and increases its potential use, reuse and adaptation.
 
-note: Si eres empleado del BID y estas trabando con código, aquí podrás encontrar información que te será útil.
 
-links:
-- <a href="https://github.com/EL-BID/Codigo-para-el-desarrollo/wiki/sonarqube.org">SonarQube </a>
+note: IDB digital tools published in Code for Development must fulfill desired requirements. (More information here.)
+
 
 ---
-### ¿Qué es la calidad técnica de una herramienta digital?
 
-La calidad técnica de una herramienta digital se establece en la medida en que la escritura del Código Fuente y la arquitectura de la herramienta digital esté libre de fallos estructurales que puedan bloquear su uso o reutilización y que además faciliten la comprensión en la lectura y modificación del Código Fuente.
+IDB digital tools published in Code for Development must fulfill desired requirements. (More information here.)
 
-### ¿Cómo se mide el nivel de calidad técnica?
+### What is the technical quality of a digital tool?
 
-A través de un análisis de código estático. Este se encarga de evaluar la comprensión del código a través del estilo de programación, la arquitectura y la documentación del propio código (líneas de código comentadas). 
+The technical quality of a digital tool is established to the extent that the writing of the source code and architecture of the digital tool are free of structural failures that could hinder its use or reuse, and also facilitate comprehension in terms of reading and modifying the source code.
+
+### How is the level of technical quality measured?
+
+Through static code analysis. This involves evaluating comprehension of the code via the programming style, architecture and documentation of the code itself (commented lines of code).
+There are many tools for this. SonarQube is an open source tool that allows you to perform these tasks.
+
 
 ### ¿Qué herramientas puedo usar para evaluar la calidad técnica?
 
@@ -45,37 +48,41 @@ Existen muchas herramientas que te pueden ayudar a hacer estas tareas. SonarQub
 
 En la Guía de Publicación del BID proponemos un rubro para categorizar las herramientas según el nivel de calidad.
 
-### ¿Cuáles son las métricas más comunes para evaluar la calidad técnica?
+### What are the most common metrics for evaluating technical quality?
 
-Aunque existen muchas métricas que varían según la herramienta que se usa, la más comunes son:
+Although there are many metrics which vary depending on the tool used, the most common are:
 * **Blocker Issues:**
 
-Número de problemas en la escritura del código con severidad alta. Estos problemas pueden ser operacionales o de seguridad que pueden hacer la herramienta digital inestable en producción.
+Number of issues in the writing of the code with high severity. These may be operational or security issues which can make the digital tool unstable in production.
 
 * **Duplicated lines:**
 
-Número de líneas duplicadas en el código.
+Number of duplicated lines in the code.
 
 * **Critical Issues:**
 
-Número de problemas en la escritura del código con severidad crítica. Estos problema pueden ocasionar comportamientos inesperados de la herramienta en producción sin impactar en la integridad de la herramienta completa.
+Number of issues in the writing of the code with critical severity. These issues can cause the tool to have unexpected behaviors in production without impacting the integrity of the entire tool.
 
 * **Public documented API:**
 
-Número de clases, funciones y propiedades documentadas.
+Number of documented classes, functions and properties.
 
 * **Technical debt:**
 
-Esfuerzo necesario para solucionar todos los problemas en la base del código. Se mide en días de trabajo y es una métrica que calcula el sistema de SonarQube.
+Effort required to solve all the issues in the code base. It is measured in work days and is a metric calculated by the SonarQube system.
 
 * **Technical debt ratio:**
 
-Diferencia entre el coste de desarrollar la herramienta digital y el coste de solucionar sus problemas. 
+The difference between the cost of developing the digital tool and the cost of solving its issues.
 
 * **Test coverage:**
 
-Porcentaje del código que ha sido testeado. 
+Percentage of the code that has been tested. 
 
-En [esta página](https://docs.sonarqube.org/display/SONAR/Metric+Definitions) podrás encontrar más información de cada uno de los indicadores que utiliza SonarQube
+You can find more information on each of the indicators used by SonarQube on this website. In the Publication Guide, you can view a table with the evaluation rubric used by the IDB.
+
+### What are the technical requirements for publishing IDB digital tools?
+
+To publish an IDB digital tool on Code for Development, the tool must fulfill desired requirements. You can view more information in the IDB Publication Guide.
 
 <style> .ocultar_breadcrumb_espanol{ display:none; } .ocultar_home_espanol{ display:none; } </style>
