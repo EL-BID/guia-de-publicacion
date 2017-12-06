@@ -115,4 +115,7 @@ A parte de la documentación más técnica dirigida a desarrolladores, existe la
 .ocultar_breadcrumb_ingles{
 display:none;
 }
+.ocultar_home_ingles{
+display:none;
+}  
 </style>  
