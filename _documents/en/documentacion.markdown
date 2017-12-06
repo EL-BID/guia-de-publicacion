@@ -47,13 +47,13 @@ Description of its features, the context in which it was developed, and the deve
 *   **User guide:**
 Step-by-step guide aimed at showing the end user how to start using the digital tool. This information can go in a separate document if it is too long, but it is good practice to mention it in the documentation.
 
-*	**Installation guide: **
+*	**Installation guide:**
 Installation instructions for reusing and configuring the digital tool. This section is aimed at developers. In another subsection, documentation related to other digital tools (libraries, frameworks, database access and licenses for each resource) should be specified, if necessary.
 
-*	**Creators: **
+*	**Creators:**
 Section crediting those who collaborated on creating the tool.
 
-*	**License: **
+*	**License:**
 Permissions granted to third parties in order to reuse the digital tool. You should specify the type of license and refer to the license.txt or licencia.txt file with the license content. (Read more on how to license [here](https://el-bid.github.io/guia-de-publicacion/documents/en/licenciamiento/)
 
 
@@ -88,13 +88,13 @@ Section which explains the process for contributing to projects to new developer
 *	**Code of conduct:**
 The code of conduct establishes the social norms, rules and responsibilities that individuals and organizations must follow when interacting with the digital tool or its community in any way. It is good practice to create a respectful, inclusive environment for contributions to the project. The GitHub platform rewards and helps repositories that have this file. You can start from a template they suggest when creating CODE_OF_CONDUCT.md. Here is a template suggested by Contributor Covenant that you can use for your project.
 
-*	**Badges: **
+*	**Badges:**
 Badges are small images embedded in README.md which clearly and concisely specify the tool’s status. There are badges for development status, number of downloads, version, social media, etc. You can find information at this link: [https://shields.io/](https://shields.io/)
 
 * **Version:**
 Indicates a list of the versions of the digital tool, as well as the features added to each version.
 
-* **Acknowledgements: **
+* **Acknowledgements:**
 Acknowledgements of other people or organizations who have contributed to the project in some way.
 
 
