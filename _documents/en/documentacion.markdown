@@ -2,7 +2,6 @@
 title: Documentation
 spdx-id: documentacion
 nickname: Documentación
-redirect_from: /documents/documentacion
 source: 
 lang: en
 
@@ -22,11 +21,11 @@ expecteden:
 - Version
 - Acknowledgements
 
-sidebar: Code for Development is a repository of digital tools that support development goals.
-Documentation is important in order to ensure reuse of the tool in other contexts.
 
 
 ---
+
+
 ## What is the documentation used for?
 The documentation is used to explain to new developers what the tool is, how it can be used, and how to install it. It is generally the first technical document another developer will turn to in order to reuse the digital tool. Making an effort to clearly and concisely document your tool will increase its reuse. It should answer the following questions:
 
