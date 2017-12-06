@@ -45,3 +45,5 @@ If you’re using a GitHub repository, the system allows you to create a license
 Your digital tool may contain third-party components. If they have specified open source licenses, you must keep the text of those licenses in your code too. It is good practice to put third-party components in a separate directory with their own license. However, you must specify each type of license in the README.md file. Here’s an example:
 
 *This digital tool includes third-party open source components: X, Y and Z. Each of these components has its own license. Please consult ./X/License.txt, ./Y/License.txt and ./Z/License.txt*
+
+<style> .ocultar_breadcrumb_espanol{ display:none; } .ocultar_home_espanol{ display:none; } </style>
