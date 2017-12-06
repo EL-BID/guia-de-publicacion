@@ -67,3 +67,4 @@ Es posible que tu herramienta digital contenga componentes de terceros. Si estas
 Es una buena práctica poner los componentes de terceros en un directorio aparte con su propia licencia. Sin embargo debes especificar cada tipo de licencia en el archivo README.md. Aquí un ejemplo:
 
 *Esta herramienta digital incluye componentes de código abierto de terceros: X, Y y Z. Cada uno de estos componentes tiene su propia licencia. Por favor consulta ./X/License.txt, ./Y/License.txt y ./Z/License.txt*  
+<style> .ocultar_breadcrumb_ingles{ display:none; } .ocultar_home_ingles{ display:none; } </style>
