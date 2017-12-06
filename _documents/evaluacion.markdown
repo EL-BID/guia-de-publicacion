@@ -77,4 +77,5 @@ En [esta página](https://docs.sonarqube.org/display/SONAR/Metric+Definitions) p
 ## ¿Cuáles son los requerimientos técnicos para publicar herramientas digitales del BID?
 
 Para publicar herramientas digitales del BID en Código para el Desarrollo es necesario que la herramienta cumpla con los requerimientos deseables. Puedes consultar más información en la [Guía de Publicación del BID](https://el-bid.github.io/guia-de-publicacion/documents/pages/guia/).
+<style> .ocultar_breadcrumb_ingles{ display:none; } .ocultar_home_ingles{ display:none; } </style>
 
