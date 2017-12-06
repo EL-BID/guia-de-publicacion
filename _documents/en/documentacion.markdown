@@ -21,7 +21,7 @@ expecteden:
 - Version
 - Acknowledgements
 
-
+sidebar: Code for Development is a repository of digital tools that support development goals.Documentation is important in order to ensure reuse of the tool in other contexts.
 
 ---
 
@@ -103,10 +103,10 @@ Acknowledgements of other people or organizations who have contributed to the pr
 ## Is the any other documentation besides README.md?
 Apart from the more technical documentation aimed at developers, there is the user guide. If this documentation is very long and detailed, it is good practice to put it in a separate file and specify so in README.md.
 <style>
-.ocultar_breadcrumb_ingles{
+.ocultar_breadcrumb_espanol{
 display:none;
 }
-.ocultar_home_ingles{
+.ocultar_home_espanol{
 display:none;
 }  
 </style>  
