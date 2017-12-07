@@ -20,3 +20,4 @@ Code for Development allows you to share your digital tool so that governments a
 
 If you have questions about this initiative or need more information on how to share your digital tool, write to us at code@iadb.org.
 
+<style> .ocultar_breadcrumb_espanol{ display:none; } .ocultar_home_espanol{ display:none; } </style>
