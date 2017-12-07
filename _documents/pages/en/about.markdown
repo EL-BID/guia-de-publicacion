@@ -1,22 +1,22 @@
 ---
-title: Conoce más la iniciativa Código para el Desarrollo (about)
+title: Learn more about the Code for Development initiative
 spdx-id: guia
 nickname: guia
 source: 
 lang: en
 
 ---
-Los gobiernos de todo el mundo invierten cada año millones de dólares en software y en herramientas digitales para  simplificar los trámites administrativos, luchar contra el cambio climático, fortalecer la atención sanitaria y mejorar nuestra calidad de vida. Pero, ¿qué pasaría si esas herramientas digitales fuesen además abiertas para ser compartidas y adaptadas a nuevos usos?
+Governments around the world spend millions of dollars every year on software and digital tools to simplify administrative processes, fight climate change, strengthen health care and improve our quality of life. But what would happen if those digital tools were also open in order to be shared and adapted to new uses?
 
-Con este objetivo nace Código para el Desarrollo, una iniciativa del Banco Interamericano de Desarrollo que permite explorar y reutilizar herramientas digitales de código abierto, que pueden ser utilizadas en la implementación de programas y proyectos para el desarrollo económico y social de los países de América Latina y el Caribe.
+That is the aim of Code for Development, an Inter-American Development Bank initiative which allows you to explore and reuse open source digital tools that can be used in the implementation of programs and projects for the economic and social development of Latin American and Caribbean countries.
 
-En este sitio, podrás conocer distintos tipos de herramientas digitales utilizadas en proyectos de desarrollo. Los usuarios más avanzados y los desarrolladores podrán también descargar el código fuente almacenado en la cuenta del BID en la plataforma GitHub y crear nuevas versiones adaptadas a las necesidades de cada uno.  
+On this site, you can learn about different kinds of digital tools used in development projects. More advanced users and developers can also download the source code stored in the IDB’s account on the GitHub platform and create new versions adapted to their needs.  
+Software is a fundamental tool for the design and implementation of projects and programs. With Code for Development, the IDB seeks to strengthen its commitment to the use and promotion of open knowledge, as well as to accelerate the discussion on how technology can bolster the development of Latin America and the Caribbean.
 
-El software es una herramienta fundamental para el diseño e implementación de proyectos y programas. Con Código para el Desarrollo, el BID busca consolidar su compromiso con el uso y promoción del conocimiento abierto, así como acelerar el diálogo sobre cómo la tecnología puede impulsar el desarrollo de América Latina y el Caribe.
 
-### ¿Quieres colaborar?
+### Want to collaborate?
 
-Código para el Desarrollo te permite compartir tu herramienta digital para que gobiernos y ciudadanos puedan utilizarlo para solucionar problemas de desarrollo.
-Si tienes una herramienta digital con potencial de brindar apoyo a los objetivos del desarrollo y además  cumple con los requisitos necesarios de documentación, publicación y licenciamiento para que otros la puedan reutilizar, comparte tu herramienta digital a través de [este link](http://code.iadb.org/es/comparte-tu-codigo).
+Code for Development allows you to share your digital tool so that governments and citizens can use it to solve development problems. If you have a digital tool with the potential to support development goals that also complies with the necessary documentation, publication and licensing requirements to be reused by others, share your digital tool via this link.
 
-Si tienes preguntas sobre esta iniciativa o necesitas más información sobre cómo compartir tu herramienta digital, escríbenos a code(at)@iadb.org.
+If you have questions about this initiative or need more information on how to share your digital tool, write to us at code@iadb.org.
+
