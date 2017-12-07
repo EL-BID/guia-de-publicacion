@@ -123,7 +123,10 @@
   <!-- /document-body -->
 
   {% include sidebar.html %}
-  {% if page.sidebaren %}
+  
+</div>
+<!-- /clearfix -->
+{% if page.sidebaren %}
 <div class="sidebar">
     
   <div class="link-container">
@@ -134,7 +137,4 @@
 
 </div> <!-- /sidebar -->
 {% endif %}    
-</div>
-<!-- /clearfix -->
-
 {% include footer.html %}
