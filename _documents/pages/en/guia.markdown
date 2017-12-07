@@ -81,3 +81,4 @@ Think about the security implications of publishing the code. For example:
 
 ## Contribute to this guide
 To contribute to the improvement of this guide, you can go to the contribute.md file in our GitHub repository and view the guidelines for collaboration; this is how we are building an open community to improve and share knowledge.
+<style> .ocultar_breadcrumb_espanol{ display:none; } .ocultar_home_espanol{ display:none; } </style>
