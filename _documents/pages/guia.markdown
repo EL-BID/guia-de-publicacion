@@ -33,10 +33,8 @@ Ponte en contacto con el equipo de Código para el Desarrollo (code@iadb.org) si
 * Una licencia BID para definir los términos y condiciones de las herramientas digitales publicadas por el BID.
 * Una Guía de publicación para ayudar a redactar documentación, licenciar un repositorio y evaluar calidad de código.
 
-## 5.	¿Bajo qué licencia publicamos software en el BID? 
-La iniciativa Código para el Desarrollo cuenta con una licencia BID de código abierto. Como norma general publicamos y desarrollamos nuestras herramientas digitales con esa licencia. (consultar aquí la licencia). 
 
-## 6.	¿Qué debo tener en cuenta para publicar una herramienta digital del BID en Código para el Desarrollo?
+## 5.	¿Qué debo tener en cuenta para publicar una herramienta digital del BID en Código para el Desarrollo?
 Debes tener en cuenta la documentación, la licencia y la calidad técnica de la herramienta.
 
 * Documentación: Debe cumplir con los requerimientos necesarios de documentación especificados en la guía para publicar herramientas digitales.
@@ -62,20 +60,20 @@ La herramienta **Sonarqube** te puede ayudar a obtener un informe de las métric
 
 Revisa el Anexo 2 del Manual Administrativo AM-331 para conocer el procedimiento para la Publicación de Productos de conocimiento del Banco. 
 
-## 7.	¿Qué debo tener en cuenta para a la hora de poner una herramienta digital en producción en el entorno del BID?
+## 6.	¿Qué debo tener en cuenta para a la hora de poner una herramienta digital en producción en el entorno del BID?
 Antes de poner una herramienta en producción en el entorno del BID debes tener en cuenta el [Product Review and Accreditation Checklist (PRAC)](https://idbg.sharepoint.com/sites/IT%20Governance/Pages/prc_processs.aspx). Esto es una lista de validaciones necesarias que te guiará por todas las consideraciones a tener en cuenta antes de poner una herramienta en un entorno de producción en el Banco. Puedes encontrar más información en la red interna del Banco pinchando aquí.
 
-## 8.	Tengo una herramienta digital que podría ser publicada en Código para el Desarrollo, ¿por dónde empiezo? 
+## 7.	Tengo una herramienta digital que podría ser publicada en Código para el Desarrollo, ¿por dónde empiezo? 
 * Descárgate la “Plantilla de repositorio” en tu computadora y completa el archivo README.md
 * Incluye todos los archivos que no sean peligrosos de publicar. (Los que sí lo sean los puedes incluir en el archivo .gitignore)
 * Envía un correo a code@iadb.org con información de la herramienta y tu usuario de Github solicitando que creemos un repositorio en la cuenta de @el-BID.
 * Incluye la licencia al repositorio y evalúa la calidad técnica de la herramienta
 * Sube la herramienta digital al repositorio de Github y nos pondremos en contacto contigo para publicarla en code.iadb.org
 
-## 9.	¿Las herramientas publicadas en Código para el Desarrollo tienen que ser de código abierto?
+## 8.	¿Las herramientas publicadas en Código para el Desarrollo tienen que ser de código abierto?
 No, aunque fomentamos la publicación del código abierto de las herramientas digitales, entendemos que en determinadas ocasiones eso puede poner en riesgo la seguridad de algunos sistemas o simplemente mantienen su potencial de impacto en el desarrollo sin necesidad de publicar su código.
 
-## 10.	Consejos generales para publicar código en @el-BID
+## 9.	Consejos generales para publicar código en @el-BID
 
 * Piensa en las implicaciones de seguridad que puede tener publicar el código. Por ejemplo:
 	* Revisar que no haya Api keys dentro del código.
