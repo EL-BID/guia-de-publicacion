@@ -21,7 +21,7 @@ expecteden:
 - Version
 - Acknowledgements
 
-sidebar: Code for Development is a repository of digital tools that support development goals.Documentation is important in order to ensure reuse of the tool in other contexts.
+sidebaren: Code for Development is a repository of digital tools that support development goals.Documentation is important in order to ensure reuse of the tool in other contexts.
 
 ---
 
