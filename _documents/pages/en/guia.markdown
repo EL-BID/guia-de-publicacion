@@ -29,23 +29,25 @@ If you or your team need a shared development repository, contact the Code for D
 
 ### 4. What resources does Code for Development offer IDB employees?
 
-•	An official organization account on GitHub (github.com/el-BID) in order to work with the development team in shared repositories.
-•	A repository template with a README.md file ready to be filled out.
-•	An IDB license to define the terms and conditions for digital tools published by the IDB.
-•	A publication guide to help write documentation, license a repository and evaluate code quality.
+* An official organization account on GitHub (github.com/el-BID) in order to work with the development team in shared repositories. 
+* A repository template with a README.md file ready to be filled out.
+* An IDB license to define the terms and conditions for digital tools published by the IDB.
+* A publication guide to help write documentation, license a repository and evaluate code quality.
 
 ### 5. What should I keep in mind in order to publish an IDB digital tool on Code for Development?
 
 You should keep the documentation, license and technical quality of the tool in mind.
-•	Documentation: Must meet the necessary documentation requirements specified in the guide for publishing digital tools.
-•	License: Must contain the IDB license, except in justified cases.
-•	Technical quality: Must meet the desired requirements for technical evaluation specified in the publication guide. These are the same as those defined as standard in the evaluation table:
-o	Absence of structural failures
-o	Less than 25% duplicated lines
-o	Less than 10 critical issues
-o	Over 50% of classes, interfaces and methods documented
-o	Technical debt less than 30 days
-o	Test coverage over 25%
+*	Documentation: Must meet the necessary documentation requirements specified in the guide for publishing digital tools.
+*	License: Must contain the IDB license, except in justified cases.
+*	Technical quality: Must meet the desired requirements for technical evaluation specified in the publication guide.
+
+These are the same as those defined as standard in the evaluation table:
+*	Absence of structural failures
+*  Less than 25% duplicated lines
+*	Less than 10 critical issues
+*	Over 50% of classes, interfaces and methods documented
+*	Technical debt less than 30 days
+*  Test coverage over 25%
 
 Evaluation Table
 
@@ -61,11 +63,11 @@ Before putting a tool into production in the IDB environment, you should conside
 
 ### 7. I have a digital tool that could be published on Code for Development; where do I start?
 
-•	Download the “repository template” to your computer and complete the README.md file.
-•	Include all files that aren’t dangerous to publish. (Those that are can be included in the .gitignore file.)
-•	Send an email to code@iadb.org with information about the tool and your GitHub username requesting that we create a repository in the @el-BID account.
-•	Include the license to the repository and evaluate the tool’s technical quality.
-•	Upload the digital tool to the GitHub repository, and we’ll contact you to publish it on code.iadb.org.
+*	Download the “repository template” to your computer and complete the README.md file.
+*	Include all files that aren’t dangerous to publish. (Those that are can be included in the .gitignore file.)
+*	Send an email to code@iadb.org with information about the tool and your GitHub username requesting that we create a repository in the @el-BID account.
+*	Include the license to the repository and evaluate the tool’s technical quality.
+*	Upload the digital tool to the GitHub repository, and we’ll contact you to publish it on code.iadb.org.
 
 ### 8. Do the digital tools published on Code for Development have to be open source?
 
@@ -73,9 +75,9 @@ No; although we encourage the open source publication of digital tools, we under
 
 ### 9. General tips for publishing code on @el-BID.
 
-•	Think about the security implications of publishing the code. For example:
-o	Check that there aren’t any API keys in the code.
-o	The existence of sensitive data hard-coded into the code.
+Think about the security implications of publishing the code. For example:
+*	Check that there aren’t any API keys in the code.
+*	The existence of sensitive data hard-coded into the code.
 
 ## Contribute to this guide
 To contribute to the improvement of this guide, you can go to the contribute.md file in our GitHub repository and view the guidelines for collaboration; this is how we are building an open community to improve and share knowledge.
