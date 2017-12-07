@@ -83,3 +83,4 @@ No, aunque fomentamos la publicación del código abierto de las herramientas di
 **Contribuye a esta guía**
 
 Para contribuir en la mejora de esta guía puedes entrar al contribute.md de nuestro repositorio en github y ver los lineamientos o pautas para colaborar, así construimos una comunidad abierta a mejorar y compartir el conocimiento.
+<style> .ocultar_breadcrumb_ingles{ display:none; } .ocultar_home_ingles{ display:none; } </style>
