@@ -1,7 +1,17 @@
 {% include header.html %}
 
 <div class="clearfix">
+    {% if page.sidebaren %}
+<div class="sidebar">
+    
+  <div class="link-container">
+      <h3 class="sidebar_border_bottom"> <a href="http://code.iadb.org/">Código</a></h3>
+      <p>Código para el Desarrollo es el repositorio de herramientas digitales que apoyan los objetivos de desarrollo.</p>
 
+  </div>
+
+</div> <!-- /sidebar -->
+{% endif %}
     {% if page.sidebar %}
     
     <div class="document-body">
