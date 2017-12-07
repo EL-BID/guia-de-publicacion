@@ -120,7 +120,11 @@
       {{ page.content }}
     </div>
   </div>
-    {% if page.sidebaren %}
+  
+  <!-- /document-body -->
+
+  {% include sidebar.html %}
+  {% if page.sidebaren %}
 <div class="sidebar">
     
   <div class="link-container">
@@ -131,10 +135,6 @@
 
 </div> <!-- /sidebar -->
 {% endif %}    
-  <!-- /document-body -->
-
-  {% include sidebar.html %}
-
 </div>
 <!-- /clearfix -->
 
