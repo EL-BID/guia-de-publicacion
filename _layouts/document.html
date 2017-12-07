@@ -103,103 +103,11 @@
         
         
         
-  <div class="clearfix">
+ 
 
-    {% if page.sidebaren %}
-    
-    <div class="document-body">
-    {%else%}
-    <div class="document-body full">
-    {% endif %} 
-    <h1>{{ page.title }}</h1>
-    <p>
-      {{ page.description }}
-    </p>
-
-    <div class="document-page-details">
-
-      <table class="document-rules">
-
-        <tr>
-          {% if page.requirements %}
-          <th class="label">Condiciones necesarias</th>
-          {% endif %} {% if page.expected %}
-          <th class="label">Condiciones ideales</th>
-          {% endif %}
-            
-           {% if page.requirementsen %}
-          <th class="label">Condiciones</th>
-          {% endif %} {% if page.expecteden %}
-          <th class="label">Condiciones</th>
-          {% endif %}  
-        </tr>
-
-        <tr>
-          {% if page.requirements %}
-          <td>
-            <ul class="document-permissions">
-
-              {% for requirement in page.requirements %}
-
-              <li class="commercial-use">
-                <span class="document-sprite"></span> {{ requirement }}
-              </li>
-
-              {% endfor %}
-            </ul>
-          </td>
-          {% endif %} {% if page.expected %}
-          <td>
-            <ul class="document-conditions">
-
-              {% for expected in page.expected %}
-
-              <li class="commercial-use">
-                <span class="document-sprite"></span> {{ expected }}
-              </li>
-
-              {% endfor %}
-            </ul>
-          </td>
-          {% endif %}
-        </tr>
-        
-       <tr>
-          {% if page.requirementsen %}
-          <td>
-            <ul class="document-permissions">
-
-              {% for requirement in page.requirementsen %}
-
-              <li class="commercial-use">
-                <span class="document-sprite"></span> {{ requirement }}
-              </li>
-
-              {% endfor %}
-            </ul>
-          </td>
-          {% endif %} {% if page.expecteden %}
-          <td>
-            <ul class="document-conditions">
-
-              {% for expected in page.expecteden %}
-
-              <li class="commercial-use">
-                <span class="document-sprite"></span> {{ expected }}
-              </li>
-
-              {% endfor %}
-            </ul>
-          </td>
-          {% endif %}
-        </tr>   
+ 
 
 
-
-
-      </table>
-
-    </div>
 
     <div class="content">
       {{ page.content }}
