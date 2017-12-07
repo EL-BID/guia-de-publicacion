@@ -50,3 +50,56 @@
 
 </div> <!-- /sidebar -->
 {% endif %}
+
+{% if page.sidebaren %}
+<div class="sidebar">
+    
+  <div class="link-container">
+      <h3 class="sidebar_border_bottom"> <a href="http://code.iadb.org/">Código</a></h3>
+      <p>Código para el Desarrollo es el repositorio de herramientas digitales que apoyan los objetivos de desarrollo.</p>
+
+  </div>
+  <div >
+   
+    <p>
+      {{ page.sidebaren | markdownify | remove: '<p>' | remove: '</p>' }}
+    </p>
+    {% if page.note %}
+    <p class="note">
+      <strong>Note: </strong> {{ page.note | markdownify | remove: '<p>' | remove: '</p>' }}
+    </p>
+    {% endif %}
+    {% assign xgpl = false %}
+    {% if page.spdx-id contains 'GPL' %}{% assign xgpl = true %}{% endif %}
+   </div>
+
+   {% if page.links %}
+   <div class="source">
+   <p><strong>Links:</strong></p>
+   <ul>
+ 
+     {% for link in page.links %}
+     <li>
+      
+           
+           {{link}}
+        
+     </li>
+     {% endfor %}
+   </ul>
+   </div>
+   {% endif %}
+  
+  {% if page.source %}
+  <div class="source">
+    <a href="{{ page.source }}">
+      <span class="document-sprite"></span>
+      Source
+    </a>
+  </div>
+  {% endif %}
+
+
+
+</div> <!-- /sidebar -->
+{% endif %}
