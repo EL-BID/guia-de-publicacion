@@ -20,3 +20,4 @@ Código para el Desarrollo te permite compartir tu herramienta digital para que 
 Si tienes una herramienta digital con potencial de brindar apoyo a los objetivos del desarrollo y además  cumple con los requisitos necesarios de documentación, publicación y licenciamiento para que otros la puedan reutilizar, comparte tu herramienta digital a través de [este link](http://code.iadb.org/es/comparte-tu-codigo).
 
 Si tienes preguntas sobre esta iniciativa o necesitas más información sobre cómo compartir tu herramienta digital, escríbenos a code(at)@iadb.org.
+<style> .ocultar_breadcrumb_ingles{ display:none; } .ocultar_home_ingles{ display:none; } </style>
