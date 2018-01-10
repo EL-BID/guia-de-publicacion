@@ -30,6 +30,8 @@ links:
 - <a class="sidebarlink" href="https://github.com/EL-BID/Codigo-para-el-desarrollo/blob/master/README.md">Plantilla Readme</a>
 
 ---
+Para facilitar el trabajo, puedes **hacer clik [aquí]((https://github.com/EL-BID/Plantilla-de-repositorio))** para ver la plantilla de Readme que proponemos.
+
 ## ¿Qué información debo incluir en el archivo README?
 Aunque no existe un formato estándar, estas son las secciones necesarias más comunes para disponer de un README completo. Opcionalmente, esta información puede ir en otros documentos o archivos, pero ello debe estar referenciado en el README.
 
