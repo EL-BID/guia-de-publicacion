@@ -40,9 +40,19 @@ La calidad técnica de una herramienta digital se establece en la medida en que 
 
 ## ¿Cómo se mide el nivel de calidad técnica?
 
-A través de un análisis de código estático. Este se encarga de evaluar la comprensión del código a través del estilo de programación, la arquitectura y la documentación del propio código (líneas de código comentadas). 
+A través de un análisis de código estático. Este análisis evalúa la comprensión del código a través del estilo de programación, la arquitectura y la documentación del propio código (líneas de código comentadas). 
 
-Existen muchas herramientas para esto. SonarQube es una de las herramientas de código abierto que te permiten llevar a cabo estas tareas. 
+**SonarQube** es una de las herramientas permite llevar un control de la calidad de código a medida que se desaroolla.
+
+## ¿Qué herramientas existen para evaluar la calidad del código?
+
+Existen muchas herramientas y cada una evalúa métricas distintas. Aquí destacamos dos:
+* **Sonaqube** es una herramienta de uso gratuíto. Podrás evaluar la calidad del código a un nivel de detalle muy granular. Te permite identificar exactamente los errores y las líneas de código que puedes mejorar. Para configurar la herramienta es necesario disponer de un repositorio en Github o Bitbucket y que conozcas:
+  * Los requisitos del sistema operativo para la compilación (versiones específicas de librerías, software de gestión de paquetes y dependencias, SDKs y compiladores, etc.).
+  * Las dependencias propias del proyecto, tanto externas como internas (orden de compilación de sub-módulos, configuración de ubicación de librerías dinámicas, etc.).
+  * Los pasos específicos para la compilación del código fuente y ejecución de tests unitarios en caso de que el proyecto disponga de ellos.
+
+* **[Better Code Hub](https://bettercodehub.com/)** también es de uso gratuíto y evalúa de manera más general la calidad del código. La configuración requerida es menos compleja, pero los resultados son más generales que con Sonarqube.   
 
 ## ¿Cuáles son las métricas más comunes para evaluar la calidad técnica?
 
@@ -77,5 +87,5 @@ En [esta página](https://docs.sonarqube.org/display/SONAR/Metric+Definitions) p
 ## ¿Cuáles son los requerimientos técnicos para publicar herramientas digitales del BID?
 
 Para publicar herramientas digitales del BID en Código para el Desarrollo es necesario que la herramienta cumpla con los requerimientos deseables. Puedes consultar más información en la [Guía de Publicación del BID](https://el-bid.github.io/guia-de-publicacion/documents/pages/guia/).
-<style> .ocultar_breadcrumb_ingles{ display:none; } .ocultar_home_ingles{ display:none; } </style>
 
+<style> .ocultar_breadcrumb_ingles{ display:none; } .ocultar_home_ingles{ display:none; } </style>
