@@ -16,7 +16,7 @@ Esta fase sirve para aclarar todas las dimensiones de la herramienta digital. Co
 ## 2.- Completar documentación y evaluar la calidad de código:
 El objetivo de esta fase es disminuir las barreras de entrada para que nuevos desarrolladores puedan reutilizar la herramienta. Durante estas sesiones, el equipo técnico trabajará para:
 * Documentar el README.md. (Leer más [aquí](https://el-bid.github.io/guia-de-publicacion/documents/documentacion/))
-* Evaluar la calidad de código. Es necesario disponer del código en un repositorio de Github y conocer: (Leer más aquí) 
+* Evaluar la calidad de código. Es necesario disponer del código en un repositorio de Github y conocer: (Leer más [aquí](https://el-bid.github.io/guia-de-publicacion/documents/evaluacion/)) 
   - Los requisitos del sistema operativo para la compilación (versiones específicas de librerías, software de gestión de paquetes y dependencias, SDKs y compiladores, etc.).
   - Las dependencias propias del proyecto, tanto externas como internas (orden de compilación de sub-módulos, configuración de ubicación de librerías dinámicas, etc.).
   - Los pasos específicos para la compilación del código fuente y ejecución de tests unitarios en caso de que el proyecto disponga de ellos.
