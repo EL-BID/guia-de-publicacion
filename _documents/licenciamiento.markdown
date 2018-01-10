@@ -6,7 +6,7 @@ redirect_from: /documents/licenciamiento
 source: 
 lang: es
 
-description: La licencia de una herramienta digital otorga permisos y especifica las condiciones bajo las que esa herramienta digital puede ser usada, reutilizada y adaptada. Aquí te explicamos cómo licenciar un repositorio de código abierto.
+description: La licencia de una herramienta digital otorga permisos y especifica las condiciones bajo las que esa herramienta digital puede ser reutilizada y adaptada. Aquí te explicamos cómo licenciar un repositorio de código abierto.
 
 requirements:
 - Incluir una licencia de código abierto
@@ -25,7 +25,7 @@ links:
 
 ## ¿Cuáles son las licencias de código abierto más comunes?
 
-Las licencias más comunes son: MIT, la cual da libertad a otros usuarios siempre que atribuyan al creador original; la licencia Apache 2.0, muy similar a la MIT pero que también proporciona una concesión expresa de derechos de patente de los contribuyentes a los usuarios; y las licencias GNU, que requiere que cualquier persona que distribuya su código o trabajo derivado, lo haga manteniendo la fuente y los mismo términos. Los contribuyentes otorgan una concesión expresa de derechos de patente.
+Las licencias más comunes son: **MIT**, la cual da libertad a otros usuarios siempre que atribuyan al creador original; la licencia **Apache 2.0**, muy similar a la MIT pero que también proporciona una concesión expresa de derechos de patente de los contribuyentes a los usuarios; y las **licencias GNU GPL**, que requiere que cualquier persona que distribuya su código o trabajo derivado, lo haga manteniendo la fuente y los mismo términos. Los contribuyentes otorgan una concesión expresa de derechos de patente.
 
 
 
@@ -63,7 +63,7 @@ Si estas usando un repositorio de Github, el sistema te permite crear una licenc
 
 ## ¿Cómo reflejo múltiples licencias en una sola herramienta digital?
 
-Es posible que tu herramienta digital contenga componentes de terceros. Si estas tienen licencias de código abierto, y estas lo especifican, deberás mantener el texto de esas licencias en tu código también.
+Es posible que tu herramienta digital contenga componentes de terceros o librerías o secciones con diferentes tipos de licencias. Si esto es así, deberás mantener el texto de esas licencias en tu código también.
 Es una buena práctica poner los componentes de terceros en un directorio aparte con su propia licencia. Sin embargo debes especificar cada tipo de licencia en el archivo README.md. Aquí un ejemplo:
 
 *Esta herramienta digital incluye componentes de código abierto de terceros: X, Y y Z. Cada uno de estos componentes tiene su propia licencia. Por favor consulta ./X/License.txt, ./Y/License.txt y ./Z/License.txt*  
