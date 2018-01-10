@@ -5,7 +5,7 @@ nickname: Documentación
 source: 
 lang: es
 
-description: La Documentación, guardada en el archivo README.md (o .txt) sirve para explicar a otros desarrolladores para qué sirve la herramienta, cómo funciona y los pasos para reutilizarla o adaptarla. En esta sección explicamos cómo generar una buena documentación. De manera resumida, la documentación debe contener
+description: La Documentación, generalmente identificada en el archivo README.md (o .txt) sirve para explicar a otros desarrolladores para qué sirve la herramienta, cómo funciona y los pasos para reutilizarla o adaptarla. En esta sección explicamos cómo generar una buena documentación. De manera resumida, la documentación debe contener
 
 requirements:
 - Descripción y contexto
@@ -31,7 +31,7 @@ links:
 
 ---
 ## ¿Qué información debo incluir en el archivo README?
-Aunque no existe un formato estándar, estas son las secciones necesarias más comunes para disponer de un README completo.
+Aunque no existe un formato estándar, estas son las secciones necesarias más comunes para disponer de un README completo. Opcionalmente, esta información puede ir en otros documentos o archivos, pero ello debe estar referenciado en el README.
 
 * **Descripción y contexto**
 Descripción de las funcionalidades, el contexto donde fue desarrollado y los problemas de desarrollo que ayudó a resolver.
@@ -52,7 +52,7 @@ Instrucciones de instalación para reutilizar y configurar la herramienta digita
 Sección para dar créditos a los colaboradores de la herramienta.
 
 *	**Licencia**
-Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. (Leer más sobre cómo licenciar [aquí](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/)
+Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. (Leer más sobre cómo licenciar [aquí](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/))
 
 
 
@@ -65,9 +65,7 @@ La audiencia principal de la documentación son desarrolladores. No obstante, la
 
 
 ## ¿Dónde se guarda y qué formato debo utilizar?
-Se guarda en un archivo con el nombre README.md. Debe estar visible en la carpeta principal de la herramienta digital y en formato markdown. 
-En caso de existir documentación más extensa dirigida y a un usuario menos técnico, es recomendable guardar esta documentación en un documento a parte, aunque siempre es una buena práctica nombrarlos y referenciarlos en el README.md
-
+Se guarda en un archivo con el nombre README.md. Debe estar visible en la carpeta principal de la herramienta digital y en formato markdown. En [este link](http://joedicastro.com/pages/markdown.html) puedes ver una guía de cómo usar markdown. Es un formato de escritura simple para archivos de texto planos.
 
 
 
@@ -80,8 +78,8 @@ El proyecto Código para el Desarrollo dispone de una plantilla para que uses co
 
 
 
-## ¿Qué secciones son deseables?
-
+## ¿Qué secciones se pueden añadir?
+Los siguientesitems son los 
 *	**Cómo contribuir**
 Sección que explica a nuevos desarrolladores el proceso para contribuir a proyectos. 
 
