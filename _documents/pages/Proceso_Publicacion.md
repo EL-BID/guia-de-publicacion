@@ -16,7 +16,10 @@ Esta fase sirve para aclarar todas las dimensiones de la herramienta digital.
 ## 2.- Completar documentación y evaluar la calidad de código:
 El objetivo de esta fase es disminuir las barreras de entrada para que nuevos desarrolladores puedan reutilizar la herramienta. Para ello se trabajarán en los siguientes aspectos:
 * Documentar el README.md siguiendo el modelo de esta plantilla. (Leer más aquí)
-* Evaluar la calidad de código. (Leer más aquí)
+* Evaluar la calidad de código. Para ello es necesario disponer del código en un repositorio de Github y conocer: (Leer más aquí) 
+  * Los requisitos del sistema operativo para la compilación (versiones específicas de librerías, software de gestión de paquetes y dependencias, SDKs y compiladores, etc.).
+  * Las dependencias propias del proyecto, tanto externas como internas (orden de compilación de sub-módulos, configuración de ubicación de librerías dinámicas, etc.).
+  * Los pasos específicos para la compilación del código fuente y ejecución de tests unitarios en caso de que el proyecto disponga de ellos.
 ## 3.- Publicar la herramienta digital en code.iadb.org
 Durante esta fase se publicará la herramienta y se pulirán los aspectos de presentación. 
 
