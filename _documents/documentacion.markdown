@@ -80,8 +80,9 @@ El proyecto Código para el Desarrollo dispone de una plantilla para que uses co
 
 
 
-## ¿Qué secciones se pueden añadir?
-Los siguientesitems son los 
+## ¿Qué secciones se pueden añadir para acabar de completar la documentación?
+A continuación se describen las secciones ideales que puedes añadir a la documentación para completar la misma. 
+
 *	**Cómo contribuir**
 Sección que explica a nuevos desarrolladores el proceso para contribuir a proyectos. 
 
@@ -103,6 +104,15 @@ Reconocimientos a otras personas u organizaciones que hayan contribuido de algun
 
 
 ## ¿Existe algún otro tipo de documentación a parte del README.md?
-A parte de la documentación más técnica dirigida a desarrolladores, existe la guía de usuario. Si se trata de documentación muy extensa y muy detallada es buena práctica ponerla en un archivo a parte y especificarlo en el README.md.
+A parte de la documentación más técnica dirigida a desarrolladores, puedes ofrecer una guía de usuario. Si se trata de documentación muy extensa y muy detallada es buena práctica ponerla en un archivo diferente y especificarlo en el README.md.
+
+
+
+
+## ¿Qué otras buenas prácticas se recomiendan en relación a la documentacón?
+Si consideras que las secciones de **guía de usuario** y la **guía de instalación** son más complejas, puedes alojarla en una página web dedicada a ello. Para ello puedes utilizar la funcionalidad de **[Github-pages](https://pages.github.com/)**. Las siguientes herramientas pueden servir para facilitar esta tarea:
+- **[Readthedocs](https://readthedocs.org/):** Servicio de alojamiento de documentación gratuíto. (Ver ejemplo de [Textar](http://textar.readthedocs.io/en/latest/README.html)) 
+- **[Gitbook](https://www.gitbook.com/)**: Servicio gratuito para escribir, colaborar y publicar contenido online de manera sencilla. 
+- **[Jekyll](https://jekyllrb.com/)**: Compilador de páginas web estáticas. (Esta página está creada con Jekyll)
 
 <style> .ocultar_breadcrumb_ingles{ display:none; } .ocultar_home_ingles{ display:none; } </style>
