@@ -84,6 +84,44 @@ En [esta página](https://docs.sonarqube.org/display/SONAR/Metric+Definitions) p
 
 
 
+## ¿Cómo se desarrolla software para que tenga fácil mantenimiento?
+
+Existe mucha documentación sobre cómo desarrollar software. Esta cubre temas que van desde la arquitectura hasta las tecnologías que se usan. En esta guía mencionamos los 10 lineamientos obtenidos del *Software Improvement Group's industry benchmark*, que están definidos en el libro *[Building Maintainable Software, Java Edition - Ten Guidelines for Future-Proof Code](http://shop.oreilly.com/product/0636920049159.do)*
+
+1. Write Short Units of Code
+Short units are easier to understand.
+
+3. Write Code Once
+Duplicated code means duplicated bugs and duplicating changes.
+
+5. Separate Concerns in Modules
+Modules with a single responsibility are easier to change.
+
+7. Keep Architecture Components Balanced
+A balanced architecture makes it easier to find your way.
+
+9. Automate Tests
+Automated tests are repeatable, and help to prevent bugs.
+
+2. Write Simple Units of Code
+Simple units are easier to test.
+
+4. Keep Unit Interfaces Small
+Units with small interfaces are easier to reuse.
+
+6. Couple Architecture Components Loosely
+Independent components can be maintained in isolation.
+
+8. Keep Your Codebase Small
+A small codebase requires less effort to maintain.
+
+10. Write Clean Code
+“Leave the campground cleaner than you found it.”
+
+
+
+
+
 ## ¿Cuáles son los requerimientos técnicos para publicar herramientas digitales del BID?
 
 Para publicar herramientas digitales del BID en Código para el Desarrollo es necesario que la herramienta cumpla con los requerimientos deseables. Puedes consultar más información en la [Guía de Publicación del BID](https://el-bid.github.io/guia-de-publicacion/documents/pages/guia/).
