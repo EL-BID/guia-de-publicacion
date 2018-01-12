@@ -88,35 +88,25 @@ En [esta página](https://docs.sonarqube.org/display/SONAR/Metric+Definitions) p
 
 Existe mucha documentación sobre cómo desarrollar software. Esta cubre temas que van desde la arquitectura hasta las tecnologías que se usan. En esta guía mencionamos los 10 lineamientos obtenidos del *Software Improvement Group's industry benchmark*, que están definidos en el libro *[Building Maintainable Software, Java Edition - Ten Guidelines for Future-Proof Code](http://shop.oreilly.com/product/0636920049159.do)*
 
-1. Escribir unidades cortas de código
-Las unidades cortas son más fáciles de entender.
+* **Escribir unidades cortas de código**: Las unidades cortas son más fáciles de entender.
 
-3. Escribe el código una vez
-El código duplicado significa errores duplicados y duplicación de cambios.
+* **Escribe unidades simples de código**: Las unidades simples son más fáciles de probar.
 
-5. Distintas responsabilidades separadas en módulos distintos
-Los módulos con una sola responsabilidad son más fáciles de cambiar.
+* **Escribe el código una vez**: El código duplicado significa errores duplicados y duplicación de cambios.
 
-7. Mantener los componentes de arquitectura equilibrados
-Una arquitectura equilibrada hace que sea más fácil encontrar su camino.
+* **Mantener las interfaces de la unidad pequeñas**: Las unidades con interfaces pequeñas son más fáciles de reutilizar.
 
-9. Automatice las pruebas
-Las pruebas automatizadas son repetibles y ayudan a prevenir errores.
+* **Distintas responsabilidades separadas en módulos distintos**: Los módulos con una sola responsabilidad son más fáciles de cambiar.
 
-2. Escribe unidades simples de código
-Las unidades simples son más fáciles de probar.
+* **Pareja de componentes de arquitectura sin apretar**: Los componentes independientes se pueden mantener aislados.
 
-4. Mantener las interfaces de la unidad pequeñas
-Las unidades con interfaces pequeñas son más fáciles de reutilizar.
+* **Mantener los componentes de arquitectura equilibrados**: Una arquitectura equilibrada hace que sea más fácil encontrar su camino.
 
-6. Pareja de componentes de arquitectura sin apretar
-Los componentes independientes se pueden mantener aislados.
+* **Mantenga su base de código pequeña**: Una pequeña base de código requiere menos esfuerzo para mantener.
 
-8. Mantenga su base de código pequeña
-Una pequeña base de código requiere menos esfuerzo para mantener.
+* **Automatice las pruebas**: Las pruebas automatizadas son repetibles y ayudan a prevenir errores.
 
-10. Escribir código limpio
-"Deja el campamento más limpio de lo que lo encontraste".
+* **Escribir código limpio**: "Deja el campamento más limpio de lo que lo encontraste".
 
 
 
