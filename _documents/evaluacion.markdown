@@ -94,7 +94,7 @@ Las unidades cortas son más fáciles de entender.
 3. Escribe el código una vez
 El código duplicado significa errores duplicados y duplicación de cambios.
 
-5. Preocupaciones separadas en los módulos
+5. Distintas responsabilidades separadas en módulos distintos
 Los módulos con una sola responsabilidad son más fáciles de cambiar.
 
 7. Mantener los componentes de arquitectura equilibrados
