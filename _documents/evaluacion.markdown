@@ -88,36 +88,35 @@ En [esta página](https://docs.sonarqube.org/display/SONAR/Metric+Definitions) p
 
 Existe mucha documentación sobre cómo desarrollar software. Esta cubre temas que van desde la arquitectura hasta las tecnologías que se usan. En esta guía mencionamos los 10 lineamientos obtenidos del *Software Improvement Group's industry benchmark*, que están definidos en el libro *[Building Maintainable Software, Java Edition - Ten Guidelines for Future-Proof Code](http://shop.oreilly.com/product/0636920049159.do)*
 
-1. Write Short Units of Code
-Short units are easier to understand.
+1. Escribir unidades cortas de código
+Las unidades cortas son más fáciles de entender.
 
-3. Write Code Once
-Duplicated code means duplicated bugs and duplicating changes.
+3. Escribe el código una vez
+El código duplicado significa errores duplicados y duplicación de cambios.
 
-5. Separate Concerns in Modules
-Modules with a single responsibility are easier to change.
+5. Preocupaciones separadas en los módulos
+Los módulos con una sola responsabilidad son más fáciles de cambiar.
 
-7. Keep Architecture Components Balanced
-A balanced architecture makes it easier to find your way.
+7. Mantener los componentes de arquitectura equilibrados
+Una arquitectura equilibrada hace que sea más fácil encontrar su camino.
 
-9. Automate Tests
-Automated tests are repeatable, and help to prevent bugs.
+9. Automatice las pruebas
+Las pruebas automatizadas son repetibles y ayudan a prevenir errores.
 
-2. Write Simple Units of Code
-Simple units are easier to test.
+2. Escribe unidades simples de código
+Las unidades simples son más fáciles de probar.
 
-4. Keep Unit Interfaces Small
-Units with small interfaces are easier to reuse.
+4. Mantener las interfaces de la unidad pequeñas
+Las unidades con interfaces pequeñas son más fáciles de reutilizar.
 
-6. Couple Architecture Components Loosely
-Independent components can be maintained in isolation.
+6. Pareja de componentes de arquitectura sin apretar
+Los componentes independientes se pueden mantener aislados.
 
-8. Keep Your Codebase Small
-A small codebase requires less effort to maintain.
+8. Mantenga su base de código pequeña
+Una pequeña base de código requiere menos esfuerzo para mantener.
 
-10. Write Clean Code
-“Leave the campground cleaner than you found it.”
-
+10. Escribir código limpio
+"Deja el campamento más limpio de lo que lo encontraste".
 
 
 
