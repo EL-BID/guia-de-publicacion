@@ -23,7 +23,7 @@ lang: es
 Los participantes reconocen que la preselección o selección final de sus Herramientas Digitales no resultará en ninguna compensación de cualquier naturaleza por parte del BID ni en la recomendación o preferencia del uso de la Herramienta Digital.
 Los empleados y consultores del BID podrán participar en la Expedición, siempre y cuando dicha participación esté en conformidad con estos términos y condiciones, así como con las políticas aplicables del BID.
 
-3. Requisitos para la Nominación de Herramientas Digitales:
+3. Requisitos para la Nominación de Herramientas Digitales
 
 * Los participantes podrán presentar propuestas de aplicaciones, algoritmos y/u hojas de cálculo (cada una la “Herramienta Digital” y, en su conjunto, las “Herramientas Digitales”).
 * Sólo se podrá nominar una Herramienta Digital por formulario, pero se entiende que una Herramienta Digital puede estar compuesta por varias Herramientas Digitales.
