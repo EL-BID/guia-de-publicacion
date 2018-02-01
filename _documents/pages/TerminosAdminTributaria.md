@@ -6,6 +6,9 @@ source:
 lang: es
 
 ---
+[Versión en español](###Versión-en-español)
+[English version](###English-version)
+[Versão-em-português](###Versão-em-português)
 
 *“Es su responsabilidad entender completamente los términos y condiciones que usted aceptará de manera automática al proponer una Herramienta Digital para la Convocatoria. La versión oficial de estos términos y condiciones está en español. Cualquier versión en otro idioma es una traducción de cortesía. En caso de cualquier discrepancia entre las diferentes versiones, el documento en español prevalecerá. Si usted no habla español lo suficientemente bien como para entender los términos y condiciones por su cuenta, es su responsabilidad de obtener la asistencia necesaria para poder entenderlos”.*
 
@@ -14,6 +17,8 @@ lang: es
 *C’est votre responsabilité de comprendre entièrement les termes et conditions que vous êtes en train d´accepter automatiquement avec la nomination d´un Outil Digital pour l´Appel. La version officielle de ces termes et conditions est en espagnol. En cas de divergence entre les différentes versions, le document en espagnol prévaudra. Si vous ne comprenez pas assez bien les termes et conditions écrits en Espagnol, c´est votre responsabilité de rencontrer l´aide nécessaire pour y réussir*
 
 *"É de sua inteira responsabilidade compreender plenamente os termos e condições aos quais você estará automaticamente concordando ao nomear uma Ferramenta Digital para a Convocatória. A versão oficial destes termos e condições está em espanhol. Em caso de discrepância entre as diferentes versões, prevalecerá o documento em espanhol. Se você não domina o espanhol suficientemente bem para entender os termos e condições por conta própria é de sua responsabilidade obter a assistência necessária para tal".*
+
+### Versión en español
 
 **1.** A continuación, se detallan los Términos y Condiciones de la Convocatoria de Herramientas Digitales de Código Abierto para la Administración Tributaria Subnacional (en adelante, los “Términos y Condiciones” y la “Convocatoria”, respectivamente). Al participar en la Convocatoria, el participante acepta de forma completa e íntegra los Términos y Condiciones, incluyendo cualquier modificación que se pueda realizar en el futuro. La versión actualizada de estos Términos y Condiciones está disponible en este sitio web. El Banco Interamericano de Desarrollo (“BID”) notificará a los participantes de cualquier modificación vía correo electrónico.  
 
@@ -143,7 +148,7 @@ iv. El BID no será responsable en caso de extravío de equipaje, cancelaciones 
 
 ---
 
-# English version
+### English version
 
 # Terms and Conditions for the Call for Proposals of Tools in Open Code for Subnational Tax Administration
 
@@ -281,7 +286,7 @@ of attendance at the Workshop.
 
 ---
 
-# Versão em português
+### Versão em português
 
 # Termos e Condições da Convocatória de Ferramentas de Código Aberto para a Administração Tributária Subnacional
 
