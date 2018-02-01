@@ -6,7 +6,7 @@ source:
 lang: es
 
 ---
-*Ver Versión en español, inglés o portugués al final de esta página*
+*Ver versión en español, inglés o portugués al final de esta página*
 
 *“Es su responsabilidad entender completamente los términos y condiciones que usted aceptará de manera automática al proponer una Herramienta Digital para la Convocatoria. La versión oficial de estos términos y condiciones está en español. Cualquier versión en otro idioma es una traducción de cortesía. En caso de cualquier discrepancia entre las diferentes versiones, el documento en español prevalecerá. Si usted no habla español lo suficientemente bien como para entender los términos y condiciones por su cuenta, es su responsabilidad de obtener la asistencia necesaria para poder entenderlos”.*
 
