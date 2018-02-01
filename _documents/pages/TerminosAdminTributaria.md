@@ -141,4 +141,138 @@ iv. El BID no será responsable en caso de extravío de equipaje, cancelaciones 
 
 **34. Privilegios e inmunidades.** Ninguna provisión en estos términos o condiciones debe ser aplicada o interpretada como una renuncia, restricción o límite de los privilegios e inmunidades del BID ni de su personal reconocidos bajo cualquier tratado, ley nacional o ley internacional. 
 
+---
+**1.**	The following details the Terms and Conditions of the Call for Proposals of Digital Tools in Open Code for Subnational Tax Administration (henceforth, the “Terms and Conditions” and the “Call”, respectively). 
+
+By participating in the Call, the contest participant accepts fully and completely the Terms and Conditions, including any modification that is made in the future. The up-to-date version of these Terms and Conditions is available on this website. The Inter-American Development Bank (“IDB”) will notify the contest participants of any modification via e-mail.
+
+### I.	Nomination of Digital Tools  
+
+**2.	Requirements for the Contest Participant.**  The Call is open to individuals over 18 years of age who are nationals of an IDB member country, and to agencies or government entities, civil organizations and private entities from IDB member countries.  The listo f Member Countries is available at: https://www.iadb.org/en/about-us/how-the-inter-american-development-bank-is-organized%2C5998.html.
+
+   Employees and consultants of the IDB may participate in the Call, so long as their participation complies with the applicable policies of the IDB. 
+  
+**3.	Requirements for Nominated Digital Tools**
+
+i.	Contest participants may present applications (apps), algorithms and/or other digital tools (each one the “Digital Tool” and, in a set, the “Digital Tools”).
+ii.	Only one Digital Tool may be nominated on each form, but it is understood that a Digital Tool can be made up of several Digital Tools.
+iii.	All material presented by the contest participant must be in English, Spanish or Portuguese.
+iv.	The Digital Tools can be in any programming language.
+v.	The Digital Tools must be in open code or, if not, the contest participant must be willing to open the code.
+
+**4.		General required information and consent.** The contest participant must fill in completely and truthfully the information required on the form of the Call (the “Form”). By submitting the proposal, the contest participant accepts all the Terms and Conditions of the Call.
+
+**5.	Requirements of intellectual property and authorship.** The contest participant may nominate Digital Tools for which he or she lacks property rights and does not hold authorship. In this case, the contest participant must state this clearly in the Form, providing complete and truthfiul information about the identity and contact information for the owner of the property rights and authorship of the Digital Tool, to the best of his or her knowledge.
+
+By submitting a nomination, the contest participant certifies that the information provided about the property rights and authorship of the Digital Tool is complete and truthful, to the best of his or her knowledge.
+
+**6.	Deadline for submitting nominations.** The contest participant must present his/her nomination before Sunday March 4 at 11:59 pm, Eastern Standard Time, in Washington, D.C., United States, by filling in the Form of the Call available at [link], and considering and accepting these Terms and Conditions.
+The IDB may, at its discretion, extend the time period for submitting nominations. In that event, the IDB will publish the new deadline on the web page code.iadb.org/share-your-code.
+ 
+**II.	Selection and Notification**
+
+**7.	Selection for Review by the Evaluation Committee.** Before advancing the nominated Digital Tools for consideration, the IDB will remove those that:
+
+- i.	Do not meet the Terms and Conditions of the Call.
+- ii.	Promote any type of political or religious proselytism.
+- iii.	Manifest vulgar behavior or expressions, or include content considered indecent or obscene.
+- iv.	Use content that can be considered difamatory, libelous or harmful.
+- v.	Use content that promotes intolerance, racism, hate or injury to any group or individual, or discrimination based on race, gender, religion, nationality, disability, sexual orientation or age.
+
+**8.	Composition and functions of the Evaluation Committee.** The Bank will establish an Evaluation Committee made up of experts, from within and external to the Bank, specialized in administration of open knowledge, subnational fiscal management and information and communication technologies.
+
+**9.	Ineligibility of Digital Tools.** The Evaluation Committee will not consider any nomination received after the deadline for submitting nominations which fails to comply with any of the requirements indicated in these Terms and Conditions or which is considered ineligible by the IDB or the Evaluation Committee.
+The Evaluation Committee may request additional information or clarifications about the Digital Tool with the purpose of determining eligibility under these Terms and Conditions.
+
+**10.	Evaluation of the Digital Tools.** The Evaluation Committee will evaluate the Digital Tools based on their technological content and relevance for tax administration.
+
+Regarding the technological content, the Evaluation Committee will consider the degree of replicability, scalability and portability of the Digital Tool (with three principal criteria: that the tool be standards-based, vendor agnostic and/or multiplatform), as well as the information provided about documentation that explains the procedures necessary for correct installation, administration and operation, and its degree of use currently. Priority will be given to Digital Tools licensed with BSD or MIT.
+
+With regard to the content about tax administration, the Selection Committee will consider the technical relevance of the Digital Tool in any of the areas of tax administration (for example, land registries, payment of subnational taxes, development of current accounts and balances, services to taxpayers, preparation of payment plans, simulators of property assessment, tax enforcement, tax education and interactive real estate observatories, among others)
+
+**11.	Notification of Selection.** The contest participants will receive notification sent to the e-mail provided in the Form at the latest by Wednesday March 14, 2018. 
+
+**12.	Declaration of cancellation.** The Call may be suspended at any time either temporarily or permanently if the Evaluation Committee determines that the number of high-quality nominations received was insufficient.
+
+**13.**	Any decision by the Evaluation Committee will be final and will not be subject to any review, reconsideration or appeal.
+
+
+**III.	Platform of Open Code for Development**
+
+**14.**	Requirements for the Digital Tools selected. The contest participants whose Digital Tools are selected for inclusion in the Platform of Open Code for Development (henceforth, the “Platform”) must send to the IDB, within no more than 10 working days, via the email code@iadb.org a signed statement (henceforth, the “Statement”) in which they certify that:
+
+- i.		They are a citizen of a member country of the IDB.
+- ii.		They are 18 years of age or older.
+- iii.		In case a government agency or civil organization is pre-selected, its legal representative must fill out and send the Statement, certifying that he or she is duly authorized to submit the Statement.
+- iv.		They are the sole owners of the property rights and authorship of the Digital Tool and the Tool does not infringe on the rights of third parties, including intellectual property rights.
+If the Digital Tool makes use of any element that is not the property and exclusive authorship of the contest participant, this must be stated expressly in the Statement, and complete and accurate information about the identity and contact information of the owner of the property rights and authorship must be submitted. The IDB may require the contest participant to provide evidence and additional information about any aspect related to the property rights and authorship of the Digital Tool.  
+- v.               They have no impediment to eligibility for any IDB project.
+- vi.	             They accept these Terms and Conditions. 
+
+**15.	Deadline for confirming acceptance of inclusion in the Platform.** If the e-mail address is incorrect or the Bank does not receive a response from the contest participant within two weeks, making it impossible for the IDB to confirm acceptance by the participant, it will be understood as a rejection of selection by the Evaluation Committee and the Digital Tool can be disqualified. The contest participant will not be allowed to present a complaint or to request reconsideration.
+
+**16.	Credit.** In case the Digital Tool is selected for publication in the Platform, the IDB will publish it on the webpage http://code.iadb.org with its name, logo and a brief description. The content of the description and any other aspect relating to providing this service is subject to the policies of the IDB. The IDB can remove the Digital Tool at any time from its webpage, either temporarily or permanently, without justification or prior notification of the contest participant. 
+
+**17.**	The Digital Tools that are published in the Platform and in any other IDB webpage as a result of this Call must comply with the guidelines established in the Guide for Publishing Digital Tools, available at: https://el-bid.github.io/guia-de-publicacion/en/. 
+
+**18.	Inclusion of the Digital Tool in the IDB Webpage.** The Evaluation Committee will request non-binding feedback from the contest participant about the language and form in which the Digital Tool can be included in the Platform and/or any webpage of the IDB. The IDB reserves the right to publish the Digital Tool on its webpage, blogs and/or Platform for an undefined period of time.
+
+**19.**	The contest participants recognize that inclusion of the Digital Tool in the Platform and any other website of the Bank will not result in compensation of any type by the IDB nor in the recommendation or preference for the use of the Digital Tool.
+
+**IV.	Prize**
+
+**20.**	The three Digital Tools selected that receive the highest scoring from the Evaluation Committee will receive:
+
+- i.	An invitation for one of the representatives of each of the three Digital Tools selected to participate in a Knowledge Sharing Workshop to be held April 4 and 5, 2018, in IDB headquarters in Washington, District of Columbia, United States (henceforth, the “Workshop”). The Workshop will be an opportunity for representatives of the participating entities, developers and IDB specialists to have the chance to learn about experiences and practices relating to subnational tax administration.
+
+- ii.	The IDB will make a single payment, the amount to be determined in a discretionary manner, to cover the expenses of the represent-ative of the Digital Tool in order to attend the Workshop and the payment must be used to cover roundtrip economy class airfare from his or her residence to Washington, District of Columbia, as well as the costs of food, domestic travel, lodging and trip insurance during the duration of the Workshop.
+
+Purchase of the airplane tickets and the hotel reservation, and any arrangements for visas, will be the exclusive responsibility of the award-winners. The total, in US dollars or the equivalent in local currency, will be delivered through a bank transfer and formalized by a Letter of Agreement. The IDB will not be responsible for any additional expense.
+
+Contest participants will be responsible for completing the forms required by the Bank and providing any necessary information for releasing the payment within five working days after receiving the request for information. In case the required information is not received, it will be understood that the contest participant has rejected the prize.
+
+- iii.          The IDB will not be responsible for denial of a visa or travel permit by the consulate of any country; obtaining the required documents for travel to the Workshop will be the exclusive responsibility of the contest participant. If a participant does not obtain the necessary visas or permits, participation in these events will be cancelled and the Bank will not issue him or her any 
+type of compensation or compensatory payment. 
+
+- iv.	The IDB will not be responsible in case of loss of luggage, cancellations of flights and/or of hotel reservations, medical emergencies, or any other type of expenses that may arise in connection with attendance at the Workshop, except for those described here.
+
+**21.**	The participants whose Digital Tools have received the three highest scores from the Evaluation Committee must reply to the IDB through the e-mail address code@iadb.org within no more than 5 working days their acceptance of the prize and confirmation 
+of attendance at the Workshop.
+
+**22.**	The IDB can suspend the Workshop at any time temporarily or permanently.
+
+**V.	Intellectual Property Rights**
+
+
+**23.	Licenses, authorizations and permits.** The person who presents himself or herself as owner of the property and authorship of the Digital Tool will arrange for, without any cost to the IDB, any license, authorization or permit, as well as any technical aspect, including documentation, that is required for inclusion of the Digital Tool in the websites of the Bank.
+
+**VI.	Additional Authorizations**
+
+**24.	Dissemination of information.** By presenting the required certification, the party that presents himself or herself as owner of the property and authorship of the Digital Tool expressly authorizes the IDB to reproduce and disseminate in any type of communications media the names, logos, corporate identity and nationalities of the participant and of the Digital Tool, according to how this information was filled out in the Form of the Call, in conjunction with the Call or events related to the Call, including promotional materials.
+
+**VII.	Guarantees of the Contest Participant**
+
+**25.	**Use of the name and logo of the IDB. The contest participant recognizes and accepts that he or she cannot use in any way the corporate identity of the IDB, including its logo, name and symbols, without express written authorization.
+
+**26.	Complete and accurate information.** The IDB can, at its discretion, disqualify any Digital Tool that has been postulated or selected with information the IDB considers incomplete, erroneous, false, falsified or in violation of these terms and conditions, either during or after the Call. In such cases, the IDB reserves the right to take the measures it deems necessary.
+
+**27.	Information about intellectual property and authorship.** The contest participant is responsible for making available accurate information about any aspect related to the intellectual property and authorship of any Digital Tool that is submitted. The contest participant recognizes and accepts that the IDB will not be responsible for any error or liability that stems from intellectual property and authorship. 
+
+**28.	Indemnization.** The participant agrees to defend, indemnify and maintain unharmed the IDB from any claims for damages, lawsuits or legal procedures, as well as any and all losses, liabilities, damages, costs or expenses (including lawyers’ honoraria) that arise from or originate from: (i) any idea or other material provided by the Contest Participant that infringes any copyrights, brands, trade secrets, commercial image, patent or other right of any person to intellectual property or defames any person or violates their rights to publicity, privacy or any other related matter; (ii) breach or violation of any guarantee established in this document; (iii) any false statement made by the contest participant related to the Call for Proposals; (iv) any breach by the Contest Participant of these Rules; (v) the claims presented by persons or entities other than the parties to the current Rules derived from or related to participation of the Contest Participant in the Call for Proposals; and (vi) the acceptance, possession, improper use or use of any prize or participation in any activity related to the Call or to participation in the Call.
+
+**VIII.	Additional Provisions** 
+
+**29.	**The contest participant accepts and recognizes that the IDB may carry out due diligence reviewing databases and public information about the contest participant, the Digital Tool or any other aspect related to the Call.
+
+**30.	**By participating in the Call, the contest participant accepts and recognizes that he or she exonerates the IDB and the Evaluation Committee from any complaint, expense or loss related to his or her participation, including costs of generation, maintenance, publication or updating of the Digital Tool.
+
+**31.	**The contest participant will be responsible for informing the IDB about any change in the Digital Tool that makes it ineligible or impossible for participation in the Call or in subsequent publication on the webpage of the Bank, including the transference or loss of the intellectual property rights. 
+
+**32.	Responsibility.** The contest participant accepts and recognizes that the IDB will not certify and will not recommend the Digital Tool. The contest participant recognizes that the IDB will not be responsible for any unauthorized use or violation of property rights or authorship by third parties.
+
+**33.	Applicable law and Arbitrage.** This Call is regulated by the laws of the District of Columbia, United States, without reference to the provisions regarding conflict of laws. As a condition for participating in this Call, the contest participant accepts that any and all disputes or legal action that arises from, or in connection with, this Call, and that cannot be resolved in an amicable way between the parties, must be presented for arbitrage before a single arbiter. The arbitrage must be administered by the American Arbitration Association, in accord with the Commercial Arbitration Rules of the American Arbitration Association. The site of the arbitrage will be Washington, District of Columbia, United States. The arbitrage will be conducted in English. The arbiter can receive legal advice, if requested by the arbiter or one of the parties. The costs of arbitrage will be covered in equitable form by the parties.
+
+**34.	Privileges and immunities.** No provision in these terms or conditions must be applied or interpreted as a denial, restriction or limitation of the privileges and immunities of the IDB nor of its personnel recognized under any treaty, national or international law.
+
+---
 <style> .ocultar_breadcrumb_ingles{ display:none; } .ocultar_home_ingles{ display:none; } </style>
