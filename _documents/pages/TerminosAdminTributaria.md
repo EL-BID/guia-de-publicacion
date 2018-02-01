@@ -142,6 +142,11 @@ iv. El BID no será responsable en caso de extravío de equipaje, cancelaciones 
 **34. Privilegios e inmunidades.** Ninguna provisión en estos términos o condiciones debe ser aplicada o interpretada como una renuncia, restricción o límite de los privilegios e inmunidades del BID ni de su personal reconocidos bajo cualquier tratado, ley nacional o ley internacional. 
 
 ---
+
+# English version
+
+# Terms and Conditions for the Call for Proposals of Tools in Open Code for Subnational Tax Administration
+
 **1.**	The following details the Terms and Conditions of the Call for Proposals of Digital Tools in Open Code for Subnational Tax Administration (henceforth, the “Terms and Conditions” and the “Call”, respectively). 
 
 By participating in the Call, the contest participant accepts fully and completely the Terms and Conditions, including any modification that is made in the future. The up-to-date version of these Terms and Conditions is available on this website. The Inter-American Development Bank (“IDB”) will notify the contest participants of any modification via e-mail.
@@ -154,11 +159,11 @@ By participating in the Call, the contest participant accepts fully and complete
   
 **3.	Requirements for Nominated Digital Tools**
 
-i.	Contest participants may present applications (apps), algorithms and/or other digital tools (each one the “Digital Tool” and, in a set, the “Digital Tools”).
-ii.	Only one Digital Tool may be nominated on each form, but it is understood that a Digital Tool can be made up of several Digital Tools.
-iii.	All material presented by the contest participant must be in English, Spanish or Portuguese.
-iv.	The Digital Tools can be in any programming language.
-v.	The Digital Tools must be in open code or, if not, the contest participant must be willing to open the code.
+- i.	Contest participants may present applications (apps), algorithms and/or other digital tools (each one the “Digital Tool” and, in a set, the “Digital Tools”).
+- ii.	Only one Digital Tool may be nominated on each form, but it is understood that a Digital Tool can be made up of several Digital Tools.
+- iii.	All material presented by the contest participant must be in English, Spanish or Portuguese.
+- iv.	The Digital Tools can be in any programming language.
+- v.	The Digital Tools must be in open code or, if not, the contest participant must be willing to open the code.
 
 **4.		General required information and consent.** The contest participant must fill in completely and truthfully the information required on the form of the Call (the “Form”). By submitting the proposal, the contest participant accepts all the Terms and Conditions of the Call.
 
@@ -169,7 +174,7 @@ By submitting a nomination, the contest participant certifies that the informati
 **6.	Deadline for submitting nominations.** The contest participant must present his/her nomination before Sunday March 4 at 11:59 pm, Eastern Standard Time, in Washington, D.C., United States, by filling in the Form of the Call available at [link], and considering and accepting these Terms and Conditions.
 The IDB may, at its discretion, extend the time period for submitting nominations. In that event, the IDB will publish the new deadline on the web page code.iadb.org/share-your-code.
  
-**II.	Selection and Notification**
+## II.	Selection and Notification
 
 **7.	Selection for Review by the Evaluation Committee.** Before advancing the nominated Digital Tools for consideration, the IDB will remove those that:
 
@@ -197,7 +202,7 @@ With regard to the content about tax administration, the Selection Committee wil
 **13.**	Any decision by the Evaluation Committee will be final and will not be subject to any review, reconsideration or appeal.
 
 
-**III.	Platform of Open Code for Development**
+## III.	Platform of Open Code for Development
 
 **14.**	Requirements for the Digital Tools selected. The contest participants whose Digital Tools are selected for inclusion in the Platform of Open Code for Development (henceforth, the “Platform”) must send to the IDB, within no more than 10 working days, via the email code@iadb.org a signed statement (henceforth, the “Statement”) in which they certify that:
 
@@ -219,7 +224,7 @@ If the Digital Tool makes use of any element that is not the property and exclus
 
 **19.**	The contest participants recognize that inclusion of the Digital Tool in the Platform and any other website of the Bank will not result in compensation of any type by the IDB nor in the recommendation or preference for the use of the Digital Tool.
 
-**IV.	Prize**
+## IV.	Prize
 
 **20.**	The three Digital Tools selected that receive the highest scoring from the Evaluation Committee will receive:
 
@@ -241,7 +246,7 @@ of attendance at the Workshop.
 
 **22.**	The IDB can suspend the Workshop at any time temporarily or permanently.
 
-**V.	Intellectual Property Rights**
+## V.	Intellectual Property Rights
 
 
 **23.	Licenses, authorizations and permits.** The person who presents himself or herself as owner of the property and authorship of the Digital Tool will arrange for, without any cost to the IDB, any license, authorization or permit, as well as any technical aspect, including documentation, that is required for inclusion of the Digital Tool in the websites of the Bank.
@@ -250,9 +255,9 @@ of attendance at the Workshop.
 
 **24.	Dissemination of information.** By presenting the required certification, the party that presents himself or herself as owner of the property and authorship of the Digital Tool expressly authorizes the IDB to reproduce and disseminate in any type of communications media the names, logos, corporate identity and nationalities of the participant and of the Digital Tool, according to how this information was filled out in the Form of the Call, in conjunction with the Call or events related to the Call, including promotional materials.
 
-**VII.	Guarantees of the Contest Participant**
+## VII.	Guarantees of the Contest Participant
 
-**25.	**Use of the name and logo of the IDB. The contest participant recognizes and accepts that he or she cannot use in any way the corporate identity of the IDB, including its logo, name and symbols, without express written authorization.
+**25. Use of the name and logo of the IDB.** The contest participant recognizes and accepts that he or she cannot use in any way the corporate identity of the IDB, including its logo, name and symbols, without express written authorization.
 
 **26.	Complete and accurate information.** The IDB can, at its discretion, disqualify any Digital Tool that has been postulated or selected with information the IDB considers incomplete, erroneous, false, falsified or in violation of these terms and conditions, either during or after the Call. In such cases, the IDB reserves the right to take the measures it deems necessary.
 
@@ -260,13 +265,13 @@ of attendance at the Workshop.
 
 **28.	Indemnization.** The participant agrees to defend, indemnify and maintain unharmed the IDB from any claims for damages, lawsuits or legal procedures, as well as any and all losses, liabilities, damages, costs or expenses (including lawyers’ honoraria) that arise from or originate from: (i) any idea or other material provided by the Contest Participant that infringes any copyrights, brands, trade secrets, commercial image, patent or other right of any person to intellectual property or defames any person or violates their rights to publicity, privacy or any other related matter; (ii) breach or violation of any guarantee established in this document; (iii) any false statement made by the contest participant related to the Call for Proposals; (iv) any breach by the Contest Participant of these Rules; (v) the claims presented by persons or entities other than the parties to the current Rules derived from or related to participation of the Contest Participant in the Call for Proposals; and (vi) the acceptance, possession, improper use or use of any prize or participation in any activity related to the Call or to participation in the Call.
 
-**VIII.	Additional Provisions** 
+## VIII.	Additional Provisions 
 
-**29.	**The contest participant accepts and recognizes that the IDB may carry out due diligence reviewing databases and public information about the contest participant, the Digital Tool or any other aspect related to the Call.
+**29.** The contest participant accepts and recognizes that the IDB may carry out due diligence reviewing databases and public information about the contest participant, the Digital Tool or any other aspect related to the Call.
 
-**30.	**By participating in the Call, the contest participant accepts and recognizes that he or she exonerates the IDB and the Evaluation Committee from any complaint, expense or loss related to his or her participation, including costs of generation, maintenance, publication or updating of the Digital Tool.
+**30.** By participating in the Call, the contest participant accepts and recognizes that he or she exonerates the IDB and the Evaluation Committee from any complaint, expense or loss related to his or her participation, including costs of generation, maintenance, publication or updating of the Digital Tool.
 
-**31.	**The contest participant will be responsible for informing the IDB about any change in the Digital Tool that makes it ineligible or impossible for participation in the Call or in subsequent publication on the webpage of the Bank, including the transference or loss of the intellectual property rights. 
+**31.** The contest participant will be responsible for informing the IDB about any change in the Digital Tool that makes it ineligible or impossible for participation in the Call or in subsequent publication on the webpage of the Bank, including the transference or loss of the intellectual property rights. 
 
 **32.	Responsibility.** The contest participant accepts and recognizes that the IDB will not certify and will not recommend the Digital Tool. The contest participant recognizes that the IDB will not be responsible for any unauthorized use or violation of property rights or authorship by third parties.
 
@@ -275,4 +280,135 @@ of attendance at the Workshop.
 **34.	Privileges and immunities.** No provision in these terms or conditions must be applied or interpreted as a denial, restriction or limitation of the privileges and immunities of the IDB nor of its personnel recognized under any treaty, national or international law.
 
 ---
+
+# Versão em português
+
+# Termos e Condições da Convocatória de Ferramentas de Código Aberto para a Administração Tributária Subnacional
+
+**1.**	A seguir, detalham-se os Termos e Condições da Convocatória de Ferramentas Digitais de Código Aberto para a Administração Tributária Subnacional (doravante, os “Termos e Condições” e a “Convocatória”, respectivamente).
+
+Ao participar da Convocatória, o participante aceita de forma completa e integral os Termos e Condições, incluindo qualquer modificação que possa ser feita no futuro. A versão atualizada destes Termos e Condições está disponível neste website. O Banco Interamericano de Desenvolvimento (“BID”) notificará os participantes por e-mail se houver alguma alteração.
+
+## I.	Indicação de Ferramentas Digitais
+
+**2.	Requisitos para o Participante.** A convocatória está aberta para indivíduos maiores de 18 anos de idade que sejam cidadãos de um país membro do BID, bem como para agências ou entidades governamentais, organizações civis e entidades privadas desses países. A lista de Países Membros está disponível em: https://www.iadb.org/es/acerca-de-nosotros/como-esta-organizado-el-banco-interamericano-de-desarrollo-%2C5998.html.
+Os funcionários e consultores do BID poderão participar da Convocatória, desde que essa participação esteja de acordo com as políticas aplicáveis do BID.
+
+**3.	Requisitos para as Ferramentas Digitais propostas.**
+
+- i.	Os participantes poderão apresentar aplicativos, algoritmos e/ou outras ferramentas digitais (cada uma referida como a “Ferramenta Digital” e, em seu conjunto, as “Ferramentas Digitais”).
+- ii.	Só será possível apresentar uma única Ferramenta Digital por formulário, mas entende-se que uma Ferramenta Digital possa ser composta de várias Ferramentas Digitais.
+- iii.	Todo material apresentado pelo participante deverá estar em inglês, espanhol ou português.
+- iv.	As Ferramentas Digitais poderão estar em qualquer linguagem de programação.
+- v.	As Ferramentas Digitais devem estar em código aberto ou, se não estiverem, deve existir a disposição do participante a abri-las.
+
+**4.	Informações gerais exigidas e consentimento.** O participante deve fornecer de forma completa e veraz as informações exigidas no formulário da Convocatória (o “Formulário”). Ao apresentar a proposta, o participante aceita todos os Termos e Condições da convocatória.
+
+**5.	Requisitos de propriedade intelectual e autoria.** O participante poderá fazer indicações de Ferramentas Digitais sobre as quais não tenha os direitos de propriedade e autoria. Nesse caso, o participante deverá identificar essa circunstância de modo expresso no formulário, fornecendo informações completas e verdadeiras sobre a identidade e modos de contato do detentor dos direitos de propriedade e autoria da Ferramenta Digital, segundo seu conhecimento.
+Ao apresentar uma indicação, o participante certifica que as informações fornecidas sobre os direitos de propriedade e autoria da Ferramenta Digital são completas e verdadeiras, segundo seu conhecimento.
+
+**6.	Prazo para a apresentação de indicações.** O participante deve apresentar sua indicação antes de domingo, 4 de março, às 23h59, hora de Washington, Distrito de Colúmbia, Estados Unidos, preenchendo o formulário da Convocatória disponível em [link] e lendo e aceitando estes Termos e Condições.
+O BID poderá, a seu critério, ampliar o prazo para a apresentação de indicações. Nesse caso, o BID publicará o novo prazo na página code.iadb.org/share-your-code.
+ 
+**II.	Seleção e Notificação**
+
+**7.	Seleção para o exame do Comitê de Avaliação.** Antes de encaminhar as Ferramentas Digitais indicadas, o BID removerá aquelas que:
+
+- i.	Não estiverem de acordo com os termos e condições da Convocatória.
+- ii.	Promoverem qualquer tipo de proselitismo político e/ou religioso.
+- iii.	Ilustrarem condutas ou expressões vulgares, ou cujo conteúdo for considerado indecente ou obsceno.
+- iv.	Utilizarem conteúdo que possa ser considerado difamatório, calunioso ou injurioso.
+- v.	Utilizarem conteúdo que promova a intolerância, o racismo, o ódio ou violência contra qualquer grupo ou indivíduo, ou discriminação por motivos de raça, sexo, religião, nacionalidade, deficiência, orientação sexual ou idade.
+
+**8.	Composição e funções do Comitê de Avaliação.** O Banco estabelecerá um Comitê de Avaliação que será constituído de especialistas, internos e externos ao Banco, em gestão de conhecimento aberto, gestão fiscal subnacional e tecnologias da informação e comunicação.
+
+**9.	Inelegibilidade das Ferramentas Digitais.** O Comitê de Avaliação não examinará nenhuma indicação recebida depois do encerramento do prazo para a apresentação de indicações, que não atenda algum dos requisitos especificados nestes Termos e Condições ou que seja considerada inelegível pelo BID ou pelo Comitê de Avaliação.
+O Comitê de Avaliação poderá solicitar informações adicionais ou esclarecimentos sobre a Ferramenta Digital a fim de determinar sua elegibilidade dentro destes Termos e Condições.
+
+**10.	Avaliação das Ferramentas Digitais.** O Comitê de Avaliação avaliará as Ferramentas Digitais com base em seu conteúdo tecnológico e relevância para a administração tributária.
+
+Quanto ao conteúdo tecnológico, o Comitê de Avaliação levará em consideração o grau de replicabilidade, escalabilidade e portabilidade da Ferramenta Digital (com três critérios principais: que seja baseada em padrões, independente do fornecedor e/ou multiplataforma), bem como as informações oferecidas sobre documentação que explique os procedimentos necessários para instalação, administração e manejo corretos, e o grau de uso atual. Será dada prioridade às Ferramentas Digitais com licença BSD ou MIT.
+
+Quanto ao conteúdo sobre administração tributária, o Comitê de Seleção levará em consideração a relevância técnica da Ferramenta Digital em qualquer uma das áreas de gestão tributária (por exemplo, registro de propriedades em cadastro, pagamento de impostos subnacionais, elaboração de contas correntes e saldos, atendimento ao contribuinte, preparação de planos de pagamento, simuladores de valorização de propriedades, fiscalização tributária, educação tributária e observatórios imobiliários interativos, entre outras), seu enfoque ou conteúdo inovador e, quando aplicável, os resultados documentados até a data.
+
+**11.	Notificação de Seleção.** Os participantes receberão uma notificação pelo e-mail informado no Formulário até, no máximo, quarta-feira, 14 de março de 2018.
+
+**12.	Convocatória deserta.** A Convocatória poderá ser suspensa a qualquer momento de forma temporária ou permanente se o Comitê de Avaliação considerar que não foi recebido um número suficiente de propostas de alta qualidade.
+
+**13.	Qualquer decisão do Comitê de Avaliação será definitiva e não estará sujeita a nenhuma revisão, reconsideração ou recurso.
+
+## III.	Plataforma de Código Aberto para o Desenvolvimento
+** 14.	Requisitos para as Ferramentas Digitais selecionadas.** Os participantes cujas Ferramentas Digitais forem selecionadas para ser incluídas na Plataforma de Código Aberto para o Desenvolvimento (doravante, a “Plataforma”) deverão enviar ao BID, pelo e-mail code@iadb.org e em um prazo não superior a 10 dias úteis, uma declaração assinada (doravante, a “Declaração”) certificando que:
+- i.	São cidadãos de um país membro do BID.
+- ii.	Têm pelo menos 18 anos de idade.
+- iii.	No caso de uma agência governamental ou organização civil ser pré-selecionada, seu representante legal deverá preencher e enviar a declaração, certificando que está devidamente autorizado para esse fim.
+- iv.	São os únicos detentores dos direitos de propriedade e autoria da Ferramenta Digital e que esta não infringe direitos de terceiros, incluídos os direitos de propriedade intelectual.
+Se a Ferramenta Digital fizer uso de qualquer elemento que não seja de propriedade e autoria exclusiva do participante, isso deve ser manifestado de forma expressa na Declaração, junto com informações completas e verdadeiras sobre a identidade e informações de contato do detentor desses direitos de propriedade e autoria.
+O BID poderá exigir que o participante ofereça provas e informações adicionais sobre qualquer aspecto relacionado aos direitos de propriedade e autoria da Ferramenta Digital.
+- v.	Não têm nenhum impedimento de elegibilidade para qualquer projeto do BID.
+- vi.	Aceitam estes Termos e Condições.
+
+**15.	Data limite para confirmar a concordância com a inclusão na Plataforma.** Se o endereço de e-mail estiver incorreto ou o Banco não receber resposta do participante em um prazo de duas semanas, resultando na impossibilidade por parte do BID de confirmar a aceitação do participante, isso será entendido como uma renúncia à seleção do Comitê Avaliador e a Ferramenta Digital poderá ser desqualificada. O participante não poderá apresentar queixa ou solicitação de reconsideração a esse respeito.
+
+**16.	Crédito.** Caso a Ferramenta Digital seja selecionada para ser publicada na Plataforma, o BID a publicará na webpage http://code.iadb.org, com nome, logotipo e uma breve descrição. O conteúdo da descrição e qualquer outro aspecto referente a esta cláusula está sujeito às políticas do BID. O BID poderá remover a qualquer momento a Ferramenta Digital de sua webpage, temporária ou permanentemente, sem necessidade de justificar nem informar a decisão ao participante.
+
+**17.	**As Ferramentas Digitais que forem publicadas na Plataforma e em qualquer outra página do BID em virtude desta Convocatória deverão estar de acordo, em todos os momentos, com as orientações estabelecidas no Guia para Publicar Ferramentas Digitais, disponível em: https://el-bid.github.io/guia-de-publicacion.
+
+**18.	Inclusão da Ferramenta Digital na Página do BID.** O Comitê de Avaliação solicitará opiniões não vinculantes do participante sobre a linguagem e a forma com que a Ferramenta Digital pode ser incluída na Plataforma e/ou em qualquer página do BID. O BID se reserva o direito de publicar a Ferramenta Digital em sua webpage, blogs e/ou Plataforma por tempo indefinido.
+
+**19.**	Os participantes reconhecem que a inclusão da Ferramenta Digital na Plataforma e em qualquer outro site do Banco não resultará em nenhuma remuneração de qualquer natureza por parte do BID nem na recomendação ou preferência do uso da Ferramenta Digital.
+
+## IV.	Prêmio
+
+**20.**	As três Ferramentas Digitais selecionadas que tiverem a pontuação mais alta do Comitê de Avaliação receberão:
+
+- i.	Um convite para um dos representantes de cada uma das três Ferramentas Digitais selecionadas para participar de uma Oficina de Intercâmbio de Conhecimento que acontecerá nos dias 4 e 5 de abril de 2018 na Sede Central do BID em Washington, Distrito de Colúmbia, Estados Unidos (doravante, a “Oficina”). A Oficina será uma oportunidade para que representantes das entidades participantes, desenvolvedores de ferramentas e especialistas do BID tenham a chance de conhecer as experiências e práticas de administração tributária subnacional.
+- ii.	O BID emitirá um pagamento único, cujo montante será determinado a seu critério, para cobrir os gastos relacionados ao comparecimento à Oficina por parte do representante da Ferramenta Digital e que deverá ser utilizado para cobrir as passagens aéreas de ida e volta de seu local de residência até Washington, Distrito de Colúmbia, em classe econômica, e gastos com alimentação, deslocamentos internos, alojamento e seguro de viagem pela duração da Oficina.
+A compra da passagem e reserva do hotel, assim como qualquer providência relacionada a possíveis vistos, serão de exclusiva responsabilidade dos premiados. A quantia, em dólares americanos ou seu equivalente em moeda nacional, será entregue por meio de uma transferência bancária e formalizada por uma Carta de Concordância. O BID não se encarregará de nenhum gasto adicional.
+Os participantes terão a responsabilidade de preencher os formulários exigidos pelo Banco e de fornecer todas as informações necessárias para a emissão do pagamento em um prazo máximo de 5 dias úteis depois que elas tiverem sido solicitadas. Caso as informações necessárias não sejam recebidas, será entendido que o participante renunciou ao prêmio.
+- iii.	O BID não será responsável pela negativa do consulado de qualquer país de emitir vistos ou permissões necessárias para o comparecimento à Oficina, os quais serão responsabilidade e risco exclusivos do participante. Se um participante não obtiver os vistos ou permissões necessárias, sua participação nesses eventos será cancelada e o Banco não oferecerá nenhum tipo de compensação ou de pagamento compensatório.
+- iv.	O BID não será responsável em caso de extravio de equipamentos, cancelamento de voos e/ou de reservas de hotel, emergências médicas ou qualquer outro tipo de gastos que possam surgir em associação com a participação na Oficina, com exceção dos aqui descritos.
+
+**21.**	Os participantes cujas Ferramentas Digitais tenham recebido as três pontuações mais altas por parte do Comitê de Avaliação deverão enviar ao BID, pelo e-mail code@iadb.org e em um prazo máximo de 5 dias úteis, sua aceitação do prêmio e sua confirmação de comparecimento à Oficina.
+
+**22.**	O BID poderá suspender a Oficina a qualquer momento de forma temporária ou permanente.
+
+## V.	Direitos de Propriedade Intelectual
+
+**23.	Licenças, autorizações e permissões.** A parte que se apresente como detentora da propriedade e autoria da Ferramenta Digital se responsabilizará, sem nenhum custo para o BID, por qualquer licença, autorização ou permissão ou qualquer aspecto técnico, incluindo a documentação, que seja necessário para a inclusão da Ferramenta Digital nos sites do Banco na internet.
+
+## VI.	Autorizações Adicionais
+
+**24.	Disseminação das informações.** Ao apresentar a certificação exigida, a parte que se apresente como detentora da propriedade autoriza expressamente o BID a reproduzir e disseminar em qualquer tipo de meio de comunicação os nomes, logotipos, identidade corporativa, nacionalidades do participante e da Ferramenta Digital, conforme aplicável e do modo como forem preenchidos no formulário da Convocatória, em associação com a Convocatória ou eventos relacionados à Convocatória, incluindo materiais promocionais.
+
+## VII.	Garantias do Participante
+
+**25.	Uso do nome e logotipo do BID.** O participante reconhece e aceita que não poderá fazer uso de nenhuma identidade corporativa do BID, incluindo logotipo, nome e símbolos, sem autorização expressa por escrito.
+
+**26.	Informações completas e verídicas.** O BID poderá, a seu critério, desqualificar qualquer Ferramenta Digital que tenha sido proposta ou selecionada com informações que o BID considere incompletas, errôneas, falsas, falsificadas ou em violação destes termos e condições, seja durante ou depois da Convocatória. Nesse caso, o BID se reserva o direito de tomar as medidas que considere necessárias.
+
+**27.	Informações de propriedade intelectual e autoria.** O participante é responsável por fornecer informações verídicas sobre qualquer aspecto relacionado à propriedade intelectual e autoria de qualquer Ferramenta Digital proposta. O participante reconhece e aceita que o BID não será responsável por nenhum erro ou responsabilidade que resulte da propriedade intelectual e autoria.
+
+**28.	Indenização.** O participante concorda em defender, indenizar e isentar o BID de e contra qualquer reclamação, ação, processo ou procedimento, bem como de toda e qualquer perda, responsabilidade, prejuízo, custos e gastos (incluindo honorários de advogados) que surjam de ou se refiram a: 
+
+- (i) qualquer ideia ou outro material fornecido pelo Participante que infrinja qualquer direito de autor, marcas, sigilos comerciais, imagem comercial, patente ou outro direito de propriedade intelectual de qualquer pessoa ou que difame qualquer pessoa ou viole seus direitos de publicidade, privacidade ou qualquer outro relacionado; 
+- (ii) descumprimento de qualquer garantia estabelecida neste documento; 
+- (iii) qualquer declaração falsa feita pelo participante em relação à Convocatória; (iv) qualquer descumprimento por parte do Participante destes Termos e Condições; 
+- (v) reclamações apresentadas por pessoas ou entidades distintas das partes das presentes Regras, derivadas de ou relacionadas à participação do Participante na Convocatória; e 
+- (vi) aceitação, posse, uso indevido ou uso de qualquer prêmio ou participação em qualquer atividade relacionada à Convocatória ou à participação na Convocatória.
+
+## VIII.	Cláusulas Adicionais
+
+**29.**	O participante aceita e reconhece que o BID poderá adotar procedimentos de devida diligência com base em dados e informações públicas sobre o participante, a Ferramenta Digital ou qualquer aspecto relacionado à Convocatória.
+
+**30.**	Ao participar da Convocatória, o participante aceita e reconhece que isenta o BID e o Comitê de Avaliação de qualquer queixa, gasto ou prejuízo relacionado à sua participação, incluídos os gastos de geração, manutenção, publicação ou atualização da Ferramenta Digital.
+
+**31.**	O participante terá a responsabilidade de informar o BID sobre qualquer mudança na Ferramenta Digital que resulte em sua inelegibilidade ou impossibilidade de participar da Convocatória ou da subsequente publicação na página do Banco, incluindo a transferência ou perda de direitos de propriedade intelectual.
+
+**32.	Responsabilidade.** O participante reconhece e aceita que o BID não certificará nem recomendará a Ferramenta Digital. O participante reconhece que o BID não será responsável por qualquer uso não autorizado ou violação dos direitos de propriedade ou autoria por parte de terceiros.
+
+**33.	Lei aplicável e Arbitragem.** Esta Convocatória será regida pelas leis do Distrito de Colúmbia, Estados Unidos, independentemente de conflitos de disposições legais. Como condição para participar desta Convocatória, o participante aceita que todo e qualquer litígio ou ação legal que surja desta Convocatória ou relacionada a esta Convocatória e que não possa ser resolvida de forma amigável entre as partes deverá ser apresentada para arbitragem diante de um único árbitro. A arbitragem deverá ser feita pela Associação Americana de Arbitragem, em conformidade com as Regulações de Arbitragem Comercial da Associação Americana de Arbitragem. A sede da arbitragem será Washington, Distrito de Colúmbia, Estados Unidos. A arbitragem será feita em inglês. O árbitro poderá receber assessoria jurídica, se assim for solicitado por ele ou por alguma das partes. As custas da arbitragem serão cobertas de forma equitativa pelas partes.
+
+**34.	Privilégios e imunidades.** Nenhuma cláusula nestes termos ou condições deve ser aplicada ou interpretada como uma renúncia, restrição ou limite dos privilégios e imunidades do BID nem de seu pessoal, reconhecidos sob qualquer tratado, lei nacional ou lei internacional.
+
 <style> .ocultar_breadcrumb_ingles{ display:none; } .ocultar_home_ingles{ display:none; } </style>
