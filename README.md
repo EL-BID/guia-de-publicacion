@@ -78,8 +78,10 @@ Los documentos se encuentran en la carpeta `/_documents`. Cada documento tiene i
 * `note` - Nota de la barra lateral.
 * `links` - Lista de enlaces disponibles en la barra lateral.
 
-## Autores
+## Contribuidores
 
+Jesenia Rodriguez
+José Luis Delgado Davara
 [Jairo Anaya](https://github.com/jairoanaya/) - [www.jairoanaya.com](http://www.jairoanaya.com)
 
 ## Licencia
