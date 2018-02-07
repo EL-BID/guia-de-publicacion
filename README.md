@@ -80,9 +80,9 @@ Los documentos se encuentran en la carpeta `/_documents`. Cada documento tiene i
 
 ## Contribuidores
 
-Jesenia Rodriguez
-José Luis Delgado Davara
-[Jairo Anaya](https://github.com/jairoanaya/) - [www.jairoanaya.com](http://www.jairoanaya.com)
+* Jesenia Rodriguez
+* [José Luis Delgado Davara](www.twitter.com/jldelda)
+* [Jairo Anaya](https://github.com/jairoanaya/) - [www.jairoanaya.com](http://www.jairoanaya.com)
 
 ## Licencia
 
