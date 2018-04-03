@@ -1,4 +1,4 @@
-#bootstrap and build
+#bootstrap and builds
 before_script: "./script/bootstrap"
 script: "./script/cibuild"
 
