@@ -76,13 +76,16 @@ Es un servicio de integración continua alojado y distribuido utilizado para pro
 Los proyectos de código abierto se pueden probar sin cargo a través en travis-ci.org y los proyectos privados se pueden probar en travis-ci.com con cargo. 
 https://travis-ci.org/
 
+Si lo que quieres es configurar travis en tu proyecto de github, empieza por aquí:
+https://docs.travis-ci.com/user/languages
+
 * **Jenkins**
 es un software de Integración continua open source escrito en Java. Está basado en el proyecto Hudson y es, dependiendo de la visión, un fork del proyecto o simplemente un cambio de nombre.
 
 Jenkins proporciona integración continua para el desarrollo de software. Es un sistema corriendo en un servidor que es un contenedor de servlets, como Apache Tomcat. Soporta herramientas de control de versiones como CVS, Subversion, Git, Mercurial, Perforce y Clearcase y puede ejecutar proyectos basados en Apache Ant y Apache Maven, así como scripts de shell y programas batch de Windows. 
 https://jenkins.io/
 
-en ambos casos se debe configurar builds, que son los paquetes que necesitas para ejecutar un reporte de calidad técnica.
+en ambos casos se debe configurar los builds, que son los paquetes que necesitas para ejecutar un reporte de calidad técnica.
 
 ## ¿Cómo generar reportes de calidad técnica?
 
