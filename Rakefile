@@ -24,7 +24,7 @@ task :test do
                               url_swap: { %r{https://chooseadocument.com} => '' },
                               check_img_http: true).run
 end
-task default: :spec
+
 
 task :approved_documents do
   require './spec/spec_helper_doc'
