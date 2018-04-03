@@ -9,7 +9,7 @@ lang: es
 description: Una herramienta digital desarrollada con calidad técnica facilita el mantenimiento y reusabilidad de la misma. Las condiciones necesarias especificadas a continuación sirven como lineamientos generales a la hora de desarrollar código. Las condiciones ideales serán útiles si quieres hacer una evaluación de la calidad del código.  
 
 requirements:
-- Crea módulos cortos, documentados y simple
+- Crea módulos cortos documentados
 - Optimiza las líneas de código
 - Crea una arquitectura de componentes ordenada y balanceada
 - Evita duplicación de código
@@ -38,11 +38,58 @@ links:
 
 La calidad técnica de una herramienta digital se establece en la medida en que la escritura del código fuente y la arquitectura de la herramienta digital esté libre de fallos estructurales que puedan bloquear su uso o reutilización y que además faciliten la comprensión en la lectura y modificación del Código Fuente.
 
-## ¿Cómo se mide el nivel de calidad técnica?
+## ¿Qué características técnicas principales definen la calidad de una herramienta digital?
+las siguientes características son variables que dependen del contexto y el propsósito de la herramienta digital.
+
+* **Flexibilidad**
+Deberá ser capaz de funcionar de forma completa y adecuada sin depender de licenciamientos forzosos de ningún tipo de componente adicional.
+
+* **Portabilidad** 
+Deberá ser capaz de funcionar de forma completa y adecuada en distintos sistemas operativos, especialmente en aquellos que no implican costos adicionales de licenciamiento y que cuentan con actualizaciones periódicas de seguridad de forma gratuita, por ejemplo: algunas distribuciones de Linux y/o sistemas BSD.
+
+* **Escalabilidad**
+Deberá contar con documentación, reportes y/o herramientas que permitan determinar de forma adecuada los costos y consideraciones asociados al escalamiento de la solución.
+
+* **Interoperabilidad**
+Deberá contar con al menos un mecanismo que permita la interconexión e interoperabilidad con distintos sistemas existentes y futuros, por ejemplo: API, RPC, SDK, etc.
+
+* **Licenciamiento**
+Deberá estar publicada bajo un esquema de licenciamiento que permita su despliegue y utilización en distintos contextos y casos de uso.
+para más información sobre el licenciamiento de tu herramienta visita la sección 
+
+## ¿Qué es la integración continua de código?
+
+La integración continua es una práctica de desarrollo de software donde los miembros de un equipo integran su trabajo con frecuencia, por lo general cada persona se integra al menos diariamente, lo que lleva a integraciones múltiples por día. Cada integración se verifica mediante una compilación automatizada (incluida la prueba) para detectar errores de integración lo más rápido posible. 
+
+## ¿Por qué es importante la integración continua de código?
+
+Muchos equipos encuentran que este enfoque conduce a la reducción de problemas de integración significativamente y permite a un equipo desarrollar software cohesivo más rápidamente. 
+
+Para leer más sobre este tema te recomendamos que visites la web de Martin Fowler https://www.martinfowler.com/, quien propuso el modelo.
+
+## ¿Qué herramientas de integración continua de código recomendamos?
+
+Existen muchas herramientas de integración continua, en esta guía te recomendamos dos:
+
+* **Travis CI**
+Es un servicio de integración continua alojado y distribuido utilizado para probar proyectos de software alojados en GitHub.
+Los proyectos de código abierto se pueden probar sin cargo a través en travis-ci.org y los proyectos privados se pueden probar en travis-ci.com con cargo. 
+https://travis-ci.org/
+
+* **Jenkins**
+es un software de Integración continua open source escrito en Java. Está basado en el proyecto Hudson y es, dependiendo de la visión, un fork del proyecto o simplemente un cambio de nombre.
+
+Jenkins proporciona integración continua para el desarrollo de software. Es un sistema corriendo en un servidor que es un contenedor de servlets, como Apache Tomcat. Soporta herramientas de control de versiones como CVS, Subversion, Git, Mercurial, Perforce y Clearcase y puede ejecutar proyectos basados en Apache Ant y Apache Maven, así como scripts de shell y programas batch de Windows. 
+https://jenkins.io/
+
+en ambos casos se debe configurar builds, que son los paquetes que necesitas para ejecutar un reporte de calidad técnica.
+
+## ¿Cómo generar reportes de calidad técnica?
 
 A través de un análisis de código estático. Este análisis evalúa la comprensión del código a través del estilo de programación, la arquitectura y la documentación del propio código (líneas de código comentadas). 
 
-**SonarQube** es una de las herramientas permite llevar un control de la calidad de código a medida que se desaroolla.
+**SonarQube** es una de las herramientas que permiten llevar un control de la calidad de código a medida que se desarolla. 
+
 
 ## ¿Qué herramientas existen para evaluar la calidad del código?
 
