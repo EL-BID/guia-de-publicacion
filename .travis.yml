@@ -20,4 +20,4 @@ env:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 
 sudo: false
-cache: bundler
+#cache: bundler
