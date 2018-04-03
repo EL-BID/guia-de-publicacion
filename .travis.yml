@@ -1,6 +1,6 @@
 #bootstrap and builds
 before_script: "./script/bootstrap"
-#script: "./script/cibuild"
+script: "./script/cibuild"
 
 #environment
 language: ruby
@@ -20,4 +20,4 @@ env:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 
 sudo: false
-#cache: bundler
+cache: bundler
