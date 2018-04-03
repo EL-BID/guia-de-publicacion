@@ -1,4 +1,5 @@
-#bootstrap and builds
+
+#bootstrap and build
 before_script: "./script/bootstrap"
 script: "./script/cibuild"
 
@@ -6,6 +7,11 @@ script: "./script/cibuild"
 language: ruby
 rvm:
   - 2.4.0
+
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
 
 branches:
   only:
