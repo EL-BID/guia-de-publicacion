@@ -2,7 +2,7 @@
 
 #set -e
 
-#echo "building the site..."
-#bundle exec rake test
+echo "building the site..."
+bundle exec rake test
 
-#bundle exec rubocop -D -S
+bundle exec rubocop -D -S
