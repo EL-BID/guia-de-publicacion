@@ -3,6 +3,12 @@
 require 'html-proofer'
 require 'rspec/core/rake_task'
 
+
+
+
+
+
+
 desc 'Run specs'
 RSpec::Core::RakeTask.new do |t|
   t.pattern = 'spec/**/*_spec.rb'
@@ -18,6 +24,7 @@ task :test do
                               url_swap: { %r{https://chooseadocument.com} => '' },
                               check_img_http: true).run
 end
+task default: :spec
 
 task :approved_documents do
   require './spec/spec_helper_doc'
