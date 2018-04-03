@@ -1,7 +1,8 @@
 #!/bin/sh
 
-set -e
+#set -e
 
-echo "building the site..."
+#echo "building the site..."
 #bundle exec rake test
-bundle exec rubocop -D -S
+
+#bundle exec rubocop -D -S
