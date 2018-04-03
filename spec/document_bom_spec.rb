@@ -3,7 +3,7 @@
 require 'spec_helper_doc'
 
 describe 'byte order marks' do
-  Dir["#{documents_path}/*.html"].each do |file|
+  Dir["#{documents_path}/*.txt"].each do |file|
     context "the #{File.basename(file, '.txt')} document" do
       it 'does not begin with a byte order mark' do
         bom = File.open(file).read.start_with?("\u0000EF\u0000BB\u0000BF")
