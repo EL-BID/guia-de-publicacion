@@ -1,15 +1,14 @@
 # frozen_string_literal: true
 
 require 'jekyll'
-require 'open-uri'
 require 'json'
+require 'licensee'
 require 'open-uri'
-require 'nokogiri'
 
 module SpecHelper
   class << self
-    attr_accessor :config, :documents, :site, :spdx
-    attr_accessor :osi_approved_documents, :fsf_approved_documents, :od_approved_documents
+    attr_accessor :config, :licenses, :site, :spdx
+    attr_accessor :osi_approved_licenses, :fsf_approved_licenses, :od_approved_licenses
   end
 end
 
@@ -21,8 +20,8 @@ def source
   File.expand_path('../', File.dirname(__FILE__))
 end
 
-def documents_path
-  File.expand_path '_documents', source
+def licenses_path
+  File.expand_path '_licenses', source
 end
 
 def config
@@ -33,17 +32,17 @@ def config
   end
 end
 
-def documents
-  SpecHelper.documents ||= begin
-    site.collections['documents'].docs.map do |document|
-      spdx_lcase = File.basename(document.basename, '.txt')
-      document.to_liquid.merge('spdx-lcase' => spdx_lcase)
+def licenses
+  SpecHelper.licenses ||= begin
+    site.collections['licenses'].docs.map do |license|
+      spdx_lcase = File.basename(license.basename, '.txt')
+      license.to_liquid.merge('spdx-lcase' => spdx_lcase)
     end
   end
 end
 
-def shown_documents
-  documents.reject { |l| l['hidden'] }
+def shown_licenses
+  licenses.reject { |l| l['hidden'] }
 end
 
 def site
@@ -72,65 +71,73 @@ def rule?(tag, group)
 end
 
 def spdx_list
-  url = 'https://raw.githubusercontent.com/sindresorhus/spdx-document-list/master/spdx.json'
-  SpecHelper.spdx ||= JSON.parse(open(url).read)
+  SpecHelper.spdx ||= begin
+    url = 'https://spdx.org/licenses/licenses.json'
+    list = JSON.parse(OpenURI.open_uri(url).read)['licenses']
+    list.each_with_object({}) do |values, memo|
+      memo[values['licenseId']] = values
+    end
+  end
 end
 
 def spdx_ids
   spdx_list.map { |name, _properties| name }
 end
 
-def find_spdx(document)
-  spdx_list.find { |name, _properties| name == document }
+def find_spdx(license)
+  spdx_list.find { |name, _properties| name.casecmp(license).zero? }
 end
 
-def osi_approved_documents
-  SpecHelper.osi_approved_documents ||= begin
-    documents = {}
-    list = spdx_list.select { |_id, meta| meta['osiApproved'] }
+def osi_approved_licenses
+  SpecHelper.osi_approved_licenses ||= begin
+    licenses = {}
+    list = spdx_list.select { |_id, meta| meta['isOsiApproved'] }
     list.each do |id, meta|
-      documents[id.downcase] = meta['name']
+      licenses[id.downcase] = meta['name']
     end
-    documents
+    licenses
   end
 end
 
-def fsf_approved_documents
-  SpecHelper.fsf_approved_documents ||= begin
-    url = 'https://www.gnu.org/documents/document-list.en.html'
-    doc = Nokogiri::HTML(open(url).read)
-    list = doc.css('.green dt')
-    documents = {}
-    list.each do |document|
-      a = document.css('a').find { |link| !link.text.nil? && !link.text.empty? && link.attr('id') }
-      next if a.nil?
-      id = a.attr('id').downcase
-      name = a.text.strip
-      documents[id] = name
+def fsf_approved_licenses
+  SpecHelper.fsf_approved_licenses ||= begin
+    url = 'https://wking.github.io/fsf-api/licenses-full.json'
+    object = JSON.parse(OpenURI.open_uri(url).read)
+    licenses = {}
+    object.each_value do |meta|
+      next unless (meta.include? 'identifiers') && (meta['identifiers'].include? 'spdx') && (meta.include? 'tags') && (meta['tags'].include? 'libre')
+      meta['identifiers']['spdx'].each do |identifier|
+        licenses[identifier.downcase] = meta['name']
+      end
     end
-
-    # FSF approved the Clear BSD, but doesn't use its SPDX ID or Name
-    if documents.keys.include? 'clearbsd'
-      documents['bsd-3-clause-clear'] = documents['clearbsd']
-    end
-
-    documents
+    licenses
   end
 end
 
-def od_approved_documents
-  SpecHelper.od_approved_documents ||= begin
-    url = 'http://documents.opendefinition.org/documents/groups/od.json'
-    data = open(url).read
+def od_approved_licenses
+  SpecHelper.od_approved_licenses ||= begin
+    url = 'http://licenses.opendefinition.org/licenses/groups/od.json'
+    data = OpenURI.open_uri(url).read
     data = JSON.parse(data)
-    documents = {}
+    licenses = {}
     data.each do |id, meta|
-      documents[id.downcase] = meta['title']
+      licenses[id.downcase] = meta['title']
     end
-    documents
+    licenses
   end
 end
 
-def approved_documents
-  (osi_approved_documents.keys + fsf_approved_documents.keys + od_approved_documents.keys).flatten.uniq.sort
+def approved_licenses
+  (osi_approved_licenses.keys + fsf_approved_licenses.keys + od_approved_licenses.keys).flatten.uniq.sort
+end
+
+module Licensee
+  class License
+    class << self
+      def license_dir
+        dir = ::File.dirname(__FILE__)
+        ::File.expand_path '../_licenses', dir
+      end
+    end
+  end
 end
