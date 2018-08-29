@@ -28,44 +28,44 @@ El Software puede ser del tipo, pero sin estar limitado a (i) programa ejecutabl
 2.6  Usuario: cualquier persona, natural o jurídica, que obtenga una copia del Software.  
 
 ### 3.      Derechos del BID 
-3.1  El BID se reserva todos los derechos de propiedad intelectual, incluyendo sin limitación derechos de autor, relacionados con o asociados al Software.
-3.2  El BID se reserva expresamente los derechos de ceder, transferir y/o sub-licenciar el Software y/o cualquiera de sus componentes a terceros sin previo aviso.
+3.1  El BID se reserva todos los derechos de propiedad intelectual, incluyendo sin limitación derechos de autor, relacionados con o asociados al Software.  
+3.2  El BID se reserva expresamente los derechos de ceder, transferir y/o sub-licenciar el Software y/o cualquiera de sus componentes a terceros sin previo aviso.  
 
 ### 4.      Derechos del Usuario sobre Software Derivado
 El Usuario que desarrolle Software Derivado retendrá todos los derechos de propiedad intelectual, incluyendo sin limitación derechos de autor, relacionados con o asociados al Software Derivado, en el entendido que dicho Software Derivado y cualquier otra edición futura estén sujetas a los mismos términos y condiciones de esta Licencia.
 
 ### 5.      Restricciones
-5.1  El Usuario sólo está autorizado a hacer uso del Software conforme se describe en esta Licencia.
-5.2  Con excepción de esta Licencia, el BID no otorga ninguna otra licencia al Usuario con respecto a cualquier otra información u obra propiedad del BID o de cualquier derecho de autor, marcas o cualquier otro derecho de propiedad intelectual del BID. Cualquier licencia adicional deberá ser por escrito y firmada por un representante del BID debidamente autorizado para tales fines.
-5.3  La Licencia no constituye una venta del Software ni de cualquier parte o copia de la misma.
-5.4  El Usuario no podrá usar ni permitir que otros usen el Software para fines comerciales.
-5.5  El Usuario sólo podrá autorizar el uso del Software a terceros de conformidad con lo establecido en esta Licencia, sin que en ningún caso los terceros puedan adquirir más derechos sobre el Software que los expresamente otorgados por el BID mediante esta Licencia.  
+5.1  El Usuario sólo está autorizado a hacer uso del Software conforme se describe en esta Licencia.  
+5.2  Con excepción de esta Licencia, el BID no otorga ninguna otra licencia al Usuario con respecto a cualquier otra información u obra propiedad del BID o de cualquier derecho de autor, marcas o cualquier otro derecho de propiedad intelectual del BID. Cualquier licencia adicional deberá ser por escrito y firmada por un representante del BID debidamente autorizado para tales fines.  
+5.3  La Licencia no constituye una venta del Software ni de cualquier parte o copia de la misma.  
+5.4  El Usuario no podrá usar ni permitir que otros usen el Software para fines comerciales.  
+5.5  El Usuario sólo podrá autorizar el uso del Software a terceros de conformidad con lo establecido en esta Licencia, sin que en ningún caso los terceros puedan adquirir más derechos sobre el Software que los expresamente otorgados por el BID mediante esta Licencia.    
 
 ### 6.      Reconocimiento
 6.1 El Usuario deberá mantener los siguientes enunciados y exenciones en el archivo principal de la Documentación del Software:  
-"Copyright © [año]. Banco Interamericano de Desarrollo ("BID"). Uso autorizado.
-Los procedimientos y resultados obtenidos en base a la ejecución de este software son los programados por los desarrolladores y no necesariamente reflejan el punto de vista del BID, de su Directorio Ejecutivo ni de los países que representa." 
-6.1.1 En el caso de Software del Fondo Multilateral de Inversiones ("FOMIN"), la exención de responsabilidad deberá ser: "Las opiniones expresadas en esta obra son de los autores y no necesariamente reflejan el punto de vista del BID, de su Directorio Ejecutivo ni de los países que representa, así como tampoco del Comité de Donantes del FOMIN ni de los países que representa."
-6.2 El Usuario podrá incluir en el Software Derivado una referencia al Software como obra original, siempre y cuando dicho aviso no genere confusión alguna respecto a la titularidad de los derechos del BID sobre el Software.
+"Copyright © [año]. Banco Interamericano de Desarrollo ("BID"). Uso autorizado.  
+Los procedimientos y resultados obtenidos en base a la ejecución de este software son los programados por los desarrolladores y no necesariamente reflejan el punto de vista del BID, de su Directorio Ejecutivo ni de los países que representa."   
+6.1.1 En el caso de Software del Fondo Multilateral de Inversiones ("FOMIN"), la exención de responsabilidad deberá ser: "Las opiniones expresadas en esta obra son de los autores y no necesariamente reflejan el punto de vista del BID, de su Directorio Ejecutivo ni de los países que representa, así como tampoco del Comité de Donantes del FOMIN ni de los países que representa."  
+6.2 El Usuario podrá incluir en el Software Derivado una referencia al Software como obra original, siempre y cuando dicho aviso no genere confusión alguna respecto a la titularidad de los derechos del BID sobre el Software.  
 
 ### 7.      Nombre y Logo del BID
 El Usuario no podrá hacer uso del nombre y/o logo del BID para fines diferentes a los aquí estipulados, ni podrá hacer promesas, ni adquirir compromisos u obligaciones, ni otorgar garantías de ninguna clase en nombre del BID.
 
 ### 8.      Declaraciones y Garantías
-8.1 El BID otorga esta Licencia sin garantía explícita o implícita de ningún género, objetiva o subjetiva, por responsabilidad contractual o extracontractual, lo que comprende, sin consistir en una enumeración taxativa, garantías de comerciabilidad, adecuación, cumplimiento de normas o requisitos o aplicabilidad para un fin determinado. 
-8.2 El BID no garantiza que el funcionamiento del Software será ininterrumpido o libre de errores y no asume obligación alguna de actualizar, corregir ni introducir mejoras en el Software. 
-8.3 El Usuario asume exclusivamente el riesgo por su utilización, y así deberá informarlo a terceros cuando utilice, distribuya o ponga el Software a disposición de terceros.   
+8.1 El BID otorga esta Licencia sin garantía explícita o implícita de ningún género, objetiva o subjetiva, por responsabilidad contractual o extracontractual, lo que comprende, sin consistir en una enumeración taxativa, garantías de comerciabilidad, adecuación, cumplimiento de normas o requisitos o aplicabilidad para un fin determinado.   
+8.2 El BID no garantiza que el funcionamiento del Software será ininterrumpido o libre de errores y no asume obligación alguna de actualizar, corregir ni introducir mejoras en el Software.   
+8.3 El Usuario asume exclusivamente el riesgo por su utilización, y así deberá informarlo a terceros cuando utilice, distribuya o ponga el Software a disposición de terceros.     
 
 ### 9.      Limitación de Responsabilidad
-9.1 El BID no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:
-9.1.1  Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o
-9.1.2  A raíz del uso del Software, incluyendo, pero sin limitación de potenciales defectos en el Software, o la pérdida o inexactitud de los datos de cualquier tipo. Lo anterior incluye los gastos o daños asociados a fallas de comunicación y/o fallas de funcionamiento de computadoras, vinculados con la utilización del Software.
+9.1 El BID no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:  
+9.1.1  Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o  
+9.1.2  A raíz del uso del Software, incluyendo, pero sin limitación de potenciales defectos en el Software, o la pérdida o inexactitud de los datos de cualquier tipo. Lo anterior incluye los gastos o daños asociados a fallas de comunicación y/o fallas de funcionamiento de computadoras, vinculados con la utilización del Software.  
 
 ### 10.  Indemnización
-10.1 El Usuario se obliga a liberar, defender e indemnizar al BID, su personal y consultores, conforme sea aplicable, de cualquier reclamo, queja, acción, pérdida, demanda, responsabilidad, obligación, daño, costo, incluyendo sin limitación, honorarios de abogados, que pudiesen emprender contra el BID, su personal y/o consultores en virtud de: 
-10.1.1  El ejercicio de los derechos otorgados por el BID bajo esta Licencia.
-10.1.2  Incumplimiento de los términos y condiciones de esta Licencia por parte del Usuario.
-10.1.3  Infracción de derechos de autor de terceros por parte del Usuario con relación al uso del Software y el desarrollo de Software Derivado.
+10.1 El Usuario se obliga a liberar, defender e indemnizar al BID, su personal y consultores, conforme sea aplicable, de cualquier reclamo, queja, acción, pérdida, demanda, responsabilidad, obligación, daño, costo, incluyendo sin limitación, honorarios de abogados, que pudiesen emprender contra el BID, su personal y/o consultores en virtud de:   
+10.1.1  El ejercicio de los derechos otorgados por el BID bajo esta Licencia.  
+10.1.2  Incumplimiento de los términos y condiciones de esta Licencia por parte del Usuario.  
+10.1.3  Infracción de derechos de autor de terceros por parte del Usuario con relación al uso del Software y el desarrollo de Software Derivado.  
 
 ### 11.  Terminación de la Licencia
 El BID podrá terminar de manera inmediata esta Licencia, con causa o sin causa, sin dar aviso previo al Usuario. La terminación con causa aplica en caso de que el BID determine, a su entera discreción, que el uso del Software es inconsistente con los términos y condiciones de esta Licencia. 
