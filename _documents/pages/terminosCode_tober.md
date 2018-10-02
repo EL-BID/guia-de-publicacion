@@ -16,7 +16,7 @@ lang: en
 
 *"É de sua inteira responsabilidade compreender plenamente os termos e condições aos quais você estará automaticamente concordando ao nomear uma Ferramenta Digital para a Convocatória. A versão oficial destes termos e condições está em espanhol. Em caso de discrepância entre as diferentes versões, prevalecerá o documento em espanhol. Se você não domina o espanhol suficientemente bem para entender os termos e condições por conta própria é de sua responsabilidade obter a assistência necessária para tal".*
 
-### English vertion
+### English version
 
 ## Terms and Conditions for the Expedition Code_tober  
 1. The following details the Terms and Conditions of the Expedition Code_tober (henceforth, the “Terms and Conditions” and the “Call”, respectively).  
@@ -59,3 +59,4 @@ In particular, the applicable provisions of the Code of Ethics and Professional 
 
 
 34. Privileges and immunities. No provision in these terms or conditions must be applied or interpreted as a denial, restriction or limitation of the privileges and immunities of the IDB nor of its personnel recognized under any treaty, national or international law.  
+<style> .ocultar_breadcrumb_ingles{ display:none; } .ocultar_home_ingles{ display:none; } </style>
