@@ -27,10 +27,9 @@ Ponte en contacto con el equipo de Código para el Desarrollo (code@iadb.org) si
 
 ## 4.	¿Qué recursos ofrece Código para el Desarrollo para los empleados del BID? 
 
-* Una cuenta oficial de organización en Github (github.com/el-BID) para trabajar en repositorios compartidos con el equipo de desarrollo.
+* Una [cuenta oficial de organización en Github](github.com/el-BID) para trabajar en repositorios compartidos con el equipo de desarrollo.
 
-* Una plantilla de repositorio https://github.com/EL-BID/Plantilla-de-repositorio
-con un archivo README.md listo para rellenar. 
+* Una [plantilla de repositorio](https://github.com/EL-BID/Plantilla-de-repositorio) con un archivo README.md listo para rellenar. 
 * Una [Lincencia BID](https://el-bid.github.io/guia-de-publicacion/documents/pages/licenciabid/) para definir los términos y condiciones de las herramientas digitales publicadas por el BID.
 * Una Guía de publicación para ayudar a redactar documentación, licenciar un repositorio y evaluar calidad de código.
 
