@@ -29,8 +29,9 @@ Ponte en contacto con el equipo de Código para el Desarrollo (code@iadb.org) si
 
 * Una cuenta oficial de organización en Github (github.com/el-BID) para trabajar en repositorios compartidos con el equipo de desarrollo.
 
-* Una plantilla de repositorio con un archivo README.md listo para rellenar. 
-* Una licencia BID para definir los términos y condiciones de las herramientas digitales publicadas por el BID.
+* Una plantilla de repositorio https://github.com/EL-BID/Plantilla-de-repositorio
+con un archivo README.md listo para rellenar. 
+* Una [Lincencia BID](https://el-bid.github.io/guia-de-publicacion/documents/pages/licenciabid/) para definir los términos y condiciones de las herramientas digitales publicadas por el BID.
 * Una Guía de publicación para ayudar a redactar documentación, licenciar un repositorio y evaluar calidad de código.
 
 
