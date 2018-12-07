@@ -31,7 +31,7 @@ If you or your team need a shared development repository, contact the Code for D
 
 * An [official organization account on GitHub](github.com/el-BID) in order to work with the development team in shared repositories. 
 * A [repository template](https://github.com/EL-BID/Plantilla-de-repositorio) with a README.md file ready to be filled out.
-* An [IDB license](https://el-bid.github.io/guia-de-publicacion/documents/pages/licenciabid/)to define the terms and conditions for digital tools published by the IDB.
+* An [IDB license](https://el-bid.github.io/guia-de-publicacion/documents/pages/licenciabid/) to define the terms and conditions for digital tools published by the IDB.
 * A publication guide to help write documentation, license a repository and evaluate code quality.
 
 ### 5. What should I keep in mind in order to publish an IDB digital tool on Code for Development?
