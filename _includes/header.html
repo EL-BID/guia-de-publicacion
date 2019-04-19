@@ -24,12 +24,14 @@
     {% seo %}
   </head>
   <body class="{{ page.layout }}{% if page.class %} {{ page.class }}{% endif %}">
+      <div class="cabecera"> 
     <a href="https://www.iadb.org/es" title="Inicio" rel="home" class="site-logo">
       <img src="//www.iadb.org/themes/custom/iadb/images/logos/iadb-logo-es.png" alt="Inicio">                    
     </a>
     <a class="navbar-brand" href="#">
       <span class="text-uppercase fs-md-20 fs-14 fw-700">Código para el desarrollo</span>
     </a>
+    </div>
     <div class="container">
 
       {% include breadcrumbs.html %}
