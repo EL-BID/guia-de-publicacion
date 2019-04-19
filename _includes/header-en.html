@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- check upload -->
+    {%if site.github %}
+      <link rel="stylesheet" href="/guia-de-publicacion/assets/css/application.css?v={{ site.github.build_revision }}">
+      <link rel="shortcut icon" href="/guia-de-publicacion/faviconbid.ico" type="image/x-icon">
+      <link rel="stylesheet" href="/guia-de-publicacion/assets/css/font-awesome.min.css">
+    {% else %}
+      <link rel="stylesheet" href="/assets/css/application.css?v={{ site.github.build_revision }}">
+      <link rel="shortcut icon" href="/faviconbid.ico" type="image/x-icon">
+      <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
+    {% endif %}
+    
+ 
+    <!--[if lt IE 9]>
+    <script src="/assets/vendor/html5shiv/dist/html5shiv.js"></script>
+    <script src="/assets/vendor/selectivizr/selectivizr.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    {% seo %}
+  </head>
+  <body class="{{ page.layout }}{% if page.class %} {{ page.class }}{% endif %}">
+      
+    <div class="cabecera" style="
+    text-align: left;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+"> 
+    <a href="https://www.iadb.org/en" title="Inicio" rel="home" class="site-logo" style="
+    display: block;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+">
+      <img src="//www.iadb.org/sites/default/files/idb-logo-en.png" alt="Inicio" class="" style="
+    width: 23%;
+">                    
+    </a>
+    <div class="navbar-brand" href="#" style="
+    margin-top: 10px;
+    margin-bottom: 10px;
+">
+      <a href="https://code.iadb.org/en" >CODE FOR DEVELOPMENT</a>
+    </div>
+    </div>
+    <div class="container">
+
+      {% include breadcrumbs.html %}
+
+      {% if page.layout=='default' %}
+      {% if page.title %}
+        <h1>{{ page.title | markdownify | strip_html | strip_newlines }}</h1>
+      {% endif %}
+      {% endif %}
