@@ -39,7 +39,7 @@ Debes tener en cuenta la documentación, la licencia y la calidad técnica de la
 
 * Documentación: Debe cumplir con los requerimientos necesarios de documentación especificados en la guía para publicar herramientas digitales.
 * Licencia: Salvo casos justificados, debe contener la licencia BID.
-* Calidad técnica: Deben cumplir con los requerimientos deseables de evaluación técnica especificados en la Guía de Publicación. Estos son coinciden con el nivel definido como *Standard* en la tabla de evaluación: 
+* Calidad técnica: Deben cumplir con los requerimientos deseables de evaluación técnica especificados en la Guía de Publicación. 
     * Ausencia de fallos estructurales
     * Menos del 25% de líneas duplicadas
     * Menos de 10 problemas críticos
@@ -47,33 +47,18 @@ Debes tener en cuenta la documentación, la licencia y la calidad técnica de la
     * Deuda técnica menor a 30 días
     * Cobertura de test más del 25%
 
-*Tabla de Evaluación*
 
-| Quality Gates 	| Blocker issues 	| Duplicated lines 	|Critical issues 	| Public documented API 	| Technical debt 	| Technical debt ratio 	| Test coverage 	|
-|:-------------:	|:--------------:	|:----------------:	|:-------------------:	|:---------------------:	|:--------------:	|:--------------------:	|:-------------:	|
-| **Low**          	|       =0       	|       <50%       	|         <20         	|          >25%         	|      <60d      	|         <40%         	|      >10%     	|
-| **Standard**      	|       =0       	|       <25%       	|         <10         	|          >50%         	|      <30d      	|         <20%         	|      >25%     	|
-| **High**          	|       =0       	|       <15%       	|          <0         	|          >60%         	|      <10d      	|         <20%         	|      >70%     	|
-
-
-La herramienta **Sonarqube** te puede ayudar a obtener un informe de las métricas usadas en la evaluación técnica.
-
-Revisa el Anexo 2 del Manual Administrativo AM-331 para conocer el procedimiento para la Publicación de Productos de conocimiento del Banco. 
-
-## 6.	¿Qué debo tener en cuenta para a la hora de poner una herramienta digital en producción en el entorno del BID?
-Antes de poner una herramienta en producción en el entorno del BID debes tener en cuenta el [Product Review and Accreditation Checklist (PRAC)](https://idbg.sharepoint.com/sites/IT%20Governance/Pages/prc_processs.aspx). Esto es una lista de validaciones necesarias que te guiará por todas las consideraciones a tener en cuenta antes de poner una herramienta en un entorno de producción en el Banco. Puedes encontrar más información en la red interna del Banco pinchando aquí.
-
-## 7.	Tengo una herramienta digital que podría ser publicada en Código para el Desarrollo, ¿por dónde empiezo? 
+## 6.	Tengo una herramienta digital que podría ser publicada en Código para el Desarrollo, ¿por dónde empiezo? 
 * Descárgate la “Plantilla de repositorio” en tu computadora y completa el archivo README.md
 * Incluye todos los archivos que no sean peligrosos de publicar. (Los que sí lo sean los puedes incluir en el archivo .gitignore)
 * Envía un correo a code@iadb.org con información de la herramienta y tu usuario de Github solicitando que creemos un repositorio en la cuenta de @el-BID.
 * Incluye la licencia al repositorio y evalúa la calidad técnica de la herramienta
 * Sube la herramienta digital al repositorio de Github y nos pondremos en contacto contigo para publicarla en code.iadb.org
 
-## 8.	¿Las herramientas publicadas en Código para el Desarrollo tienen que ser de código abierto?
+## 7.	¿Las herramientas publicadas en Código para el Desarrollo tienen que ser de código abierto?
 No, aunque fomentamos la publicación del código abierto de las herramientas digitales, entendemos que en determinadas ocasiones eso puede poner en riesgo la seguridad de algunos sistemas o simplemente mantienen su potencial de impacto en el desarrollo sin necesidad de publicar su código.
 
-## 9.	Consejos generales para publicar código en @el-BID
+## 8.	Consejos generales para publicar código en @el-BID
 
 * Piensa en las implicaciones de seguridad que puede tener publicar el código. Por ejemplo:
 	* Revisar que no haya Api keys dentro del código.
