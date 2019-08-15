@@ -58,7 +58,7 @@ Debes tener en cuenta la documentación, la licencia y la calidad técnica de la
 ## 7.	¿Las herramientas publicadas en Código para el Desarrollo tienen que ser de código abierto?
 No, aunque fomentamos la publicación del código abierto de las herramientas digitales, entendemos que en determinadas ocasiones eso puede poner en riesgo la seguridad de algunos sistemas o simplemente mantienen su potencial de impacto en el desarrollo sin necesidad de publicar su código.
 
-## 8.	Consejos generales para publicar código en @el-BID
+## 8.	Consejos generales de seguridad para publicar código en @el-BID
 
 * Piensa en las implicaciones de seguridad que puede tener publicar el código. Por ejemplo:
 	* Revisar que no haya Api keys dentro del código.
