@@ -54,7 +54,7 @@ You should keep the documentation, license and technical quality of the tool in 
 
 No; although we encourage the open source publication of digital tools, we understand that on certain occasions, this could put the security of some systems at risk, or that they simply maintain their potential impact on development without the need to publish your code.
 
-### 8. General tips for publishing code on @el-BID.
+### 8. General security tips for publishing code on @el-BID.
 
 Think about the security implications of publishing the code. For example:
 *	Check that there aren’t any API keys in the code.
