@@ -1,5 +1,5 @@
 ---
-title: IDB Publication Guide
+title: F.A.Q about IDB tools
 spdx-id: guia
 nickname: guia
 source: 
@@ -41,27 +41,8 @@ You should keep the documentation, license and technical quality of the tool in 
 *	License: Must contain the IDB license, except in justified cases.
 *	Technical quality: Must meet the desired requirements for technical evaluation specified in the publication guide.
 
-These are the same as those defined as standard in the evaluation table:
-*	Absence of structural failures
-*  Less than 25% duplicated lines
-*	Less than 10 critical issues
-*	Over 50% of classes, interfaces and methods documented
-*	Technical debt less than 30 days
-*  Test coverage over 25%
 
-Evaluation Table
-
-| Quality Gates | Blocker Issues | Duplicated Lines | Critical Issues | Public Documented API | Technical Debt | Technical Debt Ratio | Test Coverage |
-|---------------|----------------|------------------|-----------------|-----------------------|----------------|----------------------|---------------|
-| Low           | -0             | <50%             | <20             | >25%                  | <60d           | <40%                 | >10%          |
-| Standar       | -0             | <25%             | <10             | >50%                  | <30d           | <20%                 | >25%          |
-| High          | -0             | <25%             | <0              | >60%                  | <10d           | <20%                 | >70%          |
-
-### 6. What should I keep in mind when putting the digital tool into production in the IDB environment?
-
-Before putting a tool into production in the IDB environment, you should consider the Product Review and Accreditation Checklist (PRAC). This is a list of necessary checks that will guide you through all the considerations to keep in mind before putting a tool into a production environment in the Bank. You can find more information on the Bank’s internal network by clicking here.
-
-### 7. I have a digital tool that could be published on Code for Development; where do I start?
+### 6. I have a digital tool that could be published on Code for Development; where do I start?
 
 *	Download the “repository template” to your computer and complete the README.md file.
 *	Include all files that aren’t dangerous to publish. (Those that are can be included in the .gitignore file.)
@@ -69,11 +50,11 @@ Before putting a tool into production in the IDB environment, you should conside
 *	Include the license to the repository and evaluate the tool’s technical quality.
 *	Upload the digital tool to the GitHub repository, and we’ll contact you to publish it on code.iadb.org.
 
-### 8. Do the digital tools published on Code for Development have to be open source?
+### 7. Do the digital tools published on Code for Development have to be open source?
 
 No; although we encourage the open source publication of digital tools, we understand that on certain occasions, this could put the security of some systems at risk, or that they simply maintain their potential impact on development without the need to publish your code.
 
-### 9. General tips for publishing code on @el-BID.
+### 8. General tips for publishing code on @el-BID.
 
 Think about the security implications of publishing the code. For example:
 *	Check that there aren’t any API keys in the code.
