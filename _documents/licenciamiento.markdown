@@ -10,6 +10,7 @@ description: La licencia de una herramienta digital otorga permisos y especifica
 
 requirements:
 - Incluir una licencia de código abierto
+- Incluir una licencia para la documentación
 
 expected:
 - Especificación de licencias de terceros
@@ -27,7 +28,12 @@ links:
 
 Las licencias más comunes son: **MIT**, la cual da libertad a otros usuarios siempre que atribuyan al creador original; la licencia **Apache 2.0**, muy similar a la MIT pero que también proporciona una concesión expresa de derechos de patente de los contribuyentes a los usuarios; y las **licencias GNU GPL**, que requiere que cualquier persona que distribuya su código o trabajo derivado, lo haga manteniendo la fuente y los mismo términos. Los contribuyentes otorgan una concesión expresa de derechos de patente.
 
+## ¿Cuáles son las licencias para la documentación más comunes?
 
+Recomendamos el uso de las licencias creative commons para el licenciamiento de la documentación de las herramientas.
+La CC0-1.0, CC-BY-4.0 y CC-BY-SA-4.0 por ejemplo son licencias abiertas que se utilizan para material que no es de software, desde conjuntos de datos hasta videos. Tenga en cuenta que CC-BY-4.0 y CC-BY-SA-4.0 no deben usarse para el software.
+
+Para herramientas desarrolladas por el BID por el momento recomendamos usar la Creative Commons IGO 3.0 Attribution-NonCommercial-NoDerivative (CC-IGO 3.0 BY-NC-ND).
 
 
 
