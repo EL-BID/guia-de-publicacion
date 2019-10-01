@@ -35,13 +35,13 @@ Para facilitar el trabajo, puedes hacer click **[aquí]((https://github.com/EL-B
 ## ¿Qué información debo incluir en el archivo README?
 Aunque no existe un formato estándar, estas son las secciones necesarias más comunes para disponer de un README completo. Opcionalmente, esta información puede ir en otros documentos o archivos, pero ello debe estar referenciado en el README.
 
-* **Descripción y contexto**
+* **Descripción y contexto:**
 Descripción de las funcionalidades, el contexto donde fue desarrollado y los problemas de desarrollo que ayudó a resolver.
 
-*   **Guía de usuario**
+*   **Guía de usuario:**
 Paso a paso dirigido al usuario final sobre cómo empezar a usar la herramienta digital. Si esta información es demasiado extensa, puede ir en un documento aparte, pero es una buena práctica nombrarlo en la documentación.
 
-*	**Guía de instalación**
+*	**Guía de instalación:**
 Instrucciones de instalación para reutilizar y configurar la herramienta digital. Esta sección está dirigida a desarrolladores. Se deben especificar:
 
 	* Los requisitos del sistema operativo para la compilación (versiones específicas de librerías, software de gestión de paquetes y dependencias, SDKs y compiladores, etc.).
@@ -53,10 +53,10 @@ Instrucciones de instalación para reutilizar y configurar la herramienta digita
 *	**Autores**
 Sección para dar créditos a los colaboradores de la herramienta.
 
-*	**Licencia para el código de la herramienta**
+*	**Licencia para el código de la herramienta:**
 Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. (Leer más sobre cómo licenciar [aquí](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/))
 
-*	**Licencia para la documentación de la herramienta*
+*	**Licencia para la documentación de la herramienta:**
 Recomandamos el uso de las licencias creative commons para el licenciamiento de la documentación de las herramientas.
 La CC0-1.0, CC-BY-4.0 y CC-BY-SA-4.0 por ejemplo son licencias abiertas que se utilizan para material que no es de software, desde conjuntos de datos hasta videos. Tenga en cuenta que CC-BY-4.0 y CC-BY-SA-4.0 no deben usarse para el software.
 
