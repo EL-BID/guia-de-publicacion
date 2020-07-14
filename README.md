@@ -1,3 +1,4 @@
+[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/guia-de-publicacion/readme?useReferer)](https://github.com/EL-BID/guia-de-publicacion)
 # Guía para Publicar herramientas digitales
 *Read this document in [english](https://github.com/EL-BID/guia-de-publicacion/blob/master/REAMDE_en.md)*
 ## Descripción y contexto
