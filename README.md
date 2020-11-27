@@ -1,7 +1,7 @@
 [![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/guia-de-publicacion/readme?useReferer)](https://github.com/EL-BID/guia-de-publicacion)
 # Guía para Publicar herramientas digitales
 *Read this document in [english](https://github.com/EL-BID/guia-de-publicacion/blob/master/REAMDE_en.md)*
-## Descripción y contexto
+## Descripción y contexto:
 
 La Guía para Publicar Herramientas digitales es una página web estática que usa la tecnología Jekyll y está alojada en Github. Su contenido sirve para que cualquier desarrollador la use como un recurso de fácil acceso con información centralizada sobre cómo desarrollar herramientas digitales que puedan ser usadas, reutilizadas y adaptadas por otros gobiernos y ciudadanos.
 
