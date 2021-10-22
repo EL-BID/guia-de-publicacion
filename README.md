@@ -1,4 +1,5 @@
-[![Analytics](https://ga-beacon.appspot.com/UA-4677001-16/guia-de-publicacion/readme?useReferer)](https://github.com/EL-BID/guia-de-publicacion)
+
+[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/guia-de-publicacion/readme?useReferer)](https://github.com/EL-BID/guia-de-publicacion)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_guia-de-publicacion&metric=alert_status)](https://sonarcloud.io/dashboard?id=EL-BID_guia-de-publicacion)
 # Guía para Publicar herramientas digitales
 *Read this document in [english](https://github.com/EL-BID/guia-de-publicacion/blob/master/REAMDE_en.md)*
