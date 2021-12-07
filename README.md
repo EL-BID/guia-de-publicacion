@@ -1,7 +1,7 @@
 
 [![Analytics](https://vitr-analytics.appspot.com/UA-4677001-16/guia-de-publicacion/readme?useReferer)](https://github.com/EL-BID/guia-de-publicacion)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_guia-de-publicacion&metric=alert_status)](https://sonarcloud.io/dashboard?id=EL-BID_guia-de-publicacion)
-![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=github&dt=github/guia-de-publicacion&tid=UA-4677001-16)
+![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=github/guia-de-publicacion&dt=&tid=UA-4677001-16)
 ![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=github&dt=github/guia-de-publicacion&tid=UA-168064518-1)
 # Guía para Publicar herramientas digitales
 *Read this document in [english](https://github.com/EL-BID/guia-de-publicacion/blob/master/REAMDE_en.md)*
