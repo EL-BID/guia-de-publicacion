@@ -1,0 +1,88 @@
+site_name: Código para el Desarrollo
+site_description: Proceso de evaluación técnica de herramientas de código abierto
+site_author: Código para el Desarrollo
+site_url: https://el-bid.github.io/guia-de-publicacion/
+
+# Configuration
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+
+  palette:
+    - scheme: default
+      primary: custom
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  language: es                               # Idioma por defecto del tema Material
+
+# Hojas de estilo personalizadas
+extra_css:
+  - stylesheets/extra.css                    # CSS personalizado para colores y footer
+
+# Plugins
+plugins:
+  # Plugin de búsqueda básico (solo español por ahora)
+  - search
+
+  # === CONFIGURACIÓN MULTILINGÜE (COMENTADA TEMPORALMENTE) ===
+  # Descomentar cuando se quiera activar la internacionalización
+  
+  # # Plugin de búsqueda con soporte multilingüe
+  # - search:
+  #     lang: 
+  #       - es  # Español
+  #       - en  # Inglés
+  #       - pt  # Portugués
+  
+  # # Plugin de internacionalización (i18n) para sitio multilingüe
+  # - i18n:
+  #     docs_structure: folder                    # Estructura: cada idioma en su propia carpeta
+  #     fallback_to_default: true               # Si no encuentra traducción, usa idioma por defecto
+  #     reconfigure_material: true              # Reconfigura tema Material automáticamente
+  #     reconfigure_search: true                # Reconfigura búsqueda automáticamente
+  #     languages:
+  #       # Idioma por defecto: Español
+  #       - locale: es                          # Código de idioma ISO
+  #         default: true                       # Este es el idioma principal
+  #         name: Español                       # Nombre mostrado en selector
+  #         build: true                         # Construir esta versión
+  #       
+  #       # Inglés (actualmente en construcción)
+  #       - locale: en                          # Código de idioma ISO
+  #         name: English                       # Nombre mostrado en selector
+  #         build: true                         # Construir esta versión (placeholder)
+  #       
+  #       # Portugués (actualmente en construcción)
+  #       - locale: pt                          # Código de idioma ISO
+  #         name: Português                     # Nombre mostrado en selector
+  #         build: true                         # Construir esta versión (placeholder)
+
+# Navegación del sitio
+nav:
+  - Inicio: index.md                         # Página principal (se adapta según idioma)
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html

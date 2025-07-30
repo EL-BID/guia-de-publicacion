@@ -1,0 +1,58 @@
+/* Custom color palette */
+:root {
+  --md-primary-fg-color: #24506b;
+  --md-primary-fg-color--light: #36678a;
+  --md-primary-fg-color--dark: #1a3d52;
+}
+
+/* Dark mode custom colors */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #24506b;
+  --md-primary-fg-color--light: #36678a;
+  --md-primary-fg-color--dark: #1a3d52;
+}
+
+/* Header background */
+.md-header {
+  background-color: var(--md-primary-fg-color);
+}
+
+/* Navigation tabs */
+.md-tabs {
+  background-color: var(--md-primary-fg-color);
+}
+
+/* Active navigation items */
+.md-nav__item--active > .md-nav__link {
+  color: var(--md-primary-fg-color);
+}
+
+/* Links */
+.md-content a {
+  color: var(--md-primary-fg-color);
+}
+
+/* Search highlight */
+.md-search-result__meta {
+  color: var(--md-primary-fg-color);
+}
+
+/* Custom footer */
+.md-footer-meta__inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.md-footer-meta__inner::before {
+  content: "Código para el desarrollo";
+  color: var(--md-primary-fg-color);
+  font-weight: 500;
+  font-size: 0.7rem;
+}
+
+/* Hide the original footer content */
+.md-footer-meta__inner .md-footer-copyright,
+.md-footer-meta__inner .md-footer-social {
+  display: none;
+}
