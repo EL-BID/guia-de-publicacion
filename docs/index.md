@@ -56,11 +56,12 @@ Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe 
 
 **Otros recursos:**
 En casos donde la herramienta necesite de datasets de entrenamiento publicados junto al código fuente recomendamos publicarlos considerando las siguientes revisiones previas:
-* No debe contener datos personales reales, claves privadas, o modelos entrenados con información que no se pueda compartir.
-* Los datasets de entrenamiento deberán publicarse de forma anonimizada.
-* Considerar que los límites del peso de los datasets deben ser gestionados ya que si superan el máximo de lo que GitHub puede almacenar se debe buscar soluciones personalizadas para cada caso según los recursos disponibles que el equipo tenga para mantener los datasets accesibles.
-* **[Para equipos del BID]** En caso los datasets que se necesiten estén ligados a operaciones y sean dataset que deberían estar publicados en el portal de datos abiertos de BID se deberá contactar con este equipo para seguir su propio proceso de publicación. [https://www.iadb.org/es/recursos-de-conocimiento/datos](https://www.iadb.org/es/recursos-de-conocimiento/datos)
-* **[Para equipos del BID]** Para herramientas que utilicen modelos de redes neuronales, el almacenamiento de los pesos deberá gestionarse en coordinación con el equipo de Cloud4LAC. De esta forma se podrá tomar decisiones sobre cómo compartir este tipo de herramientas con el público.
+
+- No debe contener datos personales reales, claves privadas, o modelos entrenados con información que no se pueda compartir.
+- Los datasets de entrenamiento deberán publicarse de forma anonimizada.
+- Considerar que los límites del peso de los datasets deben ser gestionados ya que si superan el máximo de lo que GitHub puede almacenar se debe buscar soluciones personalizadas para cada caso según los recursos disponibles que el equipo tenga para mantener los datasets accesibles.
+- **[Para equipos del BID]** En caso los datasets que se necesiten estén ligados a operaciones y sean dataset que deberían estar publicados en el portal de datos abiertos de BID se deberá contactar con este equipo para seguir su propio proceso de publicación. [https://www.iadb.org/es/recursos-de-conocimiento/datos](https://www.iadb.org/es/recursos-de-conocimiento/datos)
+- **[Para equipos del BID]** Para herramientas que utilicen modelos de redes neuronales, el almacenamiento de los pesos deberá gestionarse en coordinación con el equipo de Cloud4LAC. De esta forma se podrá tomar decisiones sobre cómo compartir este tipo de herramientas con el público.
 
 ## Evaluación técnica
 
