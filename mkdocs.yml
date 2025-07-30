@@ -33,41 +33,41 @@ extra_css:
 
 # Plugins
 plugins:
-  # Plugin de búsqueda básico (solo español por ahora)
-  - search
-
-  # === CONFIGURACIÓN MULTILINGÜE (COMENTADA TEMPORALMENTE) ===
-  # Descomentar cuando se quiera activar la internacionalización
+  # Plugin de búsqueda con soporte multilingüe
+  - search:
+      lang: 
+        - es  # Español
+        - en  # Inglés
+        - pt  # Portugués
   
-  # # Plugin de búsqueda con soporte multilingüe
-  # - search:
-  #     lang: 
-  #       - es  # Español
-  #       - en  # Inglés
-  #       - pt  # Portugués
-  
-  # # Plugin de internacionalización (i18n) para sitio multilingüe
-  # - i18n:
-  #     docs_structure: folder                    # Estructura: cada idioma en su propia carpeta
-  #     fallback_to_default: true               # Si no encuentra traducción, usa idioma por defecto
-  #     reconfigure_material: true              # Reconfigura tema Material automáticamente
-  #     reconfigure_search: true                # Reconfigura búsqueda automáticamente
-  #     languages:
-  #       # Idioma por defecto: Español
-  #       - locale: es                          # Código de idioma ISO
-  #         default: true                       # Este es el idioma principal
-  #         name: Español                       # Nombre mostrado en selector
-  #         build: true                         # Construir esta versión
-  #       
-  #       # Inglés (actualmente en construcción)
-  #       - locale: en                          # Código de idioma ISO
-  #         name: English                       # Nombre mostrado en selector
-  #         build: true                         # Construir esta versión (placeholder)
-  #       
-  #       # Portugués (actualmente en construcción)
-  #       - locale: pt                          # Código de idioma ISO
-  #         name: Português                     # Nombre mostrado en selector
-  #         build: true                         # Construir esta versión (placeholder)
+  # Plugin de internacionalización (i18n) para sitio multilingüe
+  - i18n:
+      docs_structure: folder                    # Estructura: cada idioma en su propia carpeta
+      fallback_to_default: true               # Si no encuentra traducción, usa idioma por defecto
+      reconfigure_material: true              # Reconfigura tema Material automáticamente
+      reconfigure_search: true                # Reconfigura búsqueda automáticamente
+      languages:
+        # Idioma por defecto: Español
+        - locale: es                          # Código de idioma ISO
+          default: true                       # Este es el idioma principal
+          name: Español                       # Nombre mostrado en selector
+          build: true                         # Construir esta versión
+          nav_translations:
+            Inicio: Inicio
+        
+        # Inglés
+        - locale: en                          # Código de idioma ISO
+          name: English                       # Nombre mostrado en selector
+          build: true                         # Construir esta versión
+          nav_translations:
+            Inicio: Home
+        
+        # Portugués
+        - locale: pt                          # Código de idioma ISO
+          name: Português                     # Nombre mostrado en selector
+          build: true                         # Construir esta versión
+          nav_translations:
+            Inicio: Início
 
 # Navegación del sitio
 nav:
