@@ -1,4 +1,4 @@
-# Proceso de evaluación técnica de herramientas de código abierto
+# Proceso de evaluación de herramientas de código abierto
 
 Esta guía resume el proceso de evaluación técnica para la inclusión de herramientas de código abierto en el catálogo de **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)**. En ella encontrarás el paso a paso para la publicación de herramientas desarrolladas por equipos del BID, así como el proceso de curaduría aplicado a herramientas externas. La guía detalla los criterios de evaluación, incluyendo la revisión de la documentación mínima requerida, la evaluación técnica del código, el análisis de licenciamiento y los requisitos para el ingreso al catálogo oficial. Además, describe el proceso de monitoreo posterior para garantizar la calidad y seguridad continua de las soluciones listadas.
 
@@ -18,11 +18,11 @@ La postulación de herramientas puede realizarse a través de los formularios in
 
 **Publicación de herramientas desarrolladas por el BID**
 
-El código debe estar alojado dentro de la organización de GitHub del BID (**@el-BID**). El repositorio es creado por el equipo de **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)**, a solicitud del equipo técnico, y se mantiene en modo privado hasta finalizado el proceso de evaluación técnica y aprobación interna por el Gerente del Sector. Una vez aprobado su publicación, el repositorio se hace público y se comparte una URL estable para que cualquier persona pueda clonar o descargar el código. 
+El código debe estar alojado dentro de la organización de GitHub del BID (**@el-BID**). El repositorio es creado por el equipo de **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)**, a solicitud del equipo técnico, y se mantiene en modo privado hasta finalizado el proceso de evaluación técnica y aprobación interna por el Gerente del Sector. 
 
-El equipo técnico responsable recibe acceso al repositorio para su mantenimiento continuo y la gestión de issues. Todo lo necesario para que funcione (archivos, instrucciones, etc.) debe estar visible para que otras personas puedan descargarlo y probarlo. Una vez aprobado su publicación, el repositorio se hace público y se comparte una URL estable para que cualquier persona pueda clonar o descargar el código. 
+Una vez aprobado su publicación, el repositorio se hace público y se comparte una URL estable para que cualquier persona pueda clonar o descargar el código. El equipo técnico responsable recibe acceso al repositorio para su mantenimiento continuo y la gestión de issues. 
 
-El equipo técnico responsable recibe acceso al repositorio para su mantenimiento continuo y la gestión de issues. Todo lo necesario para que funcione (archivos, instrucciones, etc.) debe estar visible para que otras personas puedan descargarlo y probarlo.
+Todo lo necesario para que funcione (archivos, instrucciones, etc.) debe estar visible para que otras personas puedan descargarlo y probarlo. 
 
 **Curaduría de herramientas externas**
 
@@ -70,7 +70,9 @@ En casos donde la herramienta necesite de datasets de entrenamiento publicados j
 
 ## Evaluación técnica
 
-Una herramienta de código abierto con buena calidad técnica no solo es más fácil de mantener, sino también más confiable y reutilizable por otros equipos. En **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)**, consideramos la calidad técnica como un requisito esencial para garantizar que las soluciones publicadas puedan ser adaptadas y aprovechadas por distintos actores del ecosistema. La calidad técnica de una herramienta digital se establece en la medida en que la escritura del código fuente y la arquitectura de la herramienta digital esté libre de fallos estructurales que puedan bloquear su uso o reutilización y que además faciliten la comprensión en la lectura y modificación del Código Fuente.
+Una herramienta de código abierto con buena calidad técnica no solo es más fácil de mantener, sino también más confiable y reutilizable por otros equipos. En **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)**, consideramos la calidad técnica como un requisito esencial para garantizar que las soluciones publicadas puedan ser adaptadas y aprovechadas por distintos actores del ecosistema. 
+
+La calidad técnica de una herramienta digital se establece en la medida en que la escritura del código fuente y la arquitectura de la herramienta digital esté libre de fallos estructurales que puedan bloquear su uso o reutilización y que además faciliten la comprensión en la lectura y modificación del Código Fuente.
 
 Como parte del proceso de evaluación, ejecutamos dos escaneos automáticos sobre el repositorio utilizando las herramientas **SonarQube Cloud** y **GitGuardian**.
 
@@ -95,7 +97,9 @@ Si el proyecto no supera la quality gate “Sonar way” de SonarQube Cloud o Gi
 
 **Monitoreo posterior a la publicación**
 
-Después de que el repositorio sea público, seguimos ejecutando los escaneos. Si, durante nuevas contribuciones, aparecen secretos expuestos (GitGuardian) o la herramienta deja de cumplir la quality gate “Sonar way” de SonarQube Cloud, enviaremos un aviso al equipo para que aplique las correcciones necesarias. Si los problemas persisten por un período prolongado o no se atienden, Código para el Desarrollo podrá sacar la herramienta de su catálogo.
+Después de que el repositorio sea público, seguimos ejecutando los escaneos. Si, durante nuevas contribuciones, aparecen secretos expuestos (GitGuardian) o la herramienta deja de cumplir la quality gate “Sonar way” de SonarQube Cloud, enviaremos un aviso al equipo para que aplique las correcciones necesarias. 
+
+Si los problemas persisten por un período prolongado o no se atienden, Código para el Desarrollo podrá sacar la herramienta de su catálogo.
 
 Para equipos del BID, si el proyecto deja de tener mantenedores, el equipo deberá informarnos para archivar el repositorio en GitHub y reflejar su estado de no mantenimiento.
 
@@ -125,6 +129,8 @@ Una vez recibida la información, el equipo de **[Código para el Desarrollo](ht
 
 En el caso de herramientas desarrolladas por equipos internos del BID, una vez aprobada la previsualización por el equipo técnico responsable, se solicitará la autorización de publicación al Gerente del Sector correspondiente. Esta solicitud será realizada por la persona responsable de la iniciativa **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)**, mediante correo electrónico institucional. Una vez recibida la aprobación, se procederá a publicar tanto la página de la herramienta en el catálogo como los repositorios asociados en la web pública.
 
-La inclusión de herramientas en el catálogo de **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)**busca fomentar la reutilización, la colaboración y la transparencia en el desarrollo digital en América Latina y el Caribe. Al compartir soluciones abiertas y de calidad, fortalecemos las capacidades técnicas de los gobiernos y promovemos un ecosistema más sostenible e innovador. Agradecemos tu interés en contribuir a esta comunidad y quedamos atentos a cualquier consulta o sugerencia que permita seguir mejorando este esfuerzo colectivo.
+La inclusión de herramientas en el catálogo de **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)**busca fomentar la reutilización, la colaboración y la transparencia en el desarrollo digital en América Latina y el Caribe. 
+
+Al compartir soluciones abiertas y de calidad, fortalecemos las capacidades técnicas de los gobiernos y promovemos un ecosistema más sostenible e innovador. Agradecemos tu interés en contribuir a esta comunidad y quedamos atentos a cualquier consulta o sugerencia que permita seguir mejorando este esfuerzo colectivo.
 
 Para más información o apoyo, puedes escribirnos a: [code@iadb.org](mailto:code@iadb.org)
