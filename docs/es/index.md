@@ -18,11 +18,11 @@ La postulación de herramientas puede realizarse a través de los formularios in
 
 **Publicación de herramientas desarrolladas por el BID**
 
-El código debe estar alojado dentro de la organización de GitHub del BID (**@el-BID**). El repositorio es creado por el equipo de **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)**, a solicitud del equipo técnico, y se mantiene en modo privado hasta finalizado el proceso de evaluación técnica y aprobación interna por el Gerente del Sector. 
+El código debe estar alojado dentro de la organización de GitHub del BID (**@el-BID**). El repositorio es creado por el equipo de **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)**,  a solicitud del equipo técnico responsable, que recibe acceso al repositorio para su mantenimiento continuo y la gestión de issues. Este se mantiene en modo privado hasta finalizado el proceso de evaluación técnica y aprobación interna por el Gerente del Sector.
 
-Una vez aprobado su publicación, el repositorio se hace público y se comparte una URL estable para que cualquier persona pueda clonar o descargar el código. El equipo técnico responsable recibe acceso al repositorio para su mantenimiento continuo y la gestión de issues. 
+Una vez aprobado su publicación, el repositorio se hace público y se comparte una URL estable para que cualquier persona pueda clonar o descargar el código.
 
-Todo lo necesario para que funcione (archivos, instrucciones, etc.) debe estar visible para que otras personas puedan descargarlo y probarlo. 
+Todo lo necesario para que funcione (archivos, instrucciones, etc.) debe estar visible para que otras personas puedan descargarlo y probarlo.
 
 **Curaduría de herramientas externas**
 
