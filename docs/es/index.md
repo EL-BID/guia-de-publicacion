@@ -9,9 +9,9 @@ Para cualquier duda, puedes contactar al equipo de Código para el Desarrollo: *
 
 La postulación de herramientas puede realizarse a través de los formularios indicados a continuación. En ellos encontrarás campos para compartir el repositorio de la herramienta, así como la información esencial sobre su funcionalidad, licenciamiento y estado de desarrollo.
 
-- **EN** | [Formulario en inglés](https://cloud.mail.iadb.org/code4dev-share-code?page=SYC&UTMM=Organic&UTMS=&Lang=EN)
-- **ES** | [Formulario en español](https://cloud.mail.iadb.org/code4dev-share-code?page=SYC&UTMM=Organic&UTMS=&Lang=ES)
-- **PT** | [Formulario en portugués](https://cloud.mail.iadb.org/code4dev-share-code?page=SYC&UTMM=Organic&UTMS=&Lang=PT)
+- **EN** | [Formulario en inglés](https://airtable.com/appqBwYkYJ59bamQ1/pagwBOJH5bcYZRRe7/form)
+- **ES** | [Formulario en español](https://airtable.com/appqBwYkYJ59bamQ1/pagcmwH1ayDUY9OIR/form)
+- **PT** | [Formulario en portugués](https://airtable.com/appqBwYkYJ59bamQ1/pagxaSflR1GbhUmpy/form)
 
 
 ## Repositorio del código fuente
@@ -119,9 +119,9 @@ Las herramientas propuestas por equipos externos deben estar licenciadas bajo un
 
 Para crear la página de una herramienta en el catálogo oficial de Código para el Desarrollo, es necesario completar el siguiente formulario:
 
-- **EN** | [Formulario en inglés](https://cloud.mail.iadb.org/code4dev-share-code?page=SYC&UTMM=Organic&UTMS=&Lang=EN)
-- **ES** | [Formulario en español](https://cloud.mail.iadb.org/code4dev-share-code?page=SYC&UTMM=Organic&UTMS=&Lang=ES)
-- **PT** | [Formulario en portugués](https://cloud.mail.iadb.org/code4dev-share-code?page=SYC&UTMM=Organic&UTMS=&Lang=PT)
+- **EN** | [Formulario en inglés](https://airtable.com/appqBwYkYJ59bamQ1/pagwBOJH5bcYZRRe7/form)
+- **ES** | [Formulario en español](https://airtable.com/appqBwYkYJ59bamQ1/pagcmwH1ayDUY9OIR/form)
+- **PT** | [Formulario en portugués](https://airtable.com/appqBwYkYJ59bamQ1/pagxaSflR1GbhUmpy/form)
 
 Una vez recibida la información, el equipo de **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)** generará una previsualización de la página de la herramienta en el catálogo. Esta será enviada al equipo responsable para su revisión. En caso de requerir ajustes, se podrán realizar antes de su publicación. Si no se reciben comentarios, se procederá a hacer pública la página correspondiente.
 
