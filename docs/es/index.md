@@ -1,6 +1,6 @@
 # Proceso de evaluación de herramientas de código abierto
 
-Esta guía resume el proceso de evaluación técnica para la inclusión de herramientas de código abierto en el catálogo de **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)**. En ella encontrarás el paso a paso para la publicación de herramientas desarrolladas por equipos del BID, así como el proceso de curaduría aplicado a herramientas externas. La guía detalla los criterios de evaluación, incluyendo la revisión de la documentación mínima requerida, la evaluación técnica del código, el análisis de licenciamiento y los requisitos para el ingreso al catálogo oficial. Además, describe el proceso de monitoreo posterior para garantizar la calidad y seguridad continua de las soluciones listadas.
+Esta guía resume el proceso de evaluación para la inclusión de herramientas de código abierto en el catálogo de **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)**. En ella encontrarás el paso a paso para la publicación de herramientas desarrolladas por equipos del BID, así como el proceso de curaduría aplicado a herramientas externas. La guía detalla los criterios de evaluación, incluyendo la revisión de la documentación mínima requerida, la evaluación técnica del código, el análisis de licenciamiento y los requisitos para el ingreso al catálogo oficial. Además, describe el proceso de monitoreo posterior para garantizar la calidad y seguridad continua de las soluciones listadas.
 
 Para cualquier duda, puedes contactar al equipo de Código para el Desarrollo: **[code@iadb.org](mailto:code@iadb.org)**
 
@@ -129,7 +129,7 @@ Una vez recibida la información, el equipo de **[Código para el Desarrollo](ht
 
 En el caso de herramientas desarrolladas por equipos internos del BID, una vez aprobada la previsualización por el equipo técnico responsable, se solicitará la autorización de publicación al Gerente del Sector correspondiente. Esta solicitud será realizada por la persona responsable de la iniciativa **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)**, mediante correo electrónico institucional. Una vez recibida la aprobación, se procederá a publicar tanto la página de la herramienta en el catálogo como los repositorios asociados en la web pública.
 
-La inclusión de herramientas en el catálogo de **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)**busca fomentar la reutilización, la colaboración y la transparencia en el desarrollo digital en América Latina y el Caribe. 
+La inclusión de herramientas en el catálogo de **[Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo)** busca fomentar la reutilización, la colaboración y la transparencia en el desarrollo digital en América Latina y el Caribe. 
 
 Al compartir soluciones abiertas y de calidad, fortalecemos las capacidades técnicas de los gobiernos y promovemos un ecosistema más sostenible e innovador. Agradecemos tu interés en contribuir a esta comunidad y quedamos atentos a cualquier consulta o sugerencia que permita seguir mejorando este esfuerzo colectivo.
 
