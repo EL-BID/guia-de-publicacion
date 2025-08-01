@@ -16,7 +16,7 @@ A submissão de ferramentas pode ser feita por meio dos formulários indicados a
 
 **Publicação de ferramentas desenvolvidas pelo BID**
 
-O código deve estar hospedado na organização do GitHub do BID (**@el-BID**). O repositório é criado pela equipe do **[Código para o Desenvolvimento](https://knowledge.iadb.org/pt-br/codigo-para-o-desenvolvimento)**, mediante solicitação da equipe técnica responsável, que recebe acesso ao repositório para sua manutenção contínua e gestão de issues. O repositório permanece privado até a finalização da avaliação técnica e a aprovação interna pelo Gerente do Setor.
+O código deve estar hospedado na organização do GitHub do BID **([@el-BID](https://github.com/EL-BID))**. O repositório é criado pela equipe do **[Código para o Desenvolvimento](https://knowledge.iadb.org/pt-br/codigo-para-o-desenvolvimento)**, mediante solicitação da equipe técnica responsável, que recebe acesso ao repositório para sua manutenção contínua e gestão de issues. O repositório permanece privado até a finalização da avaliação técnica e a aprovação interna pelo Gerente do Setor.
 
 Após aprovação, o repositório é tornado público e compartilhado com uma URL estável, permitindo que qualquer pessoa clone ou baixe o código.
 
@@ -115,7 +115,7 @@ Para criar a página da ferramenta no catálogo do Código para o Desenvolviment
 
 Após o recebimento das informações, a equipe do Código para o Desenvolvimento irá gerar uma pré-visualização da página da ferramenta no catálogo. Esta será enviada à equipe responsável para revisão. Caso sejam necessários ajustes, eles poderão ser feitos antes da publicação. Se não houver comentários, a página será tornada pública. 
 
-## Publicação de ferramentas desenvolvidas pelo BID 
+**Publicação de ferramentas desenvolvidas pelo BID** 
 
 No caso de ferramentas desenvolvidas por equipes internas do BID, uma vez aprovada a pré-visualização pela equipe técnica responsável, será solicitada a autorização de publicação ao Gerente do Setor correspondente. Essa solicitação será feita pela pessoa responsável pela iniciativa **[Código para o Desenvolvimento](https://knowledge.iadb.org/pt-br/codigo-para-o-desenvolvimento)**, por meio de e-mail institucional. Uma vez recebida a aprovação, será realizada a publicação da página da ferramenta no catálogo e dos repositórios associados na web pública. 
 
