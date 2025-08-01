@@ -30,8 +30,7 @@ The code can be hosted on any Git-based collaborative platform (such as GitHub, 
 
 Typically found in the `README.md` file, the documentation should explain the tool’s purpose, how it works, and how to reuse or adapt it. It may also be hosted on sites like ReadTheDocs, GitHub Pages, or Bookdown, but must be referenced in the README.
 
-Code for Development provides a template you can use as a starting point:  
-[https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md)
+Code for Development provides a template you can use as a starting point: [https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md)
 
 The most common necessary sections in a README include: 
 
