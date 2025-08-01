@@ -97,11 +97,11 @@ Se os problemas persistirem por um período prolongado ou não forem resolvidos,
 
 As ferramentas incluídas no catálogo não devem conter componentes com licenças privadas ou comerciais. É fundamental garantir que todo o código, incluindo bibliotecas, modelos e dependências, possa ser compartilhado, reutilizado e modificado livremente. Se uma ferramenta incorporar elementos que não permitem sua livre distribuição (por exemplo, software proprietário, modelos de análise fechados ou bibliotecas com restrições), ela não poderá ser considerada uma solução de código aberto. Caso utilize outros recursos ou ferramentas de terceiros, é necessário mencionar suas licenças e garantir que sejam compatíveis com a publicação aberta.  
 
-**Publicação de ferramentas desenvolvidas pelo BID **
+**Publicação de ferramentas desenvolvidas pelo BID**
 
 As equipes internas do BID podem optar por licenciar suas ferramentas sob a licença institucional do BID AM-331-A3 ou sob uma licença de código aberto aprovada pela **[Open Source Initiative (OSI)](https://opensource.org/licenses)**. As licenças mais comumente utilizadas são MIT, Apache 2.0 e GPL. 
 
-**Curadoria de ferramentas externas **
+**Curadoria de ferramentas externas**
 
 As ferramentas propostas por equipes externas devem estar licenciadas sob uma licença de código aberto certificada pela **[Open Source Initiative (OSI)](https://opensource.org/licenses)**, o que garante sua disponibilidade para uso, modificação e redistribuição sem restrições indevidas. 
 
