@@ -100,7 +100,7 @@ Tools included in the catalog must not contain components with private or commer
 
 **Publishing Tools Developed by the IDB**
 
-IDB teams may license their tools under the institutional IDB license [AM-331-A3](https://github.com/EL-BID/IDB-License/blob/main/LICENSE-ENG.md) or under an open-source license approved by the **[Open-Source Initiative (OSI)](https://opensource.org/licenses)**. The most commonly used licenses are MIT, Apache 2.0, and GPL. 
+IDB teams may license their tools under [IDB Open Source Software License](https://github.com/EL-BID/IDB-License/blob/main/LICENSE-ENG.md) or under an open-source license approved by the **[Open-Source Initiative (OSI)](https://opensource.org/licenses)**. The most commonly used licenses are MIT, Apache 2.0, and GPL. 
 
 **Curation of External Tools** 
 
