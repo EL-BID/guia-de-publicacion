@@ -109,7 +109,7 @@ Las herramientas incluidas en el catálogo no deben contener componentes con lic
 
 **Publicación de herramientas desarrolladas por el BID**
 
-Los equipos internos del BID pueden optar por licenciar sus herramientas bajo la licencia institucional del BID AM-331-A3 o bajo una licencia de código abierto aprobada por la [Open Source Initiative (OSI)](https://opensource.org/licenses%22%20/t%20%22_new). Las licencias más comúnmente utilizadas son MIT, Apache 2.0 y GPL.
+Los equipos internos del BID pueden optar por licenciar sus herramientas bajo la licencia institucional del BID [AM-331-A3](https://github.com/EL-BID/IDB-License/blob/main/LICENSE-ESP.md) o bajo una licencia de código abierto aprobada por la [Open Source Initiative (OSI)](https://opensource.org/licenses%22%20/t%20%22_new). Las licencias más comúnmente utilizadas son MIT, Apache 2.0 y GPL.
 
 **Curaduría de herramientas externas**
 
