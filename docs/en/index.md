@@ -118,7 +118,7 @@ Once the information is received, the Code for Development team will generate a 
 
 **Publishing Tools Developed by the IDB**
 
-For tools developed by internal IDB teams, once the preview is approved by the technical team, the Sector Manager’s publication authorization will be requested by the person responsible for the **[Code for Development](https://knowledge.iadb.org/en/code-development)** initiative via institutional email. Once approval is received, both the catalog page and the associated repositories will be published on the public web. 
+In the case of tools developed by internal IDB teams, once the preview has been approved by the responsible technical team, authorization for publication will be requested from the heads of the division/unit, both for publishing the tool's code and for the chosen open-source license. This request will be made by the person responsible for the Code for Development initiative via institutional email. Once approval is received, the tool's page will be published in the catalog, and the associated repositories will be published on the public website.
 
 The **[Code for Development](https://knowledge.iadb.org/en/code-development)** catalog aims to promote reuse, collaboration, and transparency in digital development across Latin America and the Caribbean. 
 
