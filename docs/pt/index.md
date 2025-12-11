@@ -117,7 +117,7 @@ Após o recebimento das informações, a equipe do Código para o Desenvolviment
 
 **Publicação de ferramentas desenvolvidas pelo BID** 
 
-No caso de ferramentas desenvolvidas por equipes internas do BID, uma vez aprovada a pré-visualização pela equipe técnica responsável, será solicitada a autorização de publicação ao Gerente do Setor correspondente. Essa solicitação será feita pela pessoa responsável pela iniciativa **[Código para o Desenvolvimento](https://knowledge.iadb.org/pt-br/codigo-para-o-desenvolvimento)**, por meio de e-mail institucional. Uma vez recebida a aprovação, será realizada a publicação da página da ferramenta no catálogo e dos repositórios associados na web pública. 
+No caso de ferramentas desenvolvidas por equipes internas do BID, após a aprovação da prévia pela equipe técnica responsável, será solicitada autorização para publicação aos chefes da divisão/unidade, tanto para a publicação do código da ferramenta quanto para a licença de código aberto escolhida. Essa solicitação será feita pelo responsável pela iniciativa Código para Desenvolvimento por meio de e-mail institucional. Após a aprovação, a página da ferramenta será publicada no catálogo e os repositórios associados serão publicados no site público. 
 
 A inclusão de ferramentas no catálogo do **[Código para o Desenvolvimento](https://knowledge.iadb.org/pt-br/codigo-para-o-desenvolvimento)** busca promover a reutilização, a colaboração e a transparência no desenvolvimento digital na América Latina e no Caribe. 
 
