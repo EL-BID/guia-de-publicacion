@@ -8,8 +8,8 @@ Em caso de dúvidas, entre em contato com a equipe do Código para o Desenvolvim
 
 A submissão de ferramentas pode ser feita por meio dos formulários indicados abaixo. Neles, você encontrará campos para compartilhar o repositório da ferramenta, bem como informações essenciais sobre sua funcionalidade, licenciamento e estado de desenvolvimento:
 
-- **EN** | [Formulário em inglês](https://airtable.com/appqBwYkYJ59bamQ1/pagwBOJH5bcYZRRe7/form)
-- **ES** | [Formulário em espanhol](https://airtable.com/appqBwYkYJ59bamQ1/pagcmwH1ayDUY9OIR/form)
+- **EN** | [Formulário em inglês](https://airtable.com/appqBwYkYJ59bamQ1/pagcmwH1ayDUY9OIR/form)
+- **ES** | [Formulário em espanhol](https://airtable.com/appqBwYkYJ59bamQ1/pagwBOJH5bcYZRRe7/form)
 - **PT** | [Formulário em português](https://airtable.com/appqBwYkYJ59bamQ1/pagxaSflR1GbhUmpy/form)
 
 ## Repositório do Código-Fonte
@@ -109,8 +109,8 @@ As ferramentas propostas por equipes externas devem estar licenciadas sob uma li
 
 Para criar a página da ferramenta no catálogo do Código para o Desenvolvimento, é necessário preencher o seguinte formulário: 
 
-- **EN** | [Formulário em inglês](https://airtable.com/appqBwYkYJ59bamQ1/pagwBOJH5bcYZRRe7/form)
-- **ES** | [Formulário em espanhol](https://airtable.com/appqBwYkYJ59bamQ1/pagcmwH1ayDUY9OIR/form)
+- **EN** | [Formulário em inglês](https://airtable.com/appqBwYkYJ59bamQ1/pagcmwH1ayDUY9OIR/form)
+- **ES** | [Formulário em espanhol](https://airtable.com/appqBwYkYJ59bamQ1/pagwBOJH5bcYZRRe7/form)
 - **PT** | [Formulário em português](https://airtable.com/appqBwYkYJ59bamQ1/pagxaSflR1GbhUmpy/form)
 
 Após o recebimento das informações, a equipe do Código para o Desenvolvimento irá gerar uma pré-visualização da página da ferramenta no catálogo. Esta será enviada à equipe responsável para revisão. Caso sejam necessários ajustes, eles poderão ser feitos antes da publicação. Se não houver comentários, a página será tornada pública. 
