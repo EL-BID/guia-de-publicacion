@@ -6,6 +6,7 @@ site_url: https://el-bid.github.io/guia-de-publicacion/
 # Configuration
 theme:
   name: material
+  custom_dir: docs/overrides
   features:
     - navigation.tabs
     - navigation.sections
